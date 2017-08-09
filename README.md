@@ -64,13 +64,11 @@
 <li>OR - pdxstartups - https://pdxstartups.slack.com/messages/C0AL5389X/</li>
 <li>UT - UtahJS - https://utahjavascript.slack.com/</li>
 <li>WA - Tech Seattle - https://techseattle.slack.com/messages/C045K4QLR/</li>
-
-
+</ol>
 
 
 <h3>Canada</h3>
 <ol>
 <li>ON - Ottawa Startups - https://ottawastartups.slack.com/messages/C0408SPU4/</li>
 <li>ON - Toronto - Startup6ix - http://startup6ix.com/</li>
-<ol>
-
+</ol>
