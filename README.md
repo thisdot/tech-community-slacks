@@ -7,11 +7,12 @@ New England
 
 The Mid-Atlantic
 	(Delaware, Maryland, New Jersey, New York, Pennsylvania, Washington D.C.)
-DC -  DC Tech Slack - https://dctech.slack.com/
-NY - BoroJS - https://borojs.slack.com/
-NY - NYCTech - https://nyctech.slack.com/messages/C037T0K3D/
-PA - Philly Startup Leaders - https://phillystartupleaders.slack.com/messages/C03DP9M5Y/
-
+<ol>    
+<li>DC -  DC Tech Slack - https://dctech.slack.com/</li>
+<li>NY - BoroJS - https://borojs.slack.com/</li>
+<li>NY - NYCTech - https://nyctech.slack.com/messages/C037T0K3D/</li>
+<li>PA - Philly Startup Leaders - https://phillystartupleaders.slack.com/messages/C03DP9M5Y/</li>
+</ol>
 
 The Midwest
 	(Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin)
