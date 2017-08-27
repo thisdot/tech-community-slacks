@@ -1,4 +1,4 @@
-                 <h1>List of Slack Channels for local communities by region</h1>
+                 <center><h1>List of Slack Channels for local communities by region</h1></center>
 
 
 <h3>For Mid-Atlantic</h3>
@@ -33,6 +33,7 @@
     	<li><a href="http://orlandodevs.slack.com/">Orlando Devs</a></li>
     	<li><a href="https://suncoast-devs.slack.com/">Suncoast Developers Guild</a></li>
 	</ol>
+</li>	
 <li>GA - <a href="http://tech404.slack.com/">Tech 404</a></li>
 <li>KY - <a href="https://louisville.slack.com/">Louisville.io</a></li>
 <li>NC - <a href="Triangle Devs - https://triangledevs.slack.com/">Triangle Devs</a></li>
@@ -61,6 +62,7 @@
 		<li><a href="http://portland-reactjs.slack.com/">Portland ReactJS</a></li>
 		<li><a href="https://pdxstartups.slack.com/messages/C0AL5389X/">pdxstartups</a></li>
 	</ol>
+</li>	
 <li>UT - <a href="https://utahjavascript.slack.com/">UtahJS </a></li>
 <li>WA - <a href="https://techseattle.slack.com/messages/C045K4QLR/">Tech Seattle</a></li>
 </ul>
@@ -119,3 +121,6 @@
 <li><a href="https://womenintech.slack.com/">Women in Tech</a></li>
 
 </ul>
+
+	
+
