@@ -1,6 +1,7 @@
-                 <center><h1>List of Slack Channels for local communities by region</h1></center>
+                 
+				 
 
-
+<center><h1>List of Slack Channels for local communities by region</h1></center>
 <h3>For Mid-Atlantic</h3>
 <p>If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washington D.C., it is worth taking a look at these channels:
 </p>
@@ -28,15 +29,15 @@
 <ul>
 <li>AL - <a href="https://magiccitytech.slack.com/messages/C03P5NUL5/">Magic City Tech</a></li>
 <li>FL - in Florida we have: 
-	<ol>
+	<ul>
 		<li><a href="https://gnvconnect.slack.com/messages/C03TQPGB8/">GNV Connect</a></li>
     	<li><a href="http://orlandodevs.slack.com/">Orlando Devs</a></li>
     	<li><a href="https://suncoast-devs.slack.com/">Suncoast Developers Guild</a></li>
-	</ol>
+	</ul>
 </li>	
 <li>GA - <a href="http://tech404.slack.com/">Tech 404</a></li>
 <li>KY - <a href="https://louisville.slack.com/">Louisville.io</a></li>
-<li>NC - <a href="Triangle Devs - https://triangledevs.slack.com/">Triangle Devs</a></li>
+<li>NC - <a href="https://triangledevs.slack.com/">Triangle Devs</a></li>
 <li>SC - <a href="https://charlestontechslack.slack.com/messages/C070AT2P5/">Charleston Tech</a></li>
 <li>TN - <a href="http://memtech.slack.com/">MTF Slack</a></li>
 <li>TN - <a href="https://nashdev.slack.com/">NashDev</a></li>
@@ -56,12 +57,12 @@
 <ul>
 <li>CO - <a href="http://denver-devs.slack.com/">Denver Devs</a></li>
 <li>OR - in Oregon there are several channels:
-	<ol>
+	<ul>
 		<li><a href="http://infiniteredcommunity.slack.com/">Infinite Red Community</a></li>
 		<li><a href="http://nodepdx.slack.com/">Node PDX </a></li>
 		<li><a href="http://portland-reactjs.slack.com/">Portland ReactJS</a></li>
 		<li><a href="https://pdxstartups.slack.com/messages/C0AL5389X/">pdxstartups</a></li>
-	</ol>
+	</ul>
 </li>	
 <li>UT - <a href="https://utahjavascript.slack.com/">UtahJS </a></li>
 <li>WA - <a href="https://techseattle.slack.com/messages/C045K4QLR/">Tech Seattle</a></li>
