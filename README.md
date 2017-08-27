@@ -1,4 +1,4 @@
-                 <center><h1>List of Slack Channels for local communities by region</h1></center>
+                 <h1>List of Slack Channels for local communities by region</h1>
 
 
 <h3>For Mid-Atlantic</h3>
