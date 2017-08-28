@@ -116,6 +116,7 @@
 <li><a href="https://learncoding.slack.com/messages/C04G48BKC/">Learn Coding</a></li>
 <li><a href="https://msdevchat.slack.com/">Microsoft Developer Chat</a></li>
 <li><a href="https://mrfrontend.slack.com/messages/C0PFTBYL9/">Mr Frontend</a></li>
+<li><a href="https://nativescriptcommunity.slack.com/">NativeScript</a></li>
 <li><a href="https://node-js.slack.com/messages/C3910A78T/">Node.JS</a></li>
 <li><a href="https://pythondev.slack.com/messages/C07EFBK3R/">Python developers</a></li>
 <li><a href="https://reactjsnews.slack.com/messages/C044HMK8N/">ReactJS</a></li>
