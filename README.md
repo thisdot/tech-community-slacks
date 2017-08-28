@@ -77,9 +77,10 @@
 
 <h3>Canada</h3>
 <ul>
+<li>BC - <a href="https://yvrdev.herokuapp.com/">Vancouver Developers (YVR Dev)</a></li>
 <li>ON - <a href="https://ottawastartups.slack.com/messages/C0408SPU4/">Ottawa Startups</a></li>
 <li>ON - <a href="http://startup6ix.com/">Startup6ix </a>in Toronto</li>
-<li>ON - <a href="http://yowdev-slackin.herokuapp.com//">YOWDev</a> Ottawa</li>	
+<li>ON - <a href="http://yowdev-slackin.herokuapp.com/">YOWDev</a> Ottawa</li>	
 </ul>
 
 <h3>Bonus channels</h3>
