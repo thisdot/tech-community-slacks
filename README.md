@@ -65,9 +65,15 @@
 	</ul>
 </li>	
 <li>UT - <a href="https://utahjavascript.slack.com/">UtahJS </a></li>
-<li>WA - <a href="https://techseattle.slack.com/messages/C045K4QLR/">Tech Seattle</a></li>
+<li>WA - in Washington there are several channels:
+	<ul>
+		<li><a href="https://seattledesigners.slack.com">Seattle Designers</a></li>
+		<li><a href="https://seattlerbslack.herokuapp.com/">Seattle.rb</a></li>
+		<li><a href="https://seattlejshackers.slack.com">Seattle JS Hackers</a></li>
+		<li><a href="https://techseattle.slack.com/messages/C045K4QLR/">Tech Seattle</a></li>
+	</ul>
+</li>
 </ul>
-
 
 <h3>Canada</h3>
 <ul>
@@ -82,6 +88,7 @@
 </p>
 
 <ul>
+<li><a href="https://web-a11y.herokuapp.com/">a11y</a></li>
 <li><a href="https://babeljs.slack.com/messages/C062LA0HE/">BabeJS</a></li>
 <li><a href="http://beerjs.slack.com/">BeerJS</a></li>
 <li><a href="https://clojurians.slack.com/messages/C06MAR553/">clojurians</a></li>
@@ -98,6 +105,7 @@
 <li><a href="https://europeandevexplorer.typeform.com/to/MC3qnG">European and Dev Explorer</a></li>
 <li><a href="https://feds.slack.com/">FEDs on Slack</a></li>
 <li><a href="https://functionalprogramming.slack.com/messages/C0432GV99/">FPChat</a></li>
+<li><a href="https://framer-slack-signup.herokuapp.com/">Framer</a></li>
 <li><a href="https://gophers.slack.com/messages/C029WKFFW/">Gophers</a></li>
 <li><a href="https://karangoel.typeform.com/to/mEl3P9">HackerX</a></li>
 <li><a href="https://hashtagfed.slack.com/messages/C0662FPH8/">Hashtag Developers</a></li>
