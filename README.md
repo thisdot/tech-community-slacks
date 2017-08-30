@@ -94,6 +94,11 @@
 <li><a href="https://friends.hasgeek.com/">Friends of HasGeek</a> <a href="https://hasgeek.com/">(HasGeek</a> runs a variety of tech events primarily in Bangalore, but not limited to it) </li>
 </ul>
 
+<h3>Finland</h3>
+<ul>
+<li><a href="https://koodiklinikka.fi/">Koodiklinikka</a> a finnish developer slack community that has over 1024 registered members</li>
+</ul>
+
 <h3>France</h3>
 <ul>
 <li>Alsace - <a href="https://geekdpt.io">GeekDpt </a>in Strasbourg (but not limited to the region)</li>
