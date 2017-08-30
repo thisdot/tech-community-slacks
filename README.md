@@ -91,12 +91,17 @@
 
 <h3>India</h3>
 <ul>
-<li><a href="https://friends.hasgeek.com/">Friends of HasGeek</a> <a href="https://hasgeek.com/">(HasGeek</a> runs a variety of tech events primarily in Bangalore, but not limited to it) </li>
+<li><a href="https://friends.hasgeek.com/">Friends of HasGeek</a> (<a href="https://hasgeek.com/">HasGeek</a> runs a variety of tech events primarily in Bangalore, but not limited to it) </li>
 </ul>
 
 <h3>France</h3>
 <ul>
 <li>Alsace - <a href="https://geekdpt.io">GeekDpt </a>in Strasbourg (but not limited to the region)</li>
+</ul>
+
+<h3>Poland</h3>
+<ul>
+<li>Wroclaw - <a href="https://slack.callstack.io">Callstack Open Source</a></li>
 </ul>
 
 <h3>Bonus channels</h3>
