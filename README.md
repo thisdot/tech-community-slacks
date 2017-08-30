@@ -141,6 +141,7 @@
 <li><a href="https://nativescriptcommunity.slack.com/">NativeScript</a></li>
 <li><a href="https://node-js.slack.com/messages/C3910A78T/">Node.JS</a></li>
 <li><a href="https://pythondev.slack.com/messages/C07EFBK3R/">Python developers</a></li>
+<li><a href="https://www.reactiflux.com/">Reactiflux</a></li>
 <li><a href="https://reactjsnews.slack.com/messages/C044HMK8N/">ReactJS</a></li>
 <li><a href="https://rubydevelopers.slack.com/">Ruby Developers</a></li>
 <li><a href="https://rubyonrails-link.slack.com/">Ruby on Rails</a></li>
