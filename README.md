@@ -89,6 +89,11 @@
 <li><a href="https://friends.hasgeek.com/">Friends of HasGeek</a> <a href="https://hasgeek.com/">(HasGeek</a> runs a variety of tech events primarily in Bangalore, but not limited to it) </li>
 </ul>
 
+<h3>France</h3>
+<ul>
+<li>Alsace - <a href="https://geekdpt.io">GeekDpt </a>in Strasbourg (but not limited to the region)</li>
+</ul>
+
 <h3>Bonus channels</h3>
 <h4>General Tech Slack Communities</h4>
 <p>Below are some other interesting Slack channels for different technologies and programming languages that welcome anybody worldwide:
