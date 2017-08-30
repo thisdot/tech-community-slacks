@@ -19,7 +19,12 @@
 
 <li>MI - <a href="https://charlestontechslack.slack.com/messages/C070AT2P5/">Startup Lansing</a> in St.Louis</li>
 <li>MO - <a href="https://stl-tech.slack.com/">STL Tech</a></li>
-<li>OH - <a href="https://techlife-columbus.slack.com/messages/@slackbot/">TechLife Columbus</a></li>
+<li>OH - in Ohio there are several channels:
+	<ul>
+		<li><a href="https://techlife-columbus.slack.com/messages/@slackbot/">TechLife Columbus</a></li>
+		<li><a href="https://cleveland-tech.herokuapp.com/">Cleveland Tech</a></li>
+	</ul>
+</li>
 <li> Midwest - <a href="http://midwestdevchat.slack.com/">The Midwest Dev Chat</a></li>
 </ul>
 
