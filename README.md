@@ -96,6 +96,7 @@
 
 <h3>Finland</h3>
 <ul>
+<li><a href="https://www.angular.fi/">Angular Finland</a> community w/ Slack mostly targeted for Finnish Angular enthuasists, but also international discussion.</li>
 <li><a href="https://koodiklinikka.fi/">Koodiklinikka</a> a finnish developer slack community that has over 1024 registered members</li>
 </ul>
 
