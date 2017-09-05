@@ -103,6 +103,7 @@
 <h3>France</h3>
 <ul>
 <li>Alsace - <a href="https://geekdpt.io">GeekDpt </a>in Strasbourg (but not limited to the region)</li>
+<li>Alsace - <a href="http://elsass-dev.fr">Elsass-dev </a> (ping <a href="https://github.com/xtuc">@xtuc</a> to get an invite)</li>
 </ul>
 
 <h3>Poland</h3>
