@@ -87,6 +87,7 @@
 <li>ON - <a href="http://startup6ix.com/">Startup6ix </a>in Toronto</li>
 <li>ON - <a href="http://yowdev-slackin.herokuapp.com/">YOWDev</a> Ottawa</li>
 <li>ON - <a href="http://codepen-ott.herokuapp.com/">CodePen Ottawa</a> Ottawa</li>
+<li>QC - <a href="http://sketchmtl.now.sh/">Sketch MTL</a> Montreal</li>
 </ul>
 
 <h3>India</h3>
