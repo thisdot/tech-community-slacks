@@ -1,5 +1,5 @@
-                 
-				 
+
+
 
 <center><h1>List of Slack Channels for local communities by region</h1></center>
 <h3>For Mid-Atlantic</h3>
@@ -33,13 +33,13 @@
 </p>
 <ul>
 <li>AL - <a href="https://magiccitytech.slack.com/messages/C03P5NUL5/">Magic City Tech</a></li>
-<li>FL - in Florida we have: 
+<li>FL - in Florida we have:
 	<ul>
 		<li><a href="https://gnvconnect.slack.com/messages/C03TQPGB8/">GNV Connect</a></li>
     	<li><a href="http://orlandodevs.slack.com/">Orlando Devs</a></li>
     	<li><a href="https://suncoast-devs.slack.com/">Suncoast Developers Guild</a></li>
 	</ul>
-</li>	
+</li>
 <li>GA - <a href="http://tech404.slack.com/">Tech 404</a></li>
 <li>KY - <a href="https://louisville.slack.com/">Louisville.io</a></li>
 <li>NC - <a href="https://triangledevs.slack.com/">Triangle Devs</a></li>
@@ -68,7 +68,7 @@
 		<li><a href="http://portland-reactjs.slack.com/">Portland ReactJS</a></li>
 		<li><a href="https://pdxstartups.slack.com/messages/C0AL5389X/">pdxstartups</a></li>
 	</ul>
-</li>	
+</li>
 <li>UT - <a href="https://utahjavascript.slack.com/">UtahJS </a></li>
 <li>WA - in Washington there are several channels:
 	<ul>
@@ -108,6 +108,11 @@
 <h3>Poland</h3>
 <ul>
 <li>Wroclaw - <a href="https://slack.callstack.io">Callstack Open Source</a></li>
+</ul>
+
+<h3>Romania</h3>
+<ul>
+<li>tim.js - <a href="https://timjs.slack.com">tim.js, the Timișoara JavaScript Meetup Channel</a></li>
 </ul>
 
 <h3>Bonus channels</h3>
@@ -165,6 +170,3 @@
 <li><a href="https://vuejs-brasil.slack.com/">VueJs Brasil (in Portuguese)</a></li>
 <li><a href="https://javadevbr.slack.com/">Java Dev BR (in Portuguese)</a></li>
 </ul>
-
-	
-
