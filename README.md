@@ -111,6 +111,11 @@
 <li>Wroclaw - <a href="https://slack.callstack.io">Callstack Open Source</a></li>
 </ul>
 
+<h3>UK</h3>
+<ul>
+<li>London - <a href="http://frontendlondon-slack.herokuapp.com/">Front End London</a></li>
+</ul>
+
 <h3>Bonus channels</h3>
 <h4>General Tech Slack Communities</h4>
 <p>Below are some other interesting Slack channels for different technologies and programming languages that welcome anybody worldwide:
