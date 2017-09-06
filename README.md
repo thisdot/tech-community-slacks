@@ -87,6 +87,7 @@
 <li>ON - <a href="http://startup6ix.com/">Startup6ix </a>in Toronto</li>
 <li>ON - <a href="http://yowdev-slackin.herokuapp.com/">YOWDev</a> Ottawa</li>
 <li>ON - <a href="http://codepen-ott.herokuapp.com/">CodePen Ottawa</a> Ottawa</li>
+<li>QC - <a href="http://sketchmtl.now.sh/">Sketch MTL</a> Montreal</li>
 </ul>
 
 <h3>India</h3>
@@ -103,6 +104,7 @@
 <h3>France</h3>
 <ul>
 <li>Alsace - <a href="https://geekdpt.io">GeekDpt </a>in Strasbourg (but not limited to the region)</li>
+<li>Alsace - <a href="http://elsass-dev.fr">Elsass-dev </a> (ping <a href="https://github.com/xtuc">@xtuc</a> to get an invite)</li>
 </ul>
 
 <h3>Poland</h3>
@@ -113,6 +115,11 @@
 <h3>Romania</h3>
 <ul>
 <li>tim.js - <a href="https://timjs.slack.com">tim.js, the Timișoara JavaScript Meetup Channel</a></li>
+</ul>
+
+<h3>UK</h3>
+<ul>
+<li>London - <a href="http://frontendlondon-slack.herokuapp.com/">Front End London</a></li>
 </ul>
 
 <h3>Bonus channels</h3>
