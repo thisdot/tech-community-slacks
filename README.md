@@ -25,6 +25,7 @@
 		<li><a href="https://cleveland-tech.herokuapp.com/">Cleveland Tech</a></li>
 	</ul>
 </li>
+<li>WI - <a href="https://madisoncommunity.azurewebsites.net/">Madison Community</a></li>
 <li> Midwest - <a href="http://midwestdevchat.slack.com/">The Midwest Dev Chat</a></li>
 </ul>
 
@@ -108,6 +109,11 @@
 <li>Alsace - <a href="http://elsass-dev.fr">Elsass-dev </a> (ping <a href="https://github.com/xtuc">@xtuc</a> to get an invite)</li>
 </ul>
 
+<h3>Norway</h3>
+<ul>
+<li>Oslo - <a href="https://mobileera.herokuapp.com/">Mobile Era</a></li>
+</ul>
+
 <h3>Poland</h3>
 <ul>
 <li>Wroclaw - <a href="https://slack.callstack.io">Callstack Open Source</a></li>
@@ -131,8 +137,10 @@
 <ul>
 <li><a href="https://web-a11y.herokuapp.com/">a11y</a></li>
 <li><a href="https://slackin.angularbeers.org/">Angular Beers</a></li>
+<li><a href="https://angularchat.co/">Angular Chat</a></li>
 <li><a href="https://babeljs.slack.com/messages/C062LA0HE/">BabelJS</a></li>
 <li><a href="http://beerjs.slack.com/">BeerJS</a></li>
+<li><a href="https://chromiumdev-slack.herokuapp.com/">Chromium Dev</a></li>
 <li><a href="https://clojurians.slack.com/messages/C06MAR553/">clojurians</a></li>
 <li><a href="https://designtalks.slack.com/">Design Talks</a></li>
 <li><a href="https://www.designerhangout.co/">Designer Hangout</a></li>
@@ -146,12 +154,14 @@
 <li><a href="https://erlanger.slack.com/messages/C055DJA49/">Erlang</a></li>
 <li><a href="https://europeandevexplorer.typeform.com/to/MC3qnG">European and Dev Explorer</a></li>
 <li><a href="https://feds.slack.com/">FEDs on Slack</a></li>
+<li><a href="https://firebase-community.appspot.com/">Firebase</a></li>
 <li><a href="https://functionalprogramming.slack.com/messages/C0432GV99/">FPChat</a></li>
 <li><a href="https://framer-slack-signup.herokuapp.com/">Framer</a></li>
 <li><a href="https://gophers.slack.com/messages/C029WKFFW/">Gophers</a></li>
 <li><a href="https://karangoel.typeform.com/to/mEl3P9">HackerX</a></li>
 <li><a href="https://hashtagfed.slack.com/messages/C0662FPH8/">Hashtag Developers</a></li>
 <li><a href="https://hashtagnodejs.slack.com/messages/C066268AG/">Hashtag NodeJS</a></li>
+<li><a href="https://ionicworldwide.herokuapp.com/">Ionic Worldwide</a></li>
 <li><a href="https://js-data.slack.com/messages/C0D1E8DUN/">JS-Data</a></li>
 <li><a href="https://jrdevjobs.slack.com/messages/C0L4YH2BT/">JuniorDevs</a></li>
 <li><a href="https://launch-chat.slack.com/messages/C049BR8P1/">Launch.Chat</a></li>
@@ -161,6 +171,8 @@
 <li><a href="https://nativescriptcommunity.slack.com/">NativeScript</a></li>
 <li><a href="https://node-js.slack.com/messages/C3910A78T/">Node.JS</a></li>
 <li><a href="https://pythondev.slack.com/messages/C07EFBK3R/">Python developers</a></li>
+<li><a href="https://polymer-slack.herokuapp.com/">Polymer</a></li>
+<li><a href="https://pwa-slack.herokuapp.com/">Progressive Web Apps (PWAs)</a></li>
 <li><a href="https://www.reactiflux.com/">Reactiflux</a></li>
 <li><a href="https://reactjsnews.slack.com/messages/C044HMK8N/">ReactJS</a></li>
 <li><a href="https://discordapp.com/invite/reasonml">ReasonML</a></li>
