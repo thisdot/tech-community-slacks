@@ -176,6 +176,7 @@
 <li><a href="https://womenintech.slack.com/">Women in Tech</a></li>
 <li><a href="https://larachat.slack.com/">Laravel</a></li>
 <li><a href="https://laravelbrasil.slack.com/">Laravel Brasil (in Portuguese)</a></li>
+<li><a href="https://chat.vuejs.org/">Vue.js</a></li>
 <li><a href="https://vuejs-brasil.slack.com/">VueJs Brasil (in Portuguese)</a></li>
 <li><a href="https://javadevbr.slack.com/">Java Dev BR (in Portuguese)</a></li>
 </ul>
