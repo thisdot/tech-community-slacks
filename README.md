@@ -174,7 +174,7 @@
 <li><a href="https://polymer-slack.herokuapp.com/">Polymer</a></li>
 <li><a href="https://pwa-slack.herokuapp.com/">Progressive Web Apps (PWAs)</a></li>
 <li><a href="https://www.reactiflux.com/">Reactiflux</a></li>
-<li><a href="https://reactjsnews.slack.com/messages/C044HMK8N/">ReactJS</a></li>
+<li><a href="https://slack.reactjsnews.com/">ReactJS</a></li>
 <li><a href="https://discordapp.com/invite/reasonml">ReasonML</a></li>
 <li><a href="https://rubydevelopers.slack.com/">Ruby Developers</a></li>
 <li><a href="https://rubyonrails-link.slack.com/">Ruby on Rails</a></li>
