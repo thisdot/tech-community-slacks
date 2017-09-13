@@ -130,6 +130,7 @@
 
 <ul>
 <li><a href="https://web-a11y.herokuapp.com/">a11y</a></li>
+<li><a href="https://slackin.angularbeers.org/">Angular Beers</a></li>
 <li><a href="https://babeljs.slack.com/messages/C062LA0HE/">BabelJS</a></li>
 <li><a href="http://beerjs.slack.com/">BeerJS</a></li>
 <li><a href="https://clojurians.slack.com/messages/C06MAR553/">clojurians</a></li>
