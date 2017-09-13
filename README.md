@@ -82,6 +82,11 @@
 </li>
 </ul>
 
+<h3>Argentina</h3>
+<ul>
+<li>Buenos Aires <a href="https://slack.meetupjs.com.ar/"> Meetup.js Argentina </a></li>
+</ul>
+
 <h3>Canada</h3>
 <ul>
 <li>BC - <a href="https://yvrdev.herokuapp.com/">Vancouver Developers (YVR Dev)</a></li>
