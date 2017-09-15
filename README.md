@@ -72,6 +72,7 @@
 	</ul>
 </li>
 <li>UT - <a href="https://utahjavascript.slack.com/">UtahJS </a></li>
+<li>UT - <a href="https://urug.slack.com/">Utah Ruby User Group </a></li>
 <li>WA - in Washington there are several channels:
 	<ul>
 		<li><a href="https://seattledesigners.slack.com">Seattle Designers</a></li>
