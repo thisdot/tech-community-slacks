@@ -48,6 +48,7 @@
 <li>SC - <a href="https://charlestontechslack.slack.com/messages/C070AT2P5/">Charleston Tech</a></li>
 <li>TN - <a href="http://memtech.slack.com/">MTF Slack</a></li>
 <li>TN - <a href="https://nashdev.slack.com/">NashDev</a></li>
+<li>TN - <a href="https://knoxdevs.slack.com/">KnoxDevs</a></li>
 <li>VA - <a href="http://757dev.org">757 Dev</a></li>
 </ul>
 
