@@ -102,7 +102,10 @@
 
 <h3>India</h3>
 <ul>
-<li><a href="https://friends.hasgeek.com/">Friends of HasGeek</a> (<a href="https://hasgeek.com/">HasGeek</a> runs a variety of tech events primarily in Bangalore, but not limited to it) </li>
+<li><a href="https://friends.hasgeek.com/">Friends of HasGeek</a> - <a href="https://hasgeek.com/">HasGeek</a> runs a variety of tech events primarily in Bangalore, but not limited to it. </li>
+<li><a href="http://gdg-pune.slack.com/">GDG Pune</a> - Local Meetup group of Pune who host the technical and non-technical events. </li>
+<li><a href="https://gdgahmedabad.slack.com/">GDG Ahmedabad</a> - Ahemdabad Based GDG group who organise TechTalks, Hackathons, Tech Seminars around Google developers technologies and open-source to encourage knowledge sharing. </li>
+<li><a href="https://mindorks.com/join-community/">Mindorks Community</a> - Mindorks is a India based Group who organize the meetups and encourage contribution for open source. </li>
 </ul>
 
 <h3>Finland</h3>
