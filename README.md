@@ -240,6 +240,7 @@
 <li><a href="https://feds.slack.com/">FEDs on Slack</a></li>
 <li><a href="https://slashrocket.slack.com/messages/C0WCKM6LC/">Slash Rocket</a></li>
 <li><a href="https://triangledevs.slack.com/">Triangle Devs</a></li>
+<li><a href="http://rteendeveloperslack.herokuapp.com/">/r/TeenDeveloper</a></li>
 <li><a href="https://discordapp.com/invite/reasonml">ReasonML</a></li>
 </ul>
 
