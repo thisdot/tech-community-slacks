@@ -5,7 +5,7 @@
 <h3>For Mid-Atlantic</h3>
 <p>If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washington D.C., it is worth taking a look at these channels:
 </p>
-<ul>    
+<ul>
 <li>DC - <a href="https://dctech.slack.com/">DC Tech Slack</a></li>
 <li>NY - <a href="https://borojs.slack.com/">BoroJS</a> and <a href="https://nyctech.slack.com/messages/C037T0K3D/">NYC Tech</a></li>
 <li>MD - <a href="http://baltimoretech-slack.herokuapp.com/">Baltimore Tech</a></li>
@@ -21,6 +21,7 @@
 <p>In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota and Wisconsin, there are some active channels below:
 </p>
 <ul>
+<li>IA - <a href="http://dsmwebcollective.com/">Des Moines Web Collective</a></li>
 <li>IL - <a href="https://chicago-tech.slack.com/messages/C08UMGS7K/">Chicago Tech</a></li>
 
 <li>MI - <a href="https://charlestontechslack.slack.com/messages/C070AT2P5/">Startup Lansing</a> in St.Louis</li>
