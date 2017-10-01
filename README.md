@@ -123,11 +123,6 @@
 <li>Alsace - <a href="http://elsass-dev.fr">Elsass-dev </a> (ping <a href="https://github.com/xtuc">@xtuc</a> to get an invite)</li>
 </ul>
 
-<h3>Norway</h3>
-<ul>
-<li>Oslo - <a href="https://mobileera.herokuapp.com/">Mobile Era</a></li>
-</ul>
-
 <h3>Poland</h3>
 <ul>
 <li>Wroclaw - <a href="https://slack.callstack.io">Callstack Open Source</a></li>
@@ -141,6 +136,12 @@
 <h3>UK</h3>
 <ul>
 <li>London - <a href="http://frontendlondon-slack.herokuapp.com/">Front End London</a></li>
+</ul>
+
+<h3>Conferences (public slack communities)</h3>
+<ul>
+<li><a href="http://mobileera.herokuapp.com/">Mobile Era</a>, Norway - discussions about mobile native, mobile web, PWA development</li>
+<li><a href="http://ngvikings.herokuapp.com/">ngVikings</a>, Nordics - discussions about Angular and its ecosystem</li>
 </ul>
 
 <h3>Bonus channels</h3>
@@ -194,7 +195,7 @@
 <li><a href="https://chromiumdev-slack.herokuapp.com/">Chromium Dev</a></li>
 <li><a href="https://firebase-community.appspot.com/">Firebase</a></li>
 <li><a href="https://node-js.slack.com/messages/C3910A78T/">Node.JS</a></li>
-<li><a href="https://pwa-slack.herokuapp.com/">Progressive Web Apps (PWAs)</a></li>
+<li><a href="https://bit.ly/join-pwa-slack">Progressive Web Apps (PWAs)</a></li>
 <li><a href="https://polymer-slack.herokuapp.com/">Polymer</a></li>
 
 </ul>
