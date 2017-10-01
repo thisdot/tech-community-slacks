@@ -9,7 +9,12 @@
 <li>DC - <a href="https://dctech.slack.com/">DC Tech Slack</a></li>
 <li>NY - <a href="https://borojs.slack.com/">BoroJS</a> and <a href="https://nyctech.slack.com/messages/C037T0K3D/">NYC Tech</a></li>
 <li>MD - <a href="http://baltimoretech-slack.herokuapp.com/">Baltimore Tech</a></li>
-<li>PA - <a href="https://phillystartupleaders.slack.com/messages/C03DP9M5Y/">Philly Startup Leaders</a> and <a href="https://phillydev.org/">PhillyDev</a></li>
+<li>PA - in Pennsylvania there are several channels:
+	<ul>
+		<li>Philadelphia: <a href="https://phillystartupleaders.slack.com/messages/C03DP9M5Y/">Philly Startup Leaders</a> and <a href="https://phillydev.org/">PhillyDev</a></li>
+		<li>Northeast: <a href="https://nepatech.slack.com/">NEPA Tech & NEPA.js</a> and <a href="https://wbpc-meetup.slack.com/">Wilkes-Barre Programming Community</a></li>
+	</ul>
+</li>
 </ul>
 
 <h3>For The Midwest</h3>
