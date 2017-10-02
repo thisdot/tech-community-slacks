@@ -16,6 +16,7 @@ If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washing
 In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota and Wisconsin, there are some active channels below:
 
 *   IA - [Des Moines Web Collective](http://dsmwebcollective.com/)
+    *    [Central Iowa Linux User's Group] (http://www.cialug.org/)
 *   IL - [Chicago Tech](https://chicago-tech.slack.com/messages/C08UMGS7K/)
 *   IN - [Indy Hackers](https://indyhackers.slack.com)
 *   MI - [Startup Lansing](https://charlestontechslack.slack.com/messages/C070AT2P5/) in St.Louis
