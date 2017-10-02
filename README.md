@@ -109,6 +109,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 *   London - [Front End London](http://frontendlondon-slack.herokuapp.com/)
 
+## Vietnam
+
+* [Ruby Vietnam](http://chat.ruby.org.vn/) - The most quality community in Vietnam. Not only about Ruby but also JS, Elixir, DevOps...
+
 # Conferences (public slack communities)
 
 *   [Mobile Era](http://mobileera.herokuapp.com/), Norway - discussions about mobile native, mobile web, PWA development
