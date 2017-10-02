@@ -166,7 +166,7 @@ Below are some other interesting Slack channels for different technologies and p
 
 ## General Dev
 
-*   [DevChat](https://devolio-devchat.slack.com/messages/C0SQT5SGN/)
+*   [DevChat](https://devchat.devolio.net/)
 *   [Developers](https://hashtagdevelopers.slack.com/messages/C066215UL/)
 *   [deviofoundation](https://deviofoundation.slack.com/)
 *   [Digital Nomads](https://digi-nomads.slack.com/messages/C08A7MTSA/)
