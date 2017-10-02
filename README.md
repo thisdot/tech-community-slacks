@@ -53,7 +53,13 @@ Local Slack channels in Arizona, New Mexico, Oklahoma, Texas:
 
 From Alaska, Hawaii and Washington down to California there are several local channels below:
 
-*   CO - [Denver Devs](http://denver-devs.slack.com/)
+*   CO - in Colorado there are several channels: 
+    *   [Denver Devs](http://denver-devs.slack.com/)
+    *   [Tech Friends](https://www.gettechfriends.com/)
+    *   [Fort Collins Internet Professionals](http://fcip.slack.com/)
+    *   [Made In Loveland](http://madeinloveland.slack.com/)
+    *   [Colorado Freelance Web Developers](http://co-freelance-webdevs.slack.com/)
+    *   [Angular Colorado](http://angularcolorado.slack.com/)
 *   OR - in Oregon there are several channels:
     *   [Infinite Red Community](http://infiniteredcommunity.slack.com/)
     *   [Node PDX](http://nodepdx.slack.com/)
