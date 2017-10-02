@@ -57,6 +57,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
     *   [Denver Devs](http://denver-devs.slack.com/)
     *   [Tech Friends](https://www.gettechfriends.com/)
     *   [Fort Collins Internet Professionals](http://fcip.slack.com/)
+    *   [Colorado Springs Developers](https://coloradospringsdevs.herokuapp.com/)
     *   [Made In Loveland](http://madeinloveland.slack.com/)
     *   [Colorado Freelance Web Developers](http://co-freelance-webdevs.slack.com/)
     *   [Angular Colorado](http://angularcolorado.slack.com/)
