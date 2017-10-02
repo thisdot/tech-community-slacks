@@ -47,6 +47,7 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
 
 Local Slack channels in Arizona, New Mexico, Oklahoma, Texas:
 
+*   OK - [Techlahoma](http://slack.techlahoma.org/)
 *   TX - [Refresh Austin](https://refreshaustin.slack.com/)
 
 ## The West
