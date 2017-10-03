@@ -1,6 +1,8 @@
 # List of Slack Channels for local communities by region
 
-## Mid-Atlantic
+## USA:
+
+### Mid-Atlantic
 
 If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washington D.C., it is worth taking a look at these channels:
 
@@ -11,7 +13,7 @@ If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washing
     *   Philadelphia: [Philly Startup Leaders](https://phillystartupleaders.slack.com/messages/C03DP9M5Y/) and [PhillyDev](https://phillydev.org/)
     *   Northeast: [NEPA Tech & NEPA.js](https://nepatech.slack.com/) and [Wilkes-Barre Programming Community](https://wbpc-meetup.slack.com/)
 
-## The Midwest
+### The Midwest
 
 In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota and Wisconsin, there are some active channels below:
 
@@ -28,7 +30,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 *   WI - [Madison Community](https://madisoncommunity.azurewebsites.net/)
 *   Midwest - [The Midwest Dev Chat](http://midwestdevchat.slack.com/)
 
-## The South Candidates
+### The South Candidates
 
 Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia or West Virginia:
 
@@ -46,14 +48,14 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
 *   TN - [KnoxDevs](https://knoxdevs.slack.com/)
 *   VA - [757 Dev](http://757dev.org)
 
-## The Southwest
+### The Southwest
 
 Local Slack channels in Arizona, New Mexico, Oklahoma, Texas:
 
 *   AZ - [AZ WebDevs](https://azwebdevs.org/signin)
 *   TX - [Refresh Austin](https://refreshaustin.slack.com/)
 
-## The West
+### The West
 
 From Alaska, Hawaii and Washington down to California there are several local channels below:
 
@@ -77,12 +79,16 @@ From Alaska, Hawaii and Washington down to California there are several local ch
     *   [Seattle.rb](https://seattlerbslack.herokuapp.com/)
     *   [Seattle JS Hackers](https://seattlejshackers.slack.com)
     *   [Tech Seattle](https://techseattle.slack.com/messages/C045K4QLR/)
+    
+    
+    
+# Other Countries    
 
-## Argentina
+### Argentina
 
 *   Buenos Aires [Meetup.js Argentina](https://slack.meetupjs.com.ar/)
 
-## Canada
+### Canada
 
 *   BC - [Vancouver Developers (YVR Dev)](https://yvrdev.herokuapp.com/)
 *   ON - [Ottawa Startups](https://ottawastartups.slack.com/messages/C0408SPU4/)
@@ -90,14 +96,6 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   ON - [YOWDev](http://yowdev-slackin.herokuapp.com/) Ottawa
 *   ON - [CodePen Ottawa](http://codepen-ott.herokuapp.com/) Ottawa
 *   QC - [Sketch MTL](http://sketchmtl.now.sh/) Montreal
-
-## India
-
-*   [Friends of HasGeek](https://friends.hasgeek.com/) - [HasGeek](https://hasgeek.com/) runs a variety of tech events primarily in Bangalore, but not limited to it.
-*   [GDG Pune](http://gdg-pune.slack.com/) - Local Meetup group of Pune who host the technical and non-technical events.
-*   [GDG Ahmedabad](https://gdgahmedabad.slack.com/) - Ahemdabad Based GDG group who organise TechTalks, Hackathons, Tech Seminars around Google developers technologies and open-source to encourage knowledge sharing.
-*   [GDG Baroda](http://gdgbaroda-invite.herokuapp.com) - Official Slack group of Google Developers Group Baroda (GDG Baroda). We organize meetups, hackathons, tech-talks, study-jams, DevFests & much more. An open community for tech-enthusiasts.
-*   [Mindorks Community](https://mindorks.com/join-community/) - Mindorks is a India based Group who organize the meetups and encourage contribution for open source.
 
 ## Finland
 
@@ -109,19 +107,27 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   Alsace - [GeekDpt](https://geekdpt.io) in Strasbourg (but not limited to the region)
 *   Alsace - [Elsass-dev](http://elsass-dev.fr) (ping [@xtuc](https://github.com/xtuc) to get an invite)
 
-## Poland
+### India
+
+*   [Friends of HasGeek](https://friends.hasgeek.com/) - [HasGeek](https://hasgeek.com/) runs a variety of tech events primarily in Bangalore, but not limited to it.
+*   [GDG Pune](http://gdg-pune.slack.com/) - Local Meetup group of Pune who host the technical and non-technical events.
+*   [GDG Ahmedabad](https://gdgahmedabad.slack.com/) - Ahemdabad Based GDG group who organise TechTalks, Hackathons, Tech Seminars around Google developers technologies and open-source to encourage knowledge sharing.
+*   [GDG Baroda](http://gdgbaroda-invite.herokuapp.com) - Official Slack group of Google Developers Group Baroda (GDG Baroda). We organize meetups, hackathons, tech-talks, study-jams, DevFests & much more. An open community for tech-enthusiasts.
+*   [Mindorks Community](https://mindorks.com/join-community/) - Mindorks is a India based Group who organize the meetups and encourage contribution for open source.
+
+### Poland
 
 *   Wroclaw - [Callstack Open Source](https://slack.callstack.io)
 
-## Romania
+### Romania
 
 *   tim.js - [tim.js, the Timișoara JavaScript Meetup Channel](https://timjs.slack.com)
 
-## UK
+### UK
 
 *   London - [Front End London](http://frontendlondon-slack.herokuapp.com/)
 
-## Vietnam
+### Vietnam
 
 * [Ruby Vietnam](http://chat.ruby.org.vn/) - The most quality community in Vietnam. Not only about Ruby but also JS, Elixir, DevOps...
 
