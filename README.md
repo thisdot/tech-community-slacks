@@ -97,12 +97,12 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   ON - [CodePen Ottawa](http://codepen-ott.herokuapp.com/) Ottawa
 *   QC - [Sketch MTL](http://sketchmtl.now.sh/) Montreal
 
-## Finland
+### Finland
 
 *   [Angular Finland](https://www.angular.fi/) community w/ Slack mostly targeted for Finnish Angular enthuasists, but also international discussion.
 *   [Koodiklinikka](https://koodiklinikka.fi/) a finnish developer slack community that has over 1024 registered members
 
-## France
+### France
 
 *   Alsace - [GeekDpt](https://geekdpt.io) in Strasbourg (but not limited to the region)
 *   Alsace - [Elsass-dev](http://elsass-dev.fr) (ping [@xtuc](https://github.com/xtuc) to get an invite)
