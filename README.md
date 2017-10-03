@@ -1,27 +1,28 @@
 # List of Slack Channels for local communities by region
 
-## For Mid-Atlantic
+## Mid-Atlantic
 
 If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washington D.C., it is worth taking a look at these channels:
 
 *   DC - [DC Tech Slack](https://dctech.slack.com/)
 *   NY - [BoroJS](https://borojs.slack.com/) and [NYC Tech](https://nyctech.slack.com/messages/C037T0K3D/)
 *   MD - [Baltimore Tech](http://baltimoretech-slack.herokuapp.com/)
-*   PA - in Pennsylvania there are several channels:
+*   PA - **in Pennsylvania there are several channels:**
     *   Philadelphia: [Philly Startup Leaders](https://phillystartupleaders.slack.com/messages/C03DP9M5Y/) and [PhillyDev](https://phillydev.org/)
     *   Northeast: [NEPA Tech & NEPA.js](https://nepatech.slack.com/) and [Wilkes-Barre Programming Community](https://wbpc-meetup.slack.com/)
 
-## For The Midwest
+## The Midwest
 
 In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota and Wisconsin, there are some active channels below:
 
-*   IA - [Des Moines Web Collective](http://dsmwebcollective.com/)
+*   IA - **In Iowa there are several channels:**
+    *    [Des Moines Web Collective](http://dsmwebcollective.com/)
     *    [Central Iowa Linux User's Group] (http://www.cialug.org/)
 *   IL - [Chicago Tech](https://chicago-tech.slack.com/messages/C08UMGS7K/)
 *   IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
 *   MI - [Startup Lansing](https://charlestontechslack.slack.com/messages/C070AT2P5/) in St.Louis
 *   MO - [STL Tech](https://stl-tech.slack.com/)
-*   OH - in Ohio there are several channels:
+*   OH - **in Ohio there are several channels:**
     *   [TechLife Columbus](https://techlife-columbus.slack.com/messages/@slackbot/)
     *   [Cleveland Tech](https://cleveland-tech.herokuapp.com/)
 *   WI - [Madison Community](https://madisoncommunity.azurewebsites.net/)
@@ -32,7 +33,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia or West Virginia:
 
 *   AL - [Magic City Tech](https://magiccitytech.slack.com/messages/C03P5NUL5/)
-*   FL - in Florida we have:
+*   FL - **in Florida we have:**
     *   [GNV Connect](https://gnvconnect.slack.com/messages/C03TQPGB8/)
     *   [Orlando Devs](http://orlandodevs.slack.com/)
     *   [Suncoast Developers Guild](https://suncoast-devs.slack.com/)
@@ -45,7 +46,7 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
 *   TN - [KnoxDevs](https://knoxdevs.slack.com/)
 *   VA - [757 Dev](http://757dev.org)
 
-## From The Southwest
+## The Southwest
 
 Local Slack channels in Arizona, New Mexico, Oklahoma, Texas:
 
@@ -56,7 +57,7 @@ Local Slack channels in Arizona, New Mexico, Oklahoma, Texas:
 
 From Alaska, Hawaii and Washington down to California there are several local channels below:
 
-*   CO - in Colorado there are several channels: 
+*   CO - **in Colorado there are several channels:**
     *   [Denver Devs](http://denver-devs.slack.com/)
     *   [Tech Friends](https://www.gettechfriends.com/)
     *   [Fort Collins Internet Professionals](http://fcip.slack.com/)
@@ -64,14 +65,14 @@ From Alaska, Hawaii and Washington down to California there are several local ch
     *   [Made In Loveland](http://madeinloveland.slack.com/)
     *   [Colorado Freelance Web Developers](http://co-freelance-webdevs.slack.com/)
     *   [Angular Colorado](http://angularcolorado.slack.com/)
-*   OR - in Oregon there are several channels:
+*   OR - **in Oregon there are several channels:**
     *   [Infinite Red Community](http://infiniteredcommunity.slack.com/)
     *   [Node PDX](http://nodepdx.slack.com/)
     *   [Portland ReactJS](http://portland-reactjs.slack.com/)
     *   [pdxstartups](https://pdxstartups.slack.com/messages/C0AL5389X/)
 *   UT - [UtahJS](https://utahjavascript.slack.com/)
 *   UT - [Utah Ruby User Group](https://urug.slack.com/)
-*   WA - in Washington there are several channels:
+*   WA - **in Washington there are several channels:**
     *   [Seattle Designers](https://seattledesigners.slack.com)
     *   [Seattle.rb](https://seattlerbslack.herokuapp.com/)
     *   [Seattle JS Hackers](https://seattlejshackers.slack.com)
