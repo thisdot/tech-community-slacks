@@ -214,6 +214,8 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Triangle Devs](https://triangledevs.slack.com/)
 *   [/r/TeenDeveloper](http://rteendeveloperslack.herokuapp.com/)
 *   [ReasonML](https://discordapp.com/invite/reasonml)
+*   [GravCMS](https://getgrav.org/slack)
+*   [PyroCMS](https://pyrocms.com/slack)
 
 ## Resources
 
