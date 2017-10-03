@@ -97,6 +97,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [GDG Ahmedabad](https://gdgahmedabad.slack.com/) - Ahemdabad Based GDG group who organise TechTalks, Hackathons, Tech Seminars around Google developers technologies and open-source to encourage knowledge sharing.
 *   [GDG Baroda](http://gdgbaroda-invite.herokuapp.com) - Official Slack group of Google Developers Group Baroda (GDG Baroda). We organize meetups, hackathons, tech-talks, study-jams, DevFests & much more. An open community for tech-enthusiasts.
 *   [Mindorks Community](https://mindorks.com/join-community/) - Mindorks is a India based Group who organize the meetups and encourage contribution for open source.
+*   [React JS Bangalore](https://reactbangalore.herokuapp.com/) - Meetup group for Bangalore's React JS community
 
 ## Finland
 
