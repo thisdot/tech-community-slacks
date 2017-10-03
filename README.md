@@ -86,6 +86,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   BC - [Vancouver Developers (YVR Dev)](https://yvrdev.herokuapp.com/)
 *   ON - [Ottawa Startups](https://ottawastartups.slack.com/messages/C0408SPU4/)
 *   ON - [Startup6ix](http://startup6ix.com/) in Toronto
+*   ON - [TorontoJS](http://slack.torontojs.com/) Toronto
 *   ON - [YOWDev](http://yowdev-slackin.herokuapp.com/) Ottawa
 *   ON - [CodePen Ottawa](http://codepen-ott.herokuapp.com/) Ottawa
 *   QC - [Sketch MTL](http://sketchmtl.now.sh/) Montreal
@@ -192,6 +193,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Launch.Chat](https://launch-chat.slack.com/messages/C049BR8P1/)
 *   [Microsoft Developer Chat](https://msdevchat.slack.com/)
 *   [Mr Frontend](https://mrfrontend.slack.com/messages/C0PFTBYL9/)
+*   [TechMasters](https://techmasters.chat/)
 
 ## Intro to Dev & Learning
 
