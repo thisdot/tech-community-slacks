@@ -146,7 +146,8 @@ Below are some other interesting Slack channels for different technologies and p
 *   [NativeScript](https://nativescriptcommunity.slack.com/)
 *   [Reactiflux](https://www.reactiflux.com/)
 *   [ReactJS](https://slack.reactjsnews.com/)
-*   [Vue.js](https://chat.vuejs.org/)
+*   [Vue.js](https://vueslack.slack.com)
+*   [Vue.js (Discord Chat)](https://chat.vuejs.org/)
 *   [VueJs Brasil (in Portuguese)](https://vuejs-brasil.slack.com/)
 
 ## Languages
