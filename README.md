@@ -17,7 +17,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 
 *   IA - [Des Moines Web Collective](http://dsmwebcollective.com/)
 *   IL - [Chicago Tech](https://chicago-tech.slack.com/messages/C08UMGS7K/)
-*   IN - [Indy Hackers](https://indyhackers.slack.com)
+*   IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
 *   MI - [Startup Lansing](https://charlestontechslack.slack.com/messages/C070AT2P5/) in St.Louis
 *   MO - [STL Tech](https://stl-tech.slack.com/)
 *   OH - in Ohio there are several channels:
