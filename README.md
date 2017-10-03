@@ -19,7 +19,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 
 *   IA - **In Iowa there are several channels:**
     *    [Des Moines Web Collective](http://dsmwebcollective.com/)
-    *    [Central Iowa Linux User's Group] (http://www.cialug.org/)
+    *    [Central Iowa Linux User's Group](http://www.cialug.org/)
 *   IL - [Chicago Tech](https://chicago-tech.slack.com/messages/C08UMGS7K/)
 *   IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
 *   MI - [Startup Lansing](https://charlestontechslack.slack.com/messages/C070AT2P5/) in St.Louis
