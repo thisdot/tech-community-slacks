@@ -2,6 +2,12 @@
 
 ## USA:
 
+### New England
+
+Where the morning can start with 80°F, rain 10" at noon, and everybody drinks Dunkin’. The home for Harvard, MIT, Yale, Brown, and the W3C has a blossoming tech comunity:
+
+* [Boston Javascript](https://bostonjavascript.slack.com/) - Invites at https://bostonjs.herokuapp.com/ (co hosted by http://bostonjs.com/)
+
 ### Mid-Atlantic
 
 If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washington D.C., it is worth taking a look at these channels:
