@@ -13,10 +13,10 @@ Where the morning can start with 80°F, rain 10" at noon, and everybody drinks D
 If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washington D.C., it is worth taking a look at these channels:
 
 *   DC - [DC Tech Slack](https://dctech.slack.com/)
-*   NY - [BoroJS](https://borojs.slack.com/) and [NYC Tech](https://nyctech.slack.com/messages/C037T0K3D/)
+*   NY - [BoroJS](https://borojs.slack.com/) and [NYC Tech](http://www.nyctechslack.com/)
 *   MD - [Baltimore Tech](http://baltimoretech-slack.herokuapp.com/)
 *   PA - **in Pennsylvania there are several channels:**
-    *   Philadelphia: [Philly Startup Leaders](https://phillystartupleaders.slack.com/messages/C03DP9M5Y/) and [PhillyDev](https://phillydev.org/)
+    *   Philadelphia: [Philly Startup Leaders](https://www.sendgrowth.com/psl/) and [PhillyDev](https://phillydev.org/)
     *   Northeast: [NEPA Tech & NEPA.js](https://nepatech.slack.com/) and [Wilkes-Barre Programming Community](https://wbpc-meetup.slack.com/)
 
 ### The Midwest
@@ -26,12 +26,12 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 *   IA - **In Iowa there are several channels:**
     *    [Des Moines Web Collective](http://dsmwebcollective.com/)
     *    [Central Iowa Linux User's Group](http://www.cialug.org/)
-*   IL - [Chicago Tech](https://chicago-tech.slack.com/messages/C08UMGS7K/)
+*   IL - [Chicago Tech](http://www.chicagotechslack.com/)
 *   IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
-*   MI - [Startup Lansing](https://charlestontechslack.slack.com/messages/C070AT2P5/) in St.Louis
+*   MI - [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
 *   MO - [STL Tech](https://stl-tech.slack.com/)
 *   OH - **in Ohio there are several channels:**
-    *   [TechLife Columbus](https://techlife-columbus.slack.com/messages/@slackbot/)
+    *   [TechLife Columbus](https://techlife-columbus-slack.herokuapp.com/)
     *   [Cleveland Tech](https://cleveland-tech.herokuapp.com/)
 *   WI - [Madison Community](https://madisoncommunity.azurewebsites.net/)
 *   Midwest - [The Midwest Dev Chat](http://midwestdevchat.slack.com/)
@@ -40,15 +40,15 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 
 Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia or West Virginia:
 
-*   AL - [Magic City Tech](https://magiccitytech.slack.com/messages/C03P5NUL5/)
+*   AL - [Magic City Tech](http://magiccitytech.org/)
 *   FL - **in Florida we have:**
-    *   [GNV Connect](https://gnvconnect.slack.com/messages/C03TQPGB8/)
+    *   [GNV Connect](https://gnvconnect.com/)
     *   [Orlando Devs](http://orlandodevs.slack.com/)
     *   [Suncoast Developers Guild](https://suncoast-devs.slack.com/)
 *   GA - [Tech 404](http://tech404.slack.com/)
 *   KY - [Louisville.io](https://louisville.slack.com/)
 *   NC - [Triangle Devs](https://triangledevs.slack.com/)
-*   SC - [Charleston Tech](https://charlestontechslack.slack.com/messages/C070AT2P5/)
+*   SC - [Charleston Tech](https://charlestontechslack.herokuapp.com/)
 *   TN - [MTF Slack](http://memtech.slack.com/)
 *   TN - [NashDev](https://nashdev.slack.com/)
 *   TN - [KnoxDevs](https://knoxdevs.slack.com/)
@@ -78,7 +78,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
     *   [Infinite Red Community](http://infiniteredcommunity.slack.com/)
     *   [Node PDX](http://nodepdx.slack.com/)
     *   [Portland ReactJS](http://portland-reactjs.slack.com/)
-    *   [pdxstartups](https://pdxstartups.slack.com/messages/C0AL5389X/)
+    *   [pdxstartups](https://pdx-startups-slack.herokuapp.com/)
 *   UT - [UtahJS](https://utahjavascript.slack.com/)
 *   UT - [Utah Ruby User Group](https://urug.slack.com/)
 *   WA - **in Washington there are several channels:**
@@ -165,8 +165,8 @@ Below are some other interesting Slack channels for different technologies and p
 
 *   [Angular Beers](https://slackin.angularbeers.org/)
 *   [Angular Chat](https://angularchat.co/)
-*   [BabelJS](https://babeljs.slack.com/messages/C062LA0HE/)
-*   [EmberJS](https://embercommunity.slack.com/messages/C0451CN7N/)
+*   [BabelJS](https://slack.babeljs.io/)
+*   [EmberJS](https://ember-community-slackin.herokuapp.com/)
 *   [Hashtag NodeJS](https://hashtagnodejs.slack.com/messages/C066268AG/)
 *   [Ionic Worldwide](https://ionicworldwide.herokuapp.com/)
 *   [NativeScript](https://nativescriptcommunity.slack.com/)
@@ -179,18 +179,18 @@ Below are some other interesting Slack channels for different technologies and p
 ## Languages
 
 *   [BeerJS](http://beerjs.slack.com/)
-*   [clojurians](https://clojurians.slack.com/messages/C06MAR553/)
-*   [Elixir](https://elixir-lang.slack.com/messages/C03EPRA3B/)
-*   [Erlang](https://erlanger.slack.com/messages/C055DJA49/)
-*   [Gophers](https://gophers.slack.com/messages/C029WKFFW/)
+*   [clojurians](http://clojurians.net/)
+*   [Elixir](https://elixir-slackin.herokuapp.com/)
+*   [Erlang](https://erlang-slack.herokuapp.com/)
+*   [Gophers](https://gophersinvite.herokuapp.com/)
 *   [Java Dev BR (in Portuguese)](https://javadevbr.slack.com/)
 *   [Laravel](https://larachat.slack.com/)
 *   [Laravel Brasil (in Portuguese)](https://laravelbrasil.slack.com/)
-*   [Python developers](https://pythondev.slack.com/messages/C07EFBK3R/)
+*   [Python developers](http://pythondevelopers.herokuapp.com/)
 *   [Ruby Developers](https://rubydevelopers.slack.com/)
 *   [Ruby on Rails](https://rubyonrails-link.slack.com/)
-*   [Strapi](https://strapi.slack.com/messages/C0BLB2VJ7/)
-*   [WeLearnJS](https://learnjs.slack.com/messages/C08MJ5H26/)
+*   [Strapi](http://slack.strapi.io/)
+*   [WeLearnJS](http://javascript-devs.herokuapp.com/)
 
 ## Design
 
@@ -209,21 +209,21 @@ Below are some other interesting Slack channels for different technologies and p
 ## General Dev
 
 *   [DevChat](https://devchat.devolio.net/)
-*   [Developers](https://hashtagdevelopers.slack.com/messages/C066215UL/)
+*   [Developers](http://www.hashtagdevelopers.com/)
 *   [deviofoundation](https://deviofoundation.slack.com/)
-*   [Digital Nomads](https://digi-nomads.slack.com/messages/C08A7MTSA/)
+*   [Digital Nomads](https://slack-integrate.herokuapp.com/)
 *   [European and Dev Explorer](https://europeandevexplorer.typeform.com/to/MC3qnG)
 *   [Hashtag Developers](https://hashtagfed.slack.com/messages/C0662FPH8/)
-*   [Launch.Chat](https://launch-chat.slack.com/messages/C049BR8P1/)
+*   [Launch.Chat](http://launch.chat/)
 *   [Microsoft Developer Chat](https://msdevchat.slack.com/)
-*   [Mr Frontend](https://mrfrontend.slack.com/messages/C0PFTBYL9/)
+*   [Mr Frontend](https://mr-frontend-slack-invite.herokuapp.com/)
 *   [TechMasters](https://techmasters.chat/)
 
 ## Intro to Dev & Learning
 
-*   [JuniorDevs](https://jrdevjobs.slack.com/messages/C0L4YH2BT/)
+*   [JuniorDevs](https://www.jrdevjobs.com/slack)
 *   [Learn Coding](https://learncoding.slack.com/messages/C04G48BKC/)
-*   [The Meteor Chef](https://themeteorchef.slack.com/messages/C08581U8Y/)
+*   [The Meteor Chef](http://slack.themeteorchef.com/)
 
 ## Women
 
@@ -232,13 +232,13 @@ Below are some other interesting Slack channels for different technologies and p
 ## Misc Interest
 
 *   [a11y](https://web-a11y.herokuapp.com/)
-*   [DevOpsChat](https://devopschat.slack.com/messages/C051P647G/)
-*   [JS-Data](https://js-data.slack.com/messages/C0D1E8DUN/)
+*   [DevOpsChat](https://devopschat.co/)
+*   [JS-Data](http://slack.js-data.io/)
 
 ## Community Groups
 
 *   [FEDs on Slack](https://feds.slack.com/)
-*   [Slash Rocket](https://slashrocket.slack.com/messages/C0WCKM6LC/)
+*   [Slash Rocket](https://join.slashrocket.io/)
 *   [Triangle Devs](https://triangledevs.slack.com/)
 *   [/r/TeenDeveloper](http://rteendeveloperslack.herokuapp.com/)
 *   [ReasonML](https://discordapp.com/invite/reasonml)
@@ -247,6 +247,6 @@ Below are some other interesting Slack channels for different technologies and p
 
 ## Resources
 
-*   [Scotch.io](https://scotchio.slack.com/messages/C04PFHLL7/)
-*   [Spec](https://specnetwork.slack.com/messages/C08G64K6U/)
+*   [Scotch.io](https://scotch-slack.herokuapp.com/)
+*   [Spec](https://spec.fm/slack)
 *   [HackerX](https://karangoel.typeform.com/to/mEl3P9)
