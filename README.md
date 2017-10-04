@@ -170,6 +170,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Angular Chat](https://angularchat.co/)
 *   [BabelJS](https://slack.babeljs.io/)
 *   [EmberJS](https://ember-community-slackin.herokuapp.com/)
+*   [FeathersJS](http://slack.feathersjs.com/)
 *   [Hashtag NodeJS](https://hashtagnodejs.slack.com/messages/C066268AG/)
 *   [Ionic Worldwide](https://ionicworldwide.herokuapp.com/)
 *   [NativeScript](https://nativescriptcommunity.slack.com/)
@@ -209,6 +210,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Node.JS](https://node-js.slack.com/messages/C3910A78T/)
 *   [Progressive Web Apps (PWAs)](https://bit.ly/join-pwa-slack)
 *   [Polymer](https://polymer-slack.herokuapp.com/)
+*   [Socket.io](https://slackin-socketio.now.sh/)
 
 ## General Dev
 
