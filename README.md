@@ -209,6 +209,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Node.JS](https://node-js.slack.com/messages/C3910A78T/)
 *   [Progressive Web Apps (PWAs)](https://bit.ly/join-pwa-slack)
 *   [Polymer](https://polymer-slack.herokuapp.com/)
+*   [Kubernetes](https://kubernetes.slack.com/)
 
 ## General Dev
 
