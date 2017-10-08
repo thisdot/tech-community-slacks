@@ -205,6 +205,7 @@ Below are some other interesting Slack channels for different technologies and p
 
 *   [Chromium Dev](https://chromiumdev-slack.herokuapp.com/)
 *   [Firebase](https://firebase-community.appspot.com/)
+*   [MongoDB](https://community-slack.mongodb.com/)
 *   [Node.JS](https://node-js.slack.com/messages/C3910A78T/)
 *   [Progressive Web Apps (PWAs)](https://bit.ly/join-pwa-slack)
 *   [Polymer](https://polymer-slack.herokuapp.com/)
@@ -232,7 +233,8 @@ Below are some other interesting Slack channels for different technologies and p
 
 ## Women
 
-*   [Women in Tech](https://witchat.github.io/)
+*   [Women in Tech (WITchat)](http://witchat.github.io/)
+*   [Ladies of WordPress](https://ladiesofwp.slack.com)
 
 ## Misc Interest
 
@@ -249,6 +251,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [ReasonML](https://discordapp.com/invite/reasonml)
 *   [GravCMS](https://getgrav.org/slack)
 *   [PyroCMS](https://pyrocms.com/slack)
+*   [We are Developer Evangelist and YOU CAN TOO](http://evangelistcollective.github.io)
 
 ## Resources
 
