@@ -24,12 +24,18 @@ If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washing
 In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota and Wisconsin, there are some active channels below:
 
 *   IA - **In Iowa there are several channels:**
+    *    [Des Moines Web Collective](http://dsmwebcollective.com/)(https://dsmwebcollective.slack.com/)
+    *    [Central Iowa Linux User's Group](http://www.cialug.org/)(https://cialug.slack.com/)
+    *    [SecDSM](https://secdsm.org/)(https://secdsm.slack.com/)
+    *    [DSMWebGeeks](http://www.dsmwebgeeks.com/)(https://dsmwebgeeks.slack.com/)
     *    [Des Moines Web Collective](http://dsmwebcollective.com/)
     *    [Central Iowa Linux User's Group](http://www.cialug.org/)
+    *    [SecDSM](https://secdsm.org/#slack)
 *   IL - [Chicago Tech](http://www.chicagotechslack.com/)
 *   IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
 *   MI - [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
 *   MO - [STL Tech](https://stltech.herokuapp.com/)
+    * [SecKC](https://seckc.org/)(https://seckc.slack.com/)
 *   OH - **in Ohio there are several channels:**
     *   [TechLife Columbus](https://techlife-columbus-slack.herokuapp.com/)
     *   [Cleveland Tech](https://cleveland-tech.herokuapp.com/)
@@ -125,6 +131,9 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [React JS Bangalore](https://reactbangalore.herokuapp.com/) - Meetup group for Bangalore's React JS community
 *   [React Native Bangalore](http://reactnativebangalore.nativebase.io/) - Meetup group for Bangalore's React Native community
 
+### Malaysia
+*  [GDG Kuala Lumpur](https://gdgkl-slack.herokuapp.com/) - Official Slack group of [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform. 
+
 ### Poland
 
 *   Wroclaw - [Callstack Open Source](https://slack.callstack.io)
@@ -168,6 +177,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Vue.js](http://www.vueslack.com/)
 *   [Vue.js (Discord Chat)](https://chat.vuejs.org/)
 *   [VueJs Brasil (in Portuguese)](https://vuejs-brasil.herokuapp.com/)
+*   [WordPress](https://wordpress.slack.com/) - More Details at https://make.wordpress.org/chat/
 
 ## Languages
 
@@ -196,6 +206,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Chromium Dev](https://chromiumdev-slack.herokuapp.com/)
 *   [Firebase](https://firebase-community.appspot.com/)
 *   [Kubernetes](http://slack.k8s.io/)
+*   [MongoDB](https://community-slack.mongodb.com/)
 *   [Node.JS](https://node-js.slack.com/messages/C3910A78T/)
 *   [Progressive Web Apps (PWAs)](https://bit.ly/join-pwa-slack)
 *   [Polymer](https://polymer-slack.herokuapp.com/)
@@ -211,6 +222,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Hashtag Developers](http://www.hashtagdevelopers.com/)
 *   [Launch.Chat](http://launch.chat/)
 *   [Microsoft Developer Chat](http://msdev.chat/)
+*   [Front End Web Developer](https://frontenddevelopers.slack.com) - Invites at http://frontenddevelopers.org/
 *   [Mr Frontend](https://mr-frontend-slack-invite.herokuapp.com/)
 *   [TechMasters](https://techmasters.chat/)
 
@@ -222,7 +234,8 @@ Below are some other interesting Slack channels for different technologies and p
 
 ## Women
 
-*   [Women in Tech](https://witchat.github.io/)
+*   [Women in Tech (WITchat)](http://witchat.github.io/)
+*   [Ladies of WordPress](https://ladiesofwp.slack.com)
 
 ## Misc Interest
 
@@ -239,6 +252,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [ReasonML](https://discordapp.com/invite/reasonml)
 *   [GravCMS](https://getgrav.org/slack)
 *   [PyroCMS](https://pyrocms.com/slack)
+*   [We are Developer Evangelist and YOU CAN TOO](http://evangelistcollective.github.io)
 
 ## Resources
 
