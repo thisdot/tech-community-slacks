@@ -177,6 +177,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Vue.js](http://www.vueslack.com/)
 *   [Vue.js (Discord Chat)](https://chat.vuejs.org/)
 *   [VueJs Brasil (in Portuguese)](https://vuejs-brasil.herokuapp.com/)
+*   [WordPress](https://wordpress.slack.com/) - More Details at https://make.wordpress.org/chat/
 
 ## Languages
 
@@ -219,6 +220,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Hashtag Developers](http://www.hashtagdevelopers.com/)
 *   [Launch.Chat](http://launch.chat/)
 *   [Microsoft Developer Chat](http://msdev.chat/)
+*   [Front End Web Developer](https://frontenddevelopers.slack.com) - Invites at http://frontenddevelopers.org/
 *   [Mr Frontend](https://mr-frontend-slack-invite.herokuapp.com/)
 *   [TechMasters](https://techmasters.chat/)
 
