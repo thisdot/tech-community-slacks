@@ -28,6 +28,9 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
     *    [Central Iowa Linux User's Group](http://www.cialug.org/)(https://cialug.slack.com/)
     *    [SecDSM](https://secdsm.org/)(https://secdsm.slack.com/)
     *    [DSMWebGeeks](http://www.dsmwebgeeks.com/)(https://dsmwebgeeks.slack.com/)
+    *    [Des Moines Web Collective](http://dsmwebcollective.com/)
+    *    [Central Iowa Linux User's Group](http://www.cialug.org/)
+    *    [SecDSM](https://secdsm.org/#slack)
 *   IL - [Chicago Tech](http://www.chicagotechslack.com/)
 *   IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
 *   MI - [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
