@@ -47,6 +47,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia or West Virginia:
 
 *   AL - [Magic City Tech](http://magiccitytech.org/)
+*   AR - [Northwest Arkansas Devs](https://nwa-devs-slackgroup.herokuapp.com/)
 *   FL - **in Florida we have:**
     *   [GNV Connect](https://gnvconnect.com/)
     *   [Orlando Devs](https://orlandodevs.com/slack)
