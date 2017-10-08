@@ -24,6 +24,10 @@ If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washing
 In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota and Wisconsin, there are some active channels below:
 
 *   IA - **In Iowa there are several channels:**
+    *    [Des Moines Web Collective](http://dsmwebcollective.com/)(https://dsmwebcollective.slack.com/)
+    *    [Central Iowa Linux User's Group](http://www.cialug.org/)(https://cialug.slack.com/)
+    *    [SecDSM](https://secdsm.org/)(https://secdsm.slack.com/)
+    *    [DSMWebGeeks](http://www.dsmwebgeeks.com/)(https://dsmwebgeeks.slack.com/)
     *    [Des Moines Web Collective](http://dsmwebcollective.com/)
     *    [Central Iowa Linux User's Group](http://www.cialug.org/)
     *    [SecDSM](https://secdsm.org/#slack)
@@ -31,6 +35,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 *   IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
 *   MI - [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
 *   MO - [STL Tech](https://stltech.herokuapp.com/)
+    * [SecKC](https://seckc.org/)(https://seckc.slack.com/)
 *   OH - **in Ohio there are several channels:**
     *   [TechLife Columbus](https://techlife-columbus-slack.herokuapp.com/)
     *   [Cleveland Tech](https://cleveland-tech.herokuapp.com/)
