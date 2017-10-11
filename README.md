@@ -200,6 +200,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Design Talks](https://designtalks.slack.com/)
 *   [Designer Hangout](https://www.designerhangout.co/)
 *   [Framer](https://framer-slack-signup.herokuapp.com/)
+*   [UX Mastery](http://slack.uxmastery.com/)
 
 ## Technologies
 
@@ -253,6 +254,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [GravCMS](https://getgrav.org/slack)
 *   [PyroCMS](https://pyrocms.com/slack)
 *   [We are Developer Evangelist and YOU CAN TOO](http://evangelistcollective.github.io)
+*   [Animation at Work](https://damp-lake-50659.herokuapp.com/)
 
 ## Resources
 
