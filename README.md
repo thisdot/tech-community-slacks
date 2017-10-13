@@ -16,7 +16,7 @@ If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washing
 *   NY - [BoroJS](http://slack.borojs.com/) and [NYC Tech](http://www.nyctechslack.com/)
 *   MD - [Baltimore Tech](http://baltimoretech-slack.herokuapp.com/)
 *   PA - **in Pennsylvania there are several channels:**
-    *   Philadelphia: [Philly Startup Leaders](https://www.sendgrowth.com/psl/) and [PhillyDev](https://phillydev.org/)
+    *   Philadelphia: [Philly Startup Leaders](https://www.sendgrowth.com/psl/) and [PhillyDev](https://phillydev.org/) and [Code for Philly](https://codeforphilly.org/register) and [Phl Design](https://docs.google.com/forms/d/e/1FAIpQLScaAROJx4kZQ7cPhATWWhfmpHK3YP6ourLgPalPwRqIMI1bmg/viewform?c=0&w=1)
     *   Northeast: [NEPA Tech & NEPA.js](https://nepatech.slack.com/) and [Wilkes-Barre Programming Community](https://wbpc-meetup.slack.com/)
 
 ### The Midwest
@@ -96,7 +96,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 
 
-# Other Countries    
+# Other Countries
 
 ### Argentina
 
@@ -133,7 +133,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [React Native Bangalore](http://reactnativebangalore.nativebase.io/) - Meetup group for Bangalore's React Native community
 
 ### Malaysia
-*  [GDG Kuala Lumpur](https://gdgkl-slack.herokuapp.com/) - Official Slack group of [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform. 
+*  [GDG Kuala Lumpur](https://gdgkl-slack.herokuapp.com/) - Official Slack group of [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
 
 ### Poland
 
