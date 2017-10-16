@@ -134,6 +134,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [React Native Bangalore](http://reactnativebangalore.nativebase.io/) - Meetup group for Bangalore's React Native community
 *   [GDG Bangalore](http://gdgbangalore-slack-invite.herokuapp.com/) - Official Slack group of Google Developers Group in Bangalore. Our monthly meetups are FREE and open to the public. We feature talks, workshops, open discussions, and more that focus on development strategies relating to Google developer products. We welcome developers from the community to host talks or workshops with our group.
 
+### Ireland
+
+* [Irish Tech Community](https://slackin-itc.herokuapp.com/) - [Many channels](http://irishtechcommunity.com/channels/) devoted to multiple subjects, from design and development of tech, to conferences and diversity.
+
 ### Malaysia
 *  [GDG Kuala Lumpur](https://gdgkl-slack.herokuapp.com/) - Official Slack group of [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
 
