@@ -131,9 +131,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [Mindorks Community](https://mindorks.com/join-community/) - Mindorks is a India based Group who organize the meetups and encourage contribution for open source.
 *   [React JS Bangalore](https://reactbangalore.herokuapp.com/) - Meetup group for Bangalore's React JS community
 *   [React Native Bangalore](http://reactnativebangalore.nativebase.io/) - Meetup group for Bangalore's React Native community
+*   [GDG Bangalore](http://gdgbangalore-slack-invite.herokuapp.com/) - Official Slack group of Google Developers Group in Bangalore. Our monthly meetups are FREE and open to the public. We feature talks, workshops, open discussions, and more that focus on development strategies relating to Google developer products. We welcome developers from the community to host talks or workshops with our group.
 
 ### Malaysia
-*  [GDG Kuala Lumpur](https://gdgkl-slack.herokuapp.com/) - Official Slack group of [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform. 
+*  [GDG Kuala Lumpur](https://gdgkl-slack.herokuapp.com/) - Official Slack group of [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
 
 ### Poland
 
