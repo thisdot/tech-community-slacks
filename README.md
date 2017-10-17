@@ -140,7 +140,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 * [Irish Tech Community](https://slackin-itc.herokuapp.com/) - [Many channels](http://irishtechcommunity.com/channels/) devoted to multiple subjects, from design and development of tech, to conferences and diversity.
 
 ### Malaysia
-*  [GDG Kuala Lumpur](https://gdgkl-slack.herokuapp.com/) - Official Slack group of [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
+*  [GDG Malaysia](https://gdgmy-slack.herokuapp.com/) - Official Slack group for [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/), [Google Developer Group George Town](http://www.gdggeorgetown.com/) and [Google Developer Group Kota Kinabalu](http://gdgkk.info/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
 
 ### Poland
 
