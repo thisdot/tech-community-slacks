@@ -188,6 +188,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Vue.js (Discord Chat)](https://chat.vuejs.org/)
 *   [VueJs Brasil (in Portuguese)](https://vuejs-brasil.herokuapp.com/)
 *   [WordPress](https://wordpress.slack.com/) - More Details at https://make.wordpress.org/chat/
+*   [AMP-Accelerated Mobile Pages](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877) - More Details at https://www.ampproject.org/
 
 ## Languages
 
