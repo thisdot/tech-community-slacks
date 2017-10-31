@@ -213,6 +213,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Ruby on Rails](http://www.rubyonrails.link/)
 *   [Strapi](http://slack.strapi.io/)
 *   [WeLearnJS](http://javascript-devs.herokuapp.com/)
+*   [Kotlin](http://slack.kotlinlang.org/)
 
 ## Design
 
