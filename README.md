@@ -231,6 +231,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Progressive Web Apps (PWAs)](https://bit.ly/join-pwa-slack)
 *   [Polymer](https://polymer-slack.herokuapp.com/)
 *   [Socket.io](https://slackin-socketio.now.sh/)
+*   [Firebase](https://firebase.community/)
 
 ## General Dev
 
