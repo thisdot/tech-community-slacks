@@ -34,6 +34,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
     *    [Startup Iowa](http://www.startupiowachat.com/)
 *   IL - [Chicago Tech](http://www.chicagotechslack.com/)
 *   IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
+*   KY - [Louisville.io] (http://louiville.io)
 *   MI - [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
 *   MO - [STL Tech](https://stltech.herokuapp.com/)
     * [SecKC](https://seckc.org/)(https://seckc.slack.com/)
@@ -54,7 +55,7 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
     *   [Orlando Devs](https://orlandodevs.com/slack)
     *   [Suncoast Developers Guild](https://suncoast-devs.slack.com/)
 *   GA - [Tech 404](http://tech404.io/)
-*   KY - [Louisville.io](http://slackin.louisville.io/)
+*   KY - [Louisville.io](http://slackin.louisville.io/)(http://louisville.slack.com)
 *   NC - [Triangle Devs](https://triangle-devs-slack-inviter.herokuapp.com/)
 *   SC - [Charleston Tech](https://charlestontechslack.herokuapp.com/)
 *   TN - [MTF Slack](http://slack.memphistechnology.org/)
