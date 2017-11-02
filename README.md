@@ -24,11 +24,11 @@ If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washing
 In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota and Wisconsin, there are some active channels below:
 
 *   IA - **In Iowa there are several channels:**
-    *    [Des Moines Web Collective](http://dsmwebcollective.com/)(https://dsmwebcollective.slack.com/)
+    *    [Des Moines Web Collective](http://dsmwebcollective.com/)(https://dsmwebcollective.herokuapp.com/)
+    *    [WordPress Des Moines](http://wpdsm.org/)(http://wordpressdsm.herokuapp.com/)
     *    [Central Iowa Linux User's Group](http://www.cialug.org/)(https://cialug.slack.com/)
     *    [SecDSM](https://secdsm.org/)(https://secdsm.slack.com/)
     *    [DSMWebGeeks](http://www.dsmwebgeeks.com/)(https://dsmwebgeeks.slack.com/)
-    *    [Des Moines Web Collective](http://dsmwebcollective.com/)
     *    [Central Iowa Linux User's Group](http://www.cialug.org/)
     *    [SecDSM](https://secdsm.org/#slack)
     *    [Startup Iowa](http://www.startupiowachat.com/)
