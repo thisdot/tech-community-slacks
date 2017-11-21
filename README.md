@@ -136,17 +136,17 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [BlrDroid-Bangalore Android Developers Group](https://blrdroid-slack.herokuapp.com/) - BlrDroid, is a group of enthusiastic android developers who love creating apps. We provide a platform for developers and enthusiasts either working within the Android ecosystem or interested in learning more about Android to collaborate and network among each other.
 *   [openEBS](http://slack.openebs.io/) - An opensource workplace in Bangalore for learning and contributing to the Cloud Native Storage happenings.
 
+### Ireland
+
+* [Irish Tech Community](https://slackin-itc.herokuapp.com/) - [Many channels](http://irishtechcommunity.com/channels/) devoted to multiple subjects, from design and development of tech, to conferences and diversity.
+
 ### Italy
 
 * [BEAM Italia](http://beam-italia.herokuapp.com/) - The italian community about BEAM programming languages. They mainly chat about Erlang and Elixir.
 * [Coding Jam](https://slackin-codingjam.herokuapp.com) - Community behind the italian programming blog [www.codingjam.it](http://codingjam.it/). They chat about different programming languages, mainly about JVM ones.
 * [DevDay Italia](http://slack.devday.it) - [Community based in Campania](https://devday.it). They chat about different programming languages, for example Java, Javascript, .NET.
 * [Italia JS](https://italiajs.herokuapp.com/) - The italian Javascript community.
-* [Scala Italy](slack.scala-italy.it/) - The italian Scala community.
-
-### Ireland
-
-* [Irish Tech Community](https://slackin-itc.herokuapp.com/) - [Many channels](http://irishtechcommunity.com/channels/) devoted to multiple subjects, from design and development of tech, to conferences and diversity.
+* [Scala Italy](http://slack.scala-italy.it/) - The italian Scala community.
 
 ### Malaysia
 *  [GDG Malaysia](https://gdgmy-slack.herokuapp.com/) - Official Slack group for [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/), [Google Developer Group George Town](http://www.gdggeorgetown.com/) and [Google Developer Group Kota Kinabalu](http://gdgkk.info/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
