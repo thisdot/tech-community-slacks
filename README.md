@@ -276,6 +276,9 @@ Below are some other interesting Slack channels for different technologies and p
 *   [We are Developer Evangelist and YOU CAN TOO](http://evangelistcollective.github.io)
 *   [Animation at Work](https://damp-lake-50659.herokuapp.com/)
 
+## Blogging
+*   [Programming Bloggers](https://programmingbloggers.herokuapp.com/)
+
 ## Resources
 
 *   [Scotch.io](https://scotch-slack.herokuapp.com/)
