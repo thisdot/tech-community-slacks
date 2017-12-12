@@ -18,6 +18,7 @@ If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washing
 *   PA - **in Pennsylvania there are several channels:**
     *   Philadelphia: [Philly Startup Leaders](https://www.sendgrowth.com/psl/) and [PhillyDev](https://phillydev.org/) and [Code for Philly](https://codeforphilly.org/register) and [Phl Design](https://docs.google.com/forms/d/e/1FAIpQLScaAROJx4kZQ7cPhATWWhfmpHK3YP6ourLgPalPwRqIMI1bmg/viewform?c=0&w=1)
     *   Northeast: [NEPA Tech & NEPA.js](https://nepatech.slack.com/) and [Wilkes-Barre Programming Community](https://wbpc-meetup.slack.com/)
+    *   Pittsburgh: [Code & Supply](https://codeandsupply.co/chat)
 
 ### The Midwest
 
