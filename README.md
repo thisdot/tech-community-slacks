@@ -103,6 +103,11 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 *   Buenos Aires [Meetup.js Argentina](https://slack.meetupjs.com.ar/)
 
+### Brazil
+
+*   [iOS Dev BR](https://iosdevbr.herokuapp.com/) - Brazilian slack for the iOS communitiy 
+*   [Android Dev BR](http://slack.androiddevbr.org/) - Brazilian slack for the Android communiny
+
 ### Canada
 
 *   BC - [Vancouver Developers (YVR Dev)](https://yvrdev.herokuapp.com/)
