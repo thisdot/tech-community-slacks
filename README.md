@@ -234,7 +234,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Kubernetes](http://slack.k8s.io/)
 *   [MongoDB](https://community-slack.mongodb.com/)
 *   [Node.JS](https://node-js.slack.com/messages/C3910A78T/)
-*   [Progressive Web Apps (PWAs)](https://bit.ly/join-pwa-slack)
+*   [Progressive Web Apps (PWAs)](https://pwa-slack.herokuapp.com/)
 *   [Polymer](https://polymer-slack.herokuapp.com/)
 *   [Socket.io](https://slackin-socketio.now.sh/)
 *   [Firebase](https://firebase.community/)
