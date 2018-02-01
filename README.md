@@ -125,10 +125,11 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### France
 
+*   France - [FranceJS](https://slack-francejs.now.sh/) very active Slack group of FrandeJS meetups communities
 *   Alsace - [GeekDpt](https://geekdpt.io) in Strasbourg (but not limited to the region)
 *   Alsace - [Elsass-dev](http://elsass-dev.fr) (ping [@xtuc](https://github.com/xtuc) to get an invite)
-*   Bretagne - [RennesJS](https://rennesjs.slack.com/) Slack group of [Rennes JavaScript](http://rennesjs.org/)
- community
+*   Bretagne - [RennesJS](https://rennesjs.slack.com/) Slack group of [Rennes JavaScript](http://rennesjs.org/) community
+
 ### India
 
 *   [Friends of HasGeek](https://friends.hasgeek.com/) - [HasGeek](https://hasgeek.com/) runs a variety of tech events primarily in Bangalore, but not limited to it.
