@@ -103,6 +103,11 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 *   Buenos Aires [Meetup.js Argentina](https://slack.meetupjs.com.ar/)
 
+### 🇧🇷 Brazil
+
+*   [iOS Dev BR](https://iosdevbr.herokuapp.com/) - Brazilian slack for the iOS communitiy 
+*   [Android Dev BR](http://slack.androiddevbr.org/) - Brazilian slack for the Android communiny
+
 ### 🇨🇦 Canada
 
 *   BC - [Vancouver Developers (YVR Dev)](https://yvrdev.herokuapp.com/)
@@ -124,6 +129,9 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   Alsace - [Elsass-dev](http://elsass-dev.fr) (ping [@xtuc](https://github.com/xtuc) to get an invite)
 *   Bretagne - [RennesJS](https://rennesjs.slack.com/) Slack group of [Rennes JavaScript](http://rennesjs.org/)
  community
+*   Lyon - [LyonJS](https://lyonjs.slack.com/) (ping [@Paul_Mougel](https://twitter.com/Paul_Mougel) to get an invite)
+*   Lyon - [LyonTechHub](https://slack.lyontechhub.org/)
+
 ### 🇮🇳 India
 
 *   [Friends of HasGeek](https://friends.hasgeek.com/) - [HasGeek](https://hasgeek.com/) runs a variety of tech events primarily in Bangalore, but not limited to it.
@@ -229,7 +237,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Kubernetes](http://slack.k8s.io/)
 *   [MongoDB](https://community-slack.mongodb.com/)
 *   [Node.JS](https://node-js.slack.com/messages/C3910A78T/)
-*   [Progressive Web Apps (PWAs)](https://bit.ly/join-pwa-slack)
+*   [Progressive Web Apps (PWAs)](https://pwa-slack.herokuapp.com/)
 *   [Polymer](https://polymer-slack.herokuapp.com/)
 *   [Socket.io](https://slackin-socketio.now.sh/)
 *   [Firebase](https://firebase.community/)
