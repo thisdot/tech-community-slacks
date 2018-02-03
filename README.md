@@ -1,6 +1,6 @@
 # List of Slack Channels for local communities by region
 
-## USA:
+## 🇺🇸 USA:
 
 ### New England
 
@@ -99,16 +99,16 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 # Other Countries
 
-### Argentina
+### 🇦🇷 Argentina
 
 *   Buenos Aires [Meetup.js Argentina](https://slack.meetupjs.com.ar/)
 
-### Brazil
+### 🇧🇷 Brazil
 
 *   [iOS Dev BR](https://iosdevbr.herokuapp.com/) - Brazilian slack for the iOS communitiy 
 *   [Android Dev BR](http://slack.androiddevbr.org/) - Brazilian slack for the Android communiny
 
-### Canada
+### 🇨🇦 Canada
 
 *   BC - [Vancouver Developers (YVR Dev)](https://yvrdev.herokuapp.com/)
 *   ON - [Ottawa Startups](https://ottawastartups.slack.com/messages/C0408SPU4/)
@@ -118,19 +118,22 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   ON - [CodePen Ottawa](http://codepen-ott.herokuapp.com/) Ottawa
 *   QC - [Sketch MTL](http://sketchmtl.now.sh/) Montreal
 
-### Finland
+### 🇫🇮 Finland
 
 *   [Angular Finland](https://www.angular.fi/) community w/ Slack mostly targeted for Finnish Angular enthuasists, but also international discussion.
 *   [Koodiklinikka](https://koodiklinikka.fi/) a finnish developer slack community that has over 1024 registered members
 
-### France
+### 🇫🇷 France
 
 *   France - [FranceJS](https://slack-francejs.now.sh/) very active Slack group of FrandeJS meetups communities
 *   Alsace - [GeekDpt](https://geekdpt.io) in Strasbourg (but not limited to the region)
 *   Alsace - [Elsass-dev](http://elsass-dev.fr) (ping [@xtuc](https://github.com/xtuc) to get an invite)
-*   Bretagne - [RennesJS](https://rennesjs.slack.com/) Slack group of [Rennes JavaScript](http://rennesjs.org/) community
+*   Bretagne - [RennesJS](https://rennesjs.slack.com/) Slack group of [Rennes JavaScript](http://rennesjs.org/)
+ community
+*   Lyon - [LyonJS](https://lyonjs.slack.com/) (ping [@Paul_Mougel](https://twitter.com/Paul_Mougel) to get an invite)
+*   Lyon - [LyonTechHub](https://slack.lyontechhub.org/)
 
-### India
+### 🇮🇳 India
 
 *   [Friends of HasGeek](https://friends.hasgeek.com/) - [HasGeek](https://hasgeek.com/) runs a variety of tech events primarily in Bangalore, but not limited to it.
 *   [GDG Pune](http://gdg-pune.slack.com/) - Local Meetup group of Pune who host the technical and non-technical events.
@@ -143,11 +146,11 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [BlrDroid-Bangalore Android Developers Group](https://blrdroid-slack.herokuapp.com/) - BlrDroid, is a group of enthusiastic android developers who love creating apps. We provide a platform for developers and enthusiasts either working within the Android ecosystem or interested in learning more about Android to collaborate and network among each other.
 *   [openEBS](http://slack.openebs.io/) - An opensource workplace in Bangalore for learning and contributing to the Cloud Native Storage happenings.
 
-### Ireland
+### 🇮🇪 Ireland
 
 * [Irish Tech Community](https://slackin-itc.herokuapp.com/) - [Many channels](http://irishtechcommunity.com/channels/) devoted to multiple subjects, from design and development of tech, to conferences and diversity.
 
-### Italy
+### 🇮🇹 Italy
 
 * [BEAM Italia](http://beam-italia.herokuapp.com/) - The italian community about BEAM programming languages. They mainly chat about Erlang and Elixir.
 * [Coding Jam](https://slackin-codingjam.herokuapp.com) - Community behind the italian programming blog [www.codingjam.it](http://codingjam.it/). They chat about different programming languages, mainly about JVM ones.
@@ -155,22 +158,22 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 * [Italia JS](https://italiajs.herokuapp.com/) - The italian Javascript community.
 * [Scala Italy](http://slack.scala-italy.it/) - The italian Scala community.
 
-### Malaysia
+### 🇲🇾 Malaysia
 *  [GDG Malaysia](https://gdgmy-slack.herokuapp.com/) - Official Slack group for [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/), [Google Developer Group George Town](http://www.gdggeorgetown.com/) and [Google Developer Group Kota Kinabalu](http://gdgkk.info/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
 
-### Poland
+### 🇵🇱 Poland
 
 *   Wroclaw - [Callstack Open Source](https://slack.callstack.io)
 
-### Romania
+### 🇷🇴 Romania
 
 *   tim.js - [tim.js, the Timișoara JavaScript Meetup Channel](https://timjs.slack.com)
 
-### UK
+### 🇬🇧 UK
 
 *   London - [Front End London](http://frontendlondon-slack.herokuapp.com/)
 
-### Vietnam
+### 🇻🇳 Vietnam
 
 * [Ruby Vietnam](http://chat.ruby.org.vn/) - The most quality community in Vietnam. Not only about Ruby but also JS, Elixir, DevOps...
 
@@ -235,7 +238,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Kubernetes](http://slack.k8s.io/)
 *   [MongoDB](https://community-slack.mongodb.com/)
 *   [Node.JS](https://node-js.slack.com/messages/C3910A78T/)
-*   [Progressive Web Apps (PWAs)](https://bit.ly/join-pwa-slack)
+*   [Progressive Web Apps (PWAs)](https://pwa-slack.herokuapp.com/)
 *   [Polymer](https://polymer-slack.herokuapp.com/)
 *   [Socket.io](https://slackin-socketio.now.sh/)
 *   [Firebase](https://firebase.community/)
