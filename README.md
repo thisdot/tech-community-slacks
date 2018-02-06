@@ -132,6 +132,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
  community
 *   Lyon - [LyonJS](https://lyonjs.slack.com/) (ping [@Paul_Mougel](https://twitter.com/Paul_Mougel) to get an invite)
 *   Lyon - [LyonTechHub](https://slack.lyontechhub.org/)
+*   Nantes - [Nantes Dev Community](https://nantes-dev-community.slack.com/)
 
 ### 🇮🇳 India
 
