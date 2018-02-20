@@ -53,6 +53,7 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
     *   [GNV Connect](https://gnvconnect.com/)
     *   [Orlando Devs](https://orlandodevs.com/slack)
     *   [Suncoast Developers Guild](https://suncoast-devs.slack.com/)
+    *   [SWFL Coders](http://swflcoders.slack.com/)
 *   GA - [Tech 404](http://tech404.io/)
 *   KY - [Louisville.io](http://slackin.louisville.io/)(http://louisville.slack.com)
 *   NC - [Triangle Devs](https://triangle-devs-slack-inviter.herokuapp.com/)
