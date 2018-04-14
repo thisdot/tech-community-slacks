@@ -61,7 +61,9 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
 *   TN - [MTF Slack](http://slack.memphistechnology.org/)
 *   TN - [NashDev](http://nashdev.com/)
 *   TN - [KnoxDevs](http://knoxdevs-slackin.herokuapp.com/)
-*   VA - [757 Dev](http://757dev.org)
+*   VA - **in Virginia we have:**
+    * [757 Dev](http://757dev.org)
+    * [NRVDev](https://nrvdev.slack.org)
 
 ### The Southwest
 
