@@ -50,10 +50,12 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
 *   AL - [Magic City Tech](http://magiccitytech.org/)
 *   AR - [Northwest Arkansas Devs](https://nwa-devs-slackgroup.herokuapp.com/)
 *   FL - **in Florida we have:**
+    *   [Front End Developers of Miami](http://fedm.herokuapp.com/)
     *   [GNV Connect](https://gnvconnect.com/)
     *   [Orlando Devs](https://orlandodevs.com/slack)
     *   [Suncoast Developers Guild](https://suncoast-devs.slack.com/)
     *   [SWFL Coders](http://swflcoders.slack.com/)
+    *   [Wynwood Teck](https://wyn.tech/)
 *   GA - [Tech 404](http://tech404.io/)
 *   KY - [Louisville.io](http://slackin.louisville.io/)(http://louisville.slack.com)
 *   NC - [Triangle Devs](https://triangle-devs-slack-inviter.herokuapp.com/)
