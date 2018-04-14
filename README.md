@@ -161,7 +161,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 * [Coding Jam](https://slackin-codingjam.herokuapp.com) - Community behind the italian programming blog [www.codingjam.it](http://codingjam.it/). They chat about different programming languages, mainly about JVM ones.
 * [DevDay Italia](http://slack.devday.it) - [Community based in Campania](https://devday.it). They chat about different programming languages, for example Java, Javascript, .NET.
 * [Italia JS](https://italiajs.herokuapp.com/) - The italian Javascript community.
+* [RomaJS](https://romajs.herokuapp.com/) - The Javascript community from Rome, Italy.
 * [Scala Italy](http://slack.scala-italy.it/) - The italian Scala community.
+* [CodeGardenRome + GraphRM](http://codegardenroma.herokuapp.com/) - A slack channel for multiple communities: Java, functional programming and Connected data from Rome, Italy.
+* [Rust Italia](http://rust-italia.herokuapp.com/) - The italian Rust community.
 
 ### 🇲🇾 Malaysia
 *  [GDG Malaysia](https://gdgmy-slack.herokuapp.com/) - Official Slack group for [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/), [Google Developer Group George Town](http://www.gdggeorgetown.com/) and [Google Developer Group Kota Kinabalu](http://gdgkk.info/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
