@@ -140,6 +140,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   Lyon - [LyonTechHub](https://slack.lyontechhub.org/)
 *   Nantes - [Nantes Dev Community](https://slack.nantes.community/)
 
+### 🇬🇭 Ghana
+
+* Accra - [DevCongress](https://devcongress-community.slack.com) Ghana's most active online community of developers and tech enthusiasts.
+
 ### 🇮🇳 India
 
 *   [Friends of HasGeek](https://friends.hasgeek.com/) - [HasGeek](https://hasgeek.com/) runs a variety of tech events primarily in Bangalore, but not limited to it.
