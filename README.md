@@ -277,6 +277,7 @@ Below are some other interesting Slack channels for different technologies and p
 
 *   [Women in Tech (WITchat)](http://witchat.github.io/)
 *   [Ladies of WordPress](https://ladiesofwp.slack.com)
+*   [VueVixens](https://vuevixens.slack.com)
 
 ## Misc Interest
 
