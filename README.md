@@ -142,7 +142,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### 🇬🇭 Ghana
 
-* Accra - [DevCongress](https://devcongress-community.slack.com) Ghana's most active online community of developers and tech enthusiasts.
+* Accra - [DevCongress](https://devcongress-community.slack.com) Ghana's most active online community of developers and tech enthusiasts. [Join](http://slack.devcongress.org/) DevCongress on Slack.
 
 ### 🇮🇳 India
 
