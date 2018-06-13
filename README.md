@@ -65,6 +65,7 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
 *   TN - [KnoxDevs](http://knoxdevs-slackin.herokuapp.com/)
 *   VA - **in Virginia we have:**
     * [NRVDev](https://nrvdev.slack.org)
+    * [757dev](https://slackin757dev.herokuapp.com/)
 
 ### The Southwest
 
