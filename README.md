@@ -106,10 +106,11 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 ### 🇦🇷 Argentina
 
 *   Buenos Aires [Meetup.js Argentina](https://slack.meetupjs.com.ar/)
+*   Buenos Aires [freeCodeCampBA](https://freecodecampba.org/chat/)
 
 ### 🇧🇷 Brazil
 
-*   [iOS Dev BR](https://iosdevbr.herokuapp.com/) - Brazilian slack for the iOS communitiy 
+*   [iOS Dev BR](https://iosdevbr.herokuapp.com/) - Brazilian slack for the iOS communitiy
 *   [Android Dev BR](http://slack.androiddevbr.org/) - Brazilian slack for the Android communiny
 
 ### 🇨🇦 Canada
