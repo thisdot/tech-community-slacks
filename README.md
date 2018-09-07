@@ -173,6 +173,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 * [Scala Italy](http://slack.scala-italy.it/) - The italian Scala community.
 * [CodeGardenRome + GraphRM](http://codegardenroma.herokuapp.com/) - A slack channel for multiple communities: Java, functional programming and Connected data from Rome, Italy.
 * [Rust Italia](http://rust-italia.herokuapp.com/) - The italian Rust community.
+* [GrUSP](https://slack-grusp.herokuapp.com/) - Community mostly about web development. They also organize big international conferences such as UniversalJSDay, PHPDay, ReactJSDay, ContainerDay etc.
+* [Milano Front End](https://milanofrontend.herokuapp.com/) - Milan local community for everything about front end development
+* [Laravel-Italia](http://laravel-italia.it/articoli/laravel-italia-e-su-slack) - The italian Laravel community
+* [Italia WP Community](https://it.wordpress.org/slack/) - The italian WordPress community
 
 ### 🇲🇾 Malaysia
 *  [GDG Malaysia](https://gdgmy-slack.herokuapp.com/) - Official Slack group for [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/), [Google Developer Group George Town](http://www.gdggeorgetown.com/) and [Google Developer Group Kota Kinabalu](http://gdgkk.info/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
