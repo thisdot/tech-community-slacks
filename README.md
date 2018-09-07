@@ -37,6 +37,8 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 *   IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
 *   KY - [Louisville.io] (http://louisville.io) & (http://louisville.slack.com)
 *   MI - [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
+*   MN - [MSPTech](http://www.msptech.online/)
+    *	 [Twin Cities Chaos Engineering Community](http://twincities-chaosengr.slack.com)
 *   MO - [STL Tech](https://stltech.herokuapp.com/)
     * [SecKC](https://seckc.org/)(https://seckc.slack.com/)
 *   OH - **in Ohio there are several channels:**
@@ -277,9 +279,16 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Hashtag Developers](http://www.hashtagdevelopers.com/)
 *   [Launch.Chat](http://launch.chat/)
 *   [Microsoft Developer Chat](http://msdev.chat/)
+*   [Modern Agile](http://modernagile.slack.com/)
 *   [Front End Web Developer](https://frontenddevelopers.slack.com) - Invites at http://frontenddevelopers.org/
 *   [Mr Frontend](https://mr-frontend-slack-invite.herokuapp.com/)
 *   [TechMasters](https://techmasters.chat/)
+
+## General Testing & QA
+
+*   [A/B Testing - modern testing, data science, agile development](https://oneofthethree.slack.com/) & (http://moderntesting.org)
+*   [Ministry of Testing](https://www.ministryoftesting.com/slack_invite)
+*   [Testersio](https://testersio.slack.com)
 
 ## Intro to Dev & Learning
 
