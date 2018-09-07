@@ -118,6 +118,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [iOS Dev BR](https://iosdevbr.herokuapp.com/) - Brazilian slack for the iOS communitiy 
 *   [Android Dev BR](http://slack.androiddevbr.org/) - Brazilian slack for the Android communiny
 
+### 🇨🇮 Cote d'Ivoire (Ivory Coast)
+
+*   [Code d'Ivoire](http://slack.codedivoire.com/) -  Slack community for developers in the Ivory Coast 
+
 ### 🇨🇦 Canada
 
 *   BC - [Vancouver Developers (YVR Dev)](https://yvrdev.herokuapp.com/)
