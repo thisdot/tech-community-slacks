@@ -31,7 +31,9 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
     *    [SecDSM](https://secdsm.org/)(https://secdsm.slack.com/)
     *    [Startup Iowa](http://www.startupiowachat.com/)
     *    [WordPress Des Moines](http://wpdsm.org/)(http://wordpressdsm.herokuapp.com/)
-*   IL - [Chicago Tech](http://www.chicagotechslack.com/)
+*   IL - **In Illinois there are several channels:**
+    *    [Chicago Tech](http://www.chicagotechslack.com/)
+    *    [AWS Chicago](http://slack.chicagoaws.com/)
 *   IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
 *   KY - [Louisville.io] (http://louisville.io) & (http://louisville.slack.com)
 *   MI - [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
