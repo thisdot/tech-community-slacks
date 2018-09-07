@@ -107,7 +107,8 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### 🇦🇷 Argentina
 
-*   Buenos Aires [Meetup.js Argentina](https://slack.meetupjs.com.ar/)
+*   Buenos Aires [Meetup.js Argentina](https://slack.meetupjs.com.ar/)  
+*   Buenos Aires [freeCodeCamp BA](https://freecodecampba.org/chat/)
 
 ### 🇧🇷 Brazil
 
