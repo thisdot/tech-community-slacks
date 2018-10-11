@@ -192,6 +192,12 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 ### 🇲🇾 Malaysia
 *  [GDG Malaysia](https://gdgmy-slack.herokuapp.com/) - Official Slack group for [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/), [Google Developer Group George Town](http://www.gdggeorgetown.com/) and [Google Developer Group Kota Kinabalu](http://gdgkk.info/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
 
+### Nigeria
+
+*   [Laravel Nigeria](https://www.laravelnigeria.com/)  - The Nigerian Laravel Community
+*   [Devcenter Square](https://devcenter-square-slack.herokuapp.com)  - Devcenter Square created to connect more developers and designers to an ever expanding network to foster software development excellence.   
+
+
 ### 🇵🇱 Poland
 
 *   Wroclaw - [Callstack Open Source](https://slack.callstack.io)
