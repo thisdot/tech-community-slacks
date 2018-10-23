@@ -236,6 +236,8 @@ Below are some other interesting Slack channels for different technologies and p
 *   [FeathersJS](http://slack.feathersjs.com/)
 *   [Hashtag NodeJS](https://hashtagnodejs.slack.com/messages/C066268AG/)
 *   [Ionic Worldwide](https://ionicworldwide.herokuapp.com/)
+*   [Laravel](https://larachat.co/)
+*   [Laravel Brasil (in Portuguese)](https://laravelbrasil.slack.com/)
 *   [NativeScript](https://nativescriptcommunity.slack.com/) - Invites at https://developer.telerik.com/wp-login.php?action=slack-invitation
 *   [NativeBase](http://slack.nativebase.io/)
 *   [Reactiflux](https://www.reactiflux.com/)
@@ -254,8 +256,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Erlang](https://erlang-slack.herokuapp.com/)
 *   [Gophers](https://gophersinvite.herokuapp.com/)
 *   [Java Dev BR (in Portuguese)](https://javadevbr.herokuapp.com/)
-*   [Laravel](https://larachat.co/)
-*   [Laravel Brasil (in Portuguese)](https://laravelbrasil.slack.com/)
+*   [PHP](https://php.ug/slackinvite)
 *   [Python developers](http://pythondevelopers.herokuapp.com/)
 *   [Ruby Developers](https://rubydevs.herokuapp.com/)
 *   [Ruby on Rails](http://www.rubyonrails.link/)
