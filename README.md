@@ -102,6 +102,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   UT - [UtahJS](https://slack.utahjs.com/)
 *   UT - [Utah Ruby User Group](http://urug.herokuapp.com/)
 *   WA - **in Washington there are several channels:**
+    *   [Angular Seattle](https://angular-seattle.slack.com)
     *   [Seattle Designers](https://seattledesigners.slack.com)
     *   [Seattle.rb](https://seattlerbslack.herokuapp.com/)
     *   [Seattle JS Hackers](https://seattlejshackers.slack.com)
