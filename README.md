@@ -118,6 +118,8 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### 🇦🇺 Australia
 
+*	Brisbane - [Brisbane Developers](https://brisbane-developers.slack.com)
+
 ### 🇧🇷 Brazil
 
 *   [iOS Dev BR](https://iosdevbr.herokuapp.com/) - Brazilian slack for the iOS communitiy 
