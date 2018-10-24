@@ -260,6 +260,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Ruby Developers](https://rubydevs.herokuapp.com/)
 *   [Ruby on Rails](http://www.rubyonrails.link/)
 *   [Strapi](http://slack.strapi.io/)
+*   [WeAllJS](https://wealljs.org)
 *   [WeLearnJS](http://javascript-devs.herokuapp.com/)
 *   [Kotlin](http://slack.kotlinlang.org/)
 
@@ -284,6 +285,8 @@ Below are some other interesting Slack channels for different technologies and p
 
 ## General Dev
 
+*   [CodeBuddies](https://codebuddiesmeet.herokuapp.com)
+*   [CodeNewbie](http://bit.ly/CodeNewbieSlack)
 *   [DevChat](https://devchat.devolio.net/)
 *   [Developers](http://www.hashtagdevelopers.com/)
 *   [deviofoundation](https://deviofoundation.slack.com/)
