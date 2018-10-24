@@ -147,6 +147,8 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 * France - [FranceJS](https://slack-francejs.now.sh/) very active Slack group of FranceJS meetups communities
 * France - [Android Dev Fr](http://bit.ly/AndroidDevFr/) active slack group for android french community
 * France - [Swift Baguette](https://communityinviter.com/apps/swift-baguette/inviteme/) active slack group for swift french community
+* France - [Les Agilistes](https://lesagilistes.slack.com) active community of 
+* France - [FrontendFrance](https://frontendfr.slack.com)
 *   Alsace - [GeekDpt](https://geekdpt.io) in Strasbourg (but not limited to the region)
 *   Alsace - [Elsass-dev](http://elsass-dev.fr) (ping [@xtuc](https://github.com/xtuc) to get an invite)
 *   Bretagne - [RennesJS](https://rennesjs.slack.com/) Slack group of [Rennes JavaScript](http://rennesjs.org/)
@@ -154,6 +156,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   Lyon - [LyonJS](https://lyonjs.slack.com/) (ping [@Paul_Mougel](https://twitter.com/Paul_Mougel) to get an invite)
 *   Lyon - [LyonTechHub](https://slack.lyontechhub.org/)
 *   Nantes - [Nantes Dev Community](https://slack.nantes.community/)
+*   Nantes - [ProductPeopleNantes](https://productpeoplenantes.slack.com)
 
 ### 🇬🇭 Ghana
 
