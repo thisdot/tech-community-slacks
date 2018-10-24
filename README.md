@@ -39,7 +39,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 *   MI - [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
 *   MN - [MSPTech](http://www.msptech.online/)
     *	 [Twin Cities Chaos Engineering Community](http://twincities-chaosengr.slack.com)
-*   MO - [STL Tech](https://stltech.herokuapp.com/)
+*   MO - [STL Tech](https://stltech.org)
     * [SecKC](https://seckc.org/)(https://seckc.slack.com/)
 *   OH - **in Ohio there are several channels:**
     *   [TechLife Columbus](https://techlife-columbus-slack.herokuapp.com/)
