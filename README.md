@@ -154,6 +154,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   Lyon - [LyonJS](https://lyonjs.slack.com/) (ping [@Paul_Mougel](https://twitter.com/Paul_Mougel) to get an invite)
 *   Lyon - [LyonTechHub](https://slack.lyontechhub.org/)
 *   Nantes - [Nantes Dev Community](https://slack.nantes.community/)
+*   Nantes - [NantesJS](https://join.slack.com/t/nantesjs/shared_invite/enQtMjU0NTcxMzU4MDM2LTMwMjljNjEzMmViYzllOGY5Y2VlMjI4MzMxM2QzZDYwZWRhMDA0YWFjMDgwZDI4NjFhN2Y4NDU4NjMwOWUwOTc)
 
 ### 🇬🇭 Ghana
 
