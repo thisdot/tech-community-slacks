@@ -35,6 +35,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
     *    [Chicago Tech](http://www.chicagotechslack.com/)
     *    [AWS Chicago](http://slack.chicagoaws.com/)
 *   IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
+*   KS - [devICT](https://devict-slackin.herokuapp.com/)
 *   KY - [Louisville.io] (http://louisville.io) & (http://louisville.slack.com)
 *   MI - [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
 *   MN - [MSPTech](http://www.msptech.online/)
