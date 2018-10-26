@@ -154,6 +154,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   Lyon - [LyonJS](https://lyonjs.slack.com/) (ping [@Paul_Mougel](https://twitter.com/Paul_Mougel) to get an invite)
 *   Lyon - [LyonTechHub](https://slack.lyontechhub.org/)
 *   Nantes - [Nantes Dev Community](https://slack.nantes.community/)
+* Montpellier - [Montpellier Tech Community](comm-montpellier.slack.com) active slack of all the tech communities of Montpellier [here to join](https://comm-montpellier-invit.herokuapp.com/)
 
 ### 🇬🇭 Ghana
 
