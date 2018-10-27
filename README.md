@@ -85,6 +85,7 @@ Local Slack channels in Arizona, New Mexico, Oklahoma, Texas:
 From Alaska, Hawaii and Washington down to California there are several local channels below:
 
 *   CA - **California groups:**
+    *   [js.la - Los Angeles JavaScript](https://join-jsla-slack.herokuapp.com/)
     *   [Los Angeles Scala Users Group](https://lascalausers.slack.com/)
     *   [Santa Barbara Tech Co-op](https://sbtechcoop.slack.com/)
 *   CO - **in Colorado there are several channels:**
