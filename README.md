@@ -76,6 +76,7 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
 Local Slack channels in Arizona, New Mexico, Oklahoma, Texas:
 
 *   AZ - [AZ WebDevs](https://azwebdevs.org/signin)
+*   NM - [Tech Community of New Mexico](http://techcommunityofnm.org/)
 *   OK - [Techlahoma](http://slack.techlahoma.org/)
 *   TX - [Refresh Austin](http://slack.refreshaustin.org/)
 
