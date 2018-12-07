@@ -139,6 +139,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   ON - [YOWDev](http://yowdev-slackin.herokuapp.com/) Ottawa
 *   ON - [CodePen Ottawa](http://codepen-ott.herokuapp.com/) Ottawa
 *   QC - [Sketch MTL](http://sketchmtl.now.sh/) Montreal
+*   QC - [Women In Tech Montreal](https://witmgroup-slack.herokuapp.com/) Montreal
 
 ### 🇫🇮 Finland
 
