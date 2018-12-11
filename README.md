@@ -214,6 +214,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 *   tim.js - [tim.js, the Timișoara JavaScript Meetup Channel](https://timjs.slack.com)
 
+### 🇷🇸 Serbia
+
+*   JS Belgrade - [JavaScript User Group from Belgrade, Serbia](http://slack.jsbelgrade.org/)
+
 ### 🇬🇧 UK
 
 *   London - [Front End London](http://frontendlondon-slack.herokuapp.com/)
