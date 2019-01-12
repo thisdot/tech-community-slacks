@@ -288,6 +288,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Polymer](https://polymer-slack.herokuapp.com/)
 *   [Socket.io](https://slackin-socketio.now.sh/)
 *   [Firebase](https://firebase.community/)
+*   [HoloLens](https://holodevelopersslack.azurewebsites.net/)
 
 ## General Dev
 
