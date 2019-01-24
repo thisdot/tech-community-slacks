@@ -213,6 +213,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 ### 🇷🇴 Romania
 
 *   tim.js - [tim.js, the Timișoara JavaScript Meetup Channel](https://timjs.slack.com)
+*   JSHeroes - [jsheroes slack](https://jsheroes-community.slack.com)
 
 ### 🇬🇧 UK
 
