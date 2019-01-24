@@ -303,6 +303,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Front End Web Developer](https://frontenddevelopers.slack.com) - Invites at http://frontenddevelopers.org/
 *   [Mr Frontend](https://mr-frontend-slack-invite.herokuapp.com/)
 *   [TechMasters](https://techmasters.chat/)
+*   [WeAllJS](https://wealljs.com/)
 
 ## General Testing & QA
 
