@@ -306,6 +306,11 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Mr Frontend](https://mr-frontend-slack-invite.herokuapp.com/)
 *   [TechMasters](https://techmasters.chat/)
 
+## Security
+
+*   [Node.js Security WG](https://nodejs-security-wg.herokuapp.com/)
+
+
 ## General Testing & QA
 
 *   [A/B Testing - modern testing, data science, agile development](https://oneofthethree.slack.com/) & (http://moderntesting.org)
