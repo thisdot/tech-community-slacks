@@ -44,7 +44,9 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 *   OH - **in Ohio there are several channels:**
     *   [TechLife Columbus](https://techlife-columbus-slack.herokuapp.com/)
     *   [Cleveland Tech](https://cleveland-tech.herokuapp.com/)
-*   WI - [Madison Community](https://madisoncommunity.azurewebsites.net/)
+*   WI - **in Wisconsin there are several channels:**
+    *   [Madison Community](https://madisoncommunity.azurewebsites.net/)
+    *   [Milwaukee Tech](https://mke-slack.herokuapp.com/)
 *   Midwest - [The Midwest Dev Chat](http://midwestdevchat.com/)
 
 ### The South Candidates
