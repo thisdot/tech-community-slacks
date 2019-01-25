@@ -64,7 +64,9 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
     *   [Wynwood Teck](https://wyn.tech/)
 *   GA - [Tech 404](http://tech404.io/)
 *   KY - [Louisville.io](http://slackin.louisville.io/)(http://louisville.slack.com)
-*   NC - [Triangle Devs](https://triangle-devs-slack-inviter.herokuapp.com/)
+*   NC
+    * [Charlotte Devs](https://charlottedevs.com/)
+    * [Triangle Devs](https://triangle-devs-slack-inviter.herokuapp.com/)
 *   SC - [Charleston Tech](https://charlestontechslack.herokuapp.com/)
 *   TN - [MTF Slack](http://slack.memphistechnology.org/)
 *   TN - [NashDev](http://nashdev.com/)
