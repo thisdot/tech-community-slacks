@@ -129,6 +129,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 *   [iOS Dev BR](https://iosdevbr.herokuapp.com/) - Brazilian slack for the iOS communitiy 
 *   [Android Dev BR](http://slack.androiddevbr.org/) - Brazilian slack for the Android communiny
+*   [Flutter Dev BR](https://flutterbr.herokuapp.com/) - Brazilian slack for the Flutter community
 
 ### 🇨🇮 Cote d'Ivoire (Ivory Coast)
 
