@@ -149,6 +149,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 *   [Angular Finland](https://www.angular.fi/) community w/ Slack mostly targeted for Finnish Angular enthuasists, but also international discussion.
 *   [Koodiklinikka](https://koodiklinikka.fi/) a finnish developer slack community that has over 1024 registered members
+*   [Turku ❤️ Frontend](https://turkufrontend.fi) a Finnish, English-speaking, Turku-based frontend developer community. Invites via [this link](https://turkulovesfrontend.herokuapp.com/).
 
 ### 🇫🇷 France
 
