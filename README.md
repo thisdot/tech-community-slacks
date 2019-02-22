@@ -232,6 +232,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 ### 🇬🇧 UK
 
 *   London - [Front End London](http://frontendlondon-slack.herokuapp.com/)
+*   Manchester - [mcrtech](http://mcrtech-slack.herokuapp.com/) - wide variety of topics, for Manchester and the North-West
 
 ### 🇻🇳 Vietnam
 
