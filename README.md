@@ -301,6 +301,8 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Strapi](http://slack.strapi.io/)
 *   [WeLearnJS](http://javascript-devs.herokuapp.com/)
 *   [Kotlin](http://slack.kotlinlang.org/)
+*   [Nim Lang (International / English)](https://gitter.im/nim-lang/Nim)
+*   [Nim Lang (Argentina / Spanish)](https://t.me/NimArgentina)
 
 ## Design
 
