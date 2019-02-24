@@ -34,6 +34,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 *   IL - **In Illinois there are several channels:**
     *    [Chicago Tech](http://www.chicagotechslack.com/)
     *    [AWS Chicago](http://slack.chicagoaws.com/)
+    *    [ChiPy (Chicago Python User Group)](https://www.chipy.org/)(https://joinchipyslack.herokuapp.com/)
 *   IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
 *   KS - [devICT.org](https://devict.org) in Wichita
 *   KY - [Louisville.io](http://louisville.io) & (http://louisville.slack.com)
