@@ -88,6 +88,7 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
 Local Slack channels in Arizona, New Mexico, Oklahoma, Texas:
 
 *   AZ - [AZ WebDevs](https://azwebdevs.org/signin)
+*   NM - [Tech Community of New Mexico](http://techcommunityofnm.org/)
 *   OK - [Techlahoma](http://slack.techlahoma.org/)
 *   TX - **in Texas we have:**
     * [Weird Swift ATX](https://weirdswiftslack.mybluemix.net/)
@@ -100,6 +101,7 @@ Local Slack channels in Arizona, New Mexico, Oklahoma, Texas:
 From Alaska, Hawaii and Washington down to California there are several local channels below:
 
 *   CA - **California groups:**
+    *   [js.la - Los Angeles JavaScript](https://join-jsla-slack.herokuapp.com/)
     *   [Los Angeles Scala Users Group](https://lascalausers.slack.com/)
     *   [Santa Barbara Tech Co-op](https://sbtechcoop.slack.com/)
     *   [Sacramento Javascript Meetup](https://sac-tech.herokuapp.com/)
