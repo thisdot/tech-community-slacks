@@ -172,7 +172,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 ### 🇫🇷 France
 
 * France - [FranceJS](https://slack-francejs.now.sh/) very active Slack group of FranceJS meetups communities
-* France - [Android Dev Fr](http://bit.ly/AndroidDevFr/) active slack group for android french community
+* France - [Android Dev Fr](https://android-dev-france.slack.com/) active slack group for android french community
 * France - [Swift Baguette](https://communityinviter.com/apps/swift-baguette/inviteme/) active slack group for swift french community
 *   Alsace - [GeekDpt](https://geekdpt.io) in Strasbourg (but not limited to the region)
 *   Alsace - [Elsass-dev](http://elsass-dev.fr) (ping [@xtuc](https://github.com/xtuc) to get an invite)
