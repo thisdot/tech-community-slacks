@@ -130,6 +130,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### 🇦🇺 Australia
 
+*	[DEVANZ](https://devanz.slack.com) - Australia and New Zealand Slack for developers
 *	Brisbane - [Brisbane Developers](https://brisbane-developers.slack.com)
 
 ### 🇧🇷 Brazil
