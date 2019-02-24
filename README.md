@@ -366,6 +366,8 @@ Below are some other interesting Slack channels for different technologies and p
 *   [We are Developer Evangelist and YOU CAN TOO](http://evangelistcollective.github.io)
 *   [Animation at Work](https://damp-lake-50659.herokuapp.com/)
 *   [Sitecore Community](https://sitecorechat.slack.com)
+*   [iOS Developer Community channel](https://ios-developers.slack.com)
+*   [Android developer Community Channel](https://android-united.slack.com)
 
 ## Blogging
 *   [Programming Bloggers](https://programmingbloggers.herokuapp.com/)
