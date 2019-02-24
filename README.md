@@ -36,6 +36,10 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
     *    [AWS Chicago](http://slack.chicagoaws.com/)
     *    [ChiPy (Chicago Python User Group)](https://www.chipy.org/)(https://joinchipyslack.herokuapp.com/)
 *   IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
+*   KY - [Louisville.io] (http://louisville.io) & (http://louisville.slack.com)
+*   MI - **In Michigan there are seval amazing channels:**
+    *    [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
+    *    [Detroit Speakers in Tech](https://tinyurl.com/Join-DSIT-Slack) in Detroit area
 *   KS - [devICT.org](https://devict.org) in Wichita
 *   KY - [Louisville.io](http://louisville.io) & (http://louisville.slack.com)
 *   MI - [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
