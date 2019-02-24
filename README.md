@@ -298,6 +298,10 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Framer](https://framer-slack-signup.herokuapp.com/)
 *   [UX Mastery](http://slack.uxmastery.com/)
 
+## Security
+
+*   [Node.js Security WG](https://nodejs-security-wg.herokuapp.com)
+
 ## Technologies
 
 *   [Chromium Dev](https://chromiumdev-slack.herokuapp.com/)
