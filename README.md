@@ -315,6 +315,7 @@ Below are some other interesting Slack channels for different technologies and p
 ## Security
 
 *   [Node.js Security WG](https://nodejs-security-wg.herokuapp.com)
+*   [The Secure Developer](http://bit.ly/tsdslack) - our mission is to educate and enable software engineers to integrate security into their development practices.
 
 ## Technologies
 
