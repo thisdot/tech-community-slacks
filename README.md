@@ -50,6 +50,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
     * [SecKC](https://seckc.org/)(https://seckc.slack.com/)
     * [SGF Web Devs](http://sgfwebdevs.com/)(https://sgfwebdevs.slack.com/)
     * [STL Tech](https://stltech.herokuapp.com/)
+    * [STL Tech](https://stltech.org)
 *   OH - **in Ohio there are several channels:**
     *   [TechLife Columbus](https://techlife-columbus-slack.herokuapp.com/)
     *   [Cleveland Tech](https://cleveland-tech.herokuapp.com/)
