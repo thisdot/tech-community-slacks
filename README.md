@@ -79,9 +79,14 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
     * [Charlotte Devs](https://slack.charlottedevs.com/)
     * [Triangle Devs](https://triangle-devs-slack-inviter.herokuapp.com/)
 *   SC - [Charleston Tech](https://charlestontechslack.herokuapp.com/)
-*   TN - [MTF Slack](http://slack.memphistechnology.org/)
-*   TN - [NashDev](http://nashdev.com/)
-*   TN - [KnoxDevs](http://knoxdevs-slackin.herokuapp.com/)
+*   TN
+	* [Chadev](https://chadev.com) - Chattanooga
+	* [Devanooga](https://www.devanooga.com/slack/) - Chattanooga
+	* [KnoxDevs](http://knoxdevs-slackin.herokuapp.com/) - Knoxville
+	* [MTF](http://slack.memphistechnology.org/) - Memphis
+	* [BoroDev](https://www.meetup.com/BoroDev/) - Murfreesboro
+	* [NashDev](http://nashdev.com/) - Nashville
+	* [TriDev](https://www.meetup.com/TriDev/) - Tri-Cities  	
 *   VA - **in Virginia we have:**
     * [NRVDev](https://nrvdev.slack.org)
     * [757dev](https://slackin757dev.herokuapp.com/)
