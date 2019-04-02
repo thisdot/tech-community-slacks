@@ -244,6 +244,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 ### 🇲🇾 Malaysia
 *  [GDG Malaysia](https://gdgmy-slack.herokuapp.com/) - Official Slack group for [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/), [Google Developer Group George Town](http://www.gdggeorgetown.com/) and [Google Developer Group Kota Kinabalu](http://gdgkk.info/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
 
+### 🇳🇿 New Zealand
+* [JavaScript New Zealand](https://javascript.org.nz/slack) - New Zealand JavaScript community organised by the JavaScript Society of New Zealand.
+* [Develop New Zealand](https://developnz.herokuapp.com) - New Zealand developer community with channels for various programming languages, jobs, and discussions.
+
 ### Nigeria
 
 *   [Laravel Nigeria](https://www.laravelnigeria.com/)  - The Nigerian Laravel Community
