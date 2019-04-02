@@ -1,6 +1,6 @@
 # List of Slack Channels for local communities by region
 
-## 🇺🇸 USA:
+## USA:
 
 ### New England
 
@@ -114,6 +114,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
     *   [Los Angeles Scala Users Group](https://lascalausers.slack.com/)
     *   [Santa Barbara Tech Co-op](https://sbtechcoop.slack.com/)
     *   [Sacramento Javascript Meetup](https://sac-tech.herokuapp.com/)
+    *   [LA Devs](https://www.ladevs.org/)
 *   CO - **in Colorado there are several channels:**
     *   [Denver Devs](https://denverdevs.org/)
     *   [Tech Friends](https://www.gettechfriends.com/)
