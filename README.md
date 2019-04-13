@@ -248,7 +248,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 * [JavaScript New Zealand](https://javascript.org.nz/slack) - New Zealand JavaScript community organised by the JavaScript Society of New Zealand.
 * [Develop New Zealand](https://developnz.herokuapp.com) - New Zealand developer community with channels for various programming languages, jobs, and discussions.
 
-### {{https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1ec.png?v8}} Nigeria
+### Nigeria
 *   [Angular Nigeria](https://twitter.com/ngnigeria) - Nigeria's largest Angular community.
 *   [Consonance](https://consonance-invite.herokuapp.com/) - Consonance is a community of technology enthusiasts across the Nigerian technology space.
 *   [Devcenter Square](https://devcenter-square-slack.herokuapp.com)  - Devcenter Square created to connect more developers and designers to an ever expanding network to foster software development excellence.
