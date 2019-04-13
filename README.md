@@ -255,7 +255,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [Frontstack](https://frontstack.io/) - Frontstack is a community for developers Frontend Engineering tech-space.
 *   [Ionic Nigeria](https://ionic-nigeria.herokuapp.com/) - A community for Ionic developers in Nigeria. Talk About buzzing designs, code patterns, ask technical questions, share knowledge.
 *   [Laravel Nigeria](https://www.laravelnigeria.com/)  - The Nigerian Laravel Community
-*   [Paystack Playstack](https://slack.paystack.com/) - A community for businesses integrating financial technology solutions using Paystack.
+*   [Paystack Playstack](https://slack.paystack.com/) - A community for businesses integrating fin-tech solutions using Paystack.
 *   [Python Nigeria](https://py-slack-invite.herokuapp.com) - A community of Python users and enthusiasts, with the goal of advancing the use of Python within Nigeria. We are an open community; as such, everyone is welcome to join and make meaningful contribution.
 *   [Scala Nigeria](https://www.meetup.com/lagosscala/) -  	Nigeria's Scala Community
 *   [Wecode](https://wecode.ng/) - We are a community of technology enthusiasts, entrepreneurs and software developers in Abuja.
