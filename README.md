@@ -258,7 +258,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [Paystack Playstack](https://slack.paystack.com/) - A community for businesses integrating fin-tech solutions using Paystack.
 *   [Python Nigeria](https://py-slack-invite.herokuapp.com) - A community of Python users and enthusiasts, with the goal of advancing the use of Python within Nigeria.
 *   [Scala Nigeria](https://www.meetup.com/lagosscala/) -  	Nigeria's largest Scala Community
-*   [Wecode](https://wecode.ng/) - We are a community of technology enthusiasts, entrepreneurs and software developers in Abuja.
+*   [Wecode](https://wecode.ng/) - Community of technology enthusiasts, entrepreneurs and software developers in Abuja.
 
 
 ### 🇵🇱 Poland
