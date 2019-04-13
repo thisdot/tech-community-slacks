@@ -250,7 +250,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### Nigeria
 *   [Angular Nigeria](https://twitter.com/ngnigeria) - Nigeria's largest Angular community.
-*   [Consonance](https://consonance-invite.herokuapp.com/) - Consonance is a community of technology enthusiasts across the Nigerian technology space, majorly in tertiary institutions.
+*   [Consonance](https://consonance-invite.herokuapp.com/) - Consonance is a community of technology enthusiasts across the Nigerian technology space.
 *   [Devcenter Square](https://devcenter-square-slack.herokuapp.com)  - Devcenter Square created to connect more developers and designers to an ever expanding network to foster software development excellence.
 *   [Frontstack](https://frontstack.io/) - Frontstack is a community to help more developers build skills in Frontend Engineering.
 *   [Ionic Nigeria](https://ionic-nigeria.herokuapp.com/) - A community for Ionic developers in Nigeria. Talk About buzzing designs, code patterns, ask technical questions, share knowledge.
