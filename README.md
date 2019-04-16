@@ -248,10 +248,17 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 * [JavaScript New Zealand](https://javascript.org.nz/slack) - New Zealand JavaScript community organised by the JavaScript Society of New Zealand.
 * [Develop New Zealand](https://developnz.herokuapp.com) - New Zealand developer community with channels for various programming languages, jobs, and discussions.
 
-### Nigeria
-
+### :nigeria: Nigeria
+*   [Angular Nigeria](https://twitter.com/ngnigeria) - Nigeria's largest Angular community.
+*   [Consonance](https://consonance-invite.herokuapp.com/) - Consonance is a community of technology enthusiasts across the Nigerian technology space.
+*   [Devcenter Square](https://devcenter-square-slack.herokuapp.com)  - Devcenter Square created to connect more developers and designers to an ever expanding network to foster software development excellence.
+*   [Frontstack](https://frontstack.io/) - Frontstack is a community for developers Frontend Engineering tech-space.
+*   [Ionic Nigeria](https://ionic-nigeria.herokuapp.com/) - A community for Ionic developers in Nigeria. Talk About buzzing designs, code patterns, ask technical questions, share knowledge.
 *   [Laravel Nigeria](https://www.laravelnigeria.com/)  - The Nigerian Laravel Community
-*   [Devcenter Square](https://devcenter-square-slack.herokuapp.com)  - Devcenter Square created to connect more developers and designers to an ever expanding network to foster software development excellence.   
+*   [Paystack Playstack](https://slack.paystack.com/) - A community for businesses integrating fin-tech solutions using Paystack.
+*   [Python Nigeria](https://py-slack-invite.herokuapp.com) - A community of Python users and enthusiasts, with the goal of advancing the use of Python within Nigeria.
+*   [Scala Nigeria](https://www.meetup.com/lagosscala/) -  	Nigeria's largest Scala Community
+*   [Wecode](https://wecode.ng/) - Community of technology enthusiasts, entrepreneurs and software developers in Abuja.
 
 
 ### 🇵🇱 Poland
