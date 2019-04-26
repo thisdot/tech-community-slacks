@@ -74,7 +74,9 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
     *   [Suncoast Developers Guild](https://suncoast-devs.slack.com/)
     *   [SWFL Coders](http://swflcoders.slack.com/)
     *   [Wynwood Teck](https://wyn.tech/)
-*   GA - [Tech 404](http://tech404.io/)
+*   GA - **in Georgia we have:**
+    *   [TechSAV](https://techsav.co/)
+    *   [Tech 404](http://tech404.io/)
 *   KY - [Louisville.io](http://slackin.louisville.io/)(http://louisville.slack.com)
 *   NC
     * [Charlotte Devs](https://slack.charlottedevs.com/)
@@ -154,18 +156,18 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### 🇧🇷 Brazil
 
-*   [iOS Dev BR](https://iosdevbr.herokuapp.com/) - Brazilian slack for the iOS community 
+*   [iOS Dev BR](https://iosdevbr.herokuapp.com/) - Brazilian slack for the iOS community
 *   [Android Dev BR](http://slack.androiddevbr.org/) - Brazilian slack for the Android community
 *   [BrazilJS](http://braziljs-slack.herokuapp.com/) - Brazilian slack for the Javascript community
 *   [Training Center](http://ctgroups.slack.com/) - Community focused on software development, design, information security, database, various programming languages, etc. Focused also on helping beginners, it is fully inclusive.
 =======
-*   [iOS Dev BR](https://iosdevbr.herokuapp.com/) - Brazilian slack for the iOS communitiy 
+*   [iOS Dev BR](https://iosdevbr.herokuapp.com/) - Brazilian slack for the iOS communitiy
 *   [Android Dev BR](http://slack.androiddevbr.org/) - Brazilian slack for the Android communiny
 *   [Flutter Dev BR](https://flutterbr.herokuapp.com/) - Brazilian slack for the Flutter community
 
 ### 🇨🇮 Cote d'Ivoire (Ivory Coast)
 
-*   [Code d'Ivoire](http://slack.codedivoire.com/) -  Slack community for developers in the Ivory Coast 
+*   [Code d'Ivoire](http://slack.codedivoire.com/) -  Slack community for developers in the Ivory Coast
 
 ### 🇨🇦 Canada
 
@@ -189,7 +191,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 * France - [FranceJS](https://slack-francejs.now.sh/) very active Slack group of FranceJS meetups communities
 * France - [Android Dev Fr](https://android-dev-france.slack.com/) active slack group for android french community
 * France - [Swift Baguette](https://communityinviter.com/apps/swift-baguette/inviteme/) active slack group for swift french community
-* France - [Les Agilistes](https://lesagilistes.slack.com) 
+* France - [Les Agilistes](https://lesagilistes.slack.com)
 * France - [FrontendFrance](https://frontendfr.slack.com)
 *   Alsace - [GeekDpt](https://geekdpt.io) in Strasbourg (but not limited to the region)
 *   Alsace - [Elsass-dev](http://elsass-dev.fr) (ping [@xtuc](https://github.com/xtuc) to get an invite)
@@ -350,6 +352,7 @@ Below are some other interesting Slack channels for different technologies and p
 ## Technologies
 
 *   [Chromium Dev](https://chromiumdev-slack.herokuapp.com/)
+*   [dbt](https://www.getdbt.com/)
 *   [Firebase](https://firebase-community.appspot.com/)
 *   [Kubernetes](http://slack.k8s.io/)
 *   [MongoDB](https://community-slack.mongodb.com/)
