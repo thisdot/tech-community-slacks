@@ -204,6 +204,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   Nantes - [NantesJS](https://join.slack.com/t/nantesjs/shared_invite/enQtMjU0NTcxMzU4MDM2LTMwMjljNjEzMmViYzllOGY5Y2VlMjI4MzMxM2QzZDYwZWRhMDA0YWFjMDgwZDI4NjFhN2Y4NDU4NjMwOWUwOTc)
 *   Nantes - [ProductPeopleNantes](https://productpeoplenantes.slack.com)
 
+### :de: Germany
+
+* [ReactJS.DE](https://reactjs.de) - [ReactJS.DE Slack](https://reactjs-de.slack.com/) - [Join](https://join.slack.com/t/reactjs-de/shared_invite/enQtNDAwNjEzNTc2MTE0LTdiZGFjZmNmYWE0ZWZmMmUzOGI3YTA1ZDg2NTk1N2UwZmE3YjJkNDgxNjk4Mzg1Zjg3YzNhZjNhYTgxMGE2OTQ) Germany's ReactJS community with several channels for different React topics.
+
 ### 🇬🇭 Ghana
 
 * Accra - [DevCongress](https://devcongress-community.slack.com) Ghana's most active online community of developers and tech enthusiasts. [Join](http://slack.devcongress.org/) DevCongress on Slack.
