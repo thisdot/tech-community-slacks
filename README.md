@@ -66,7 +66,9 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 
 Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia or West Virginia:
 
-*   AL - [Magic City Tech](http://magiccitytech.org/)
+*   AL 
+    *   Birmingham: [Magic City Tech](http://magiccitytech.org/)
+    *   Huntsville/Shoals/North Alabama: [tech256](https://tech256.com/)
 *   AR - [Northwest Arkansas Devs](https://nwa-devs-slackgroup.herokuapp.com/)
 *   FL - **in Florida we have:**
     *   [Front End Developers of Miami](http://fedm.herokuapp.com/)
@@ -90,7 +92,7 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
 	* [MTF](http://slack.memphistechnology.org/) - Memphis
 	* [BoroDev](https://www.meetup.com/BoroDev/) - Murfreesboro
 	* [NashDev](http://nashdev.com/) - Nashville
-	* [TriDev](https://www.meetup.com/TriDev/) - Tri-Cities  	
+	* [TriDev](https://www.meetup.com/TriDev/) - Tri-Cities
 *   VA - **in Virginia we have:**
     * [NRVDev](https://nrvdev.slack.org)
     * [757dev](https://slackin757dev.herokuapp.com/)
