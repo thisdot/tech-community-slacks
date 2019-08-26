@@ -77,6 +77,8 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
     *   [Suncoast Developers Guild](https://suncoast-devs.slack.com/)
     *   [SWFL Coders](http://swflcoders.slack.com/)
     *   [Wynwood Teck](https://wyn.tech/)
+    *   [Tampa Bay Tech](http://tampabaytech.org/slack/)
+    *   [Jacksonville Tech Community](http://jacksonville-tech.com/)
 *   GA - **in Georgia we have:**
     *   [TechSAV](https://techsav.co/)
     *   [Tech 404](http://tech404.io/)
