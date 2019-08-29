@@ -274,6 +274,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### 🇵🇱 Poland
 
+*   Java/JVM - [JVM Poland](https://jvm-poland.slack.com)
 *   Wroclaw - [Callstack Open Source](https://slack.callstack.io)
 
 ### 🇷🇴 Romania
