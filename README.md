@@ -7,6 +7,7 @@
 Where the morning can start with 80°F, rain 10" at noon, and everybody drinks Dunkin’. The home for Harvard, MIT, Yale, Brown, and the W3C has a blossoming tech comunity:
 
 * [Boston Javascript](https://bostonjavascript.slack.com/) - Invites at https://bostonjs.herokuapp.com/ (co hosted by http://bostonjs.com/)
+* CT - [New Haven.io](https://newhaven.io)
 
 ### Mid-Atlantic
 
