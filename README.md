@@ -48,9 +48,10 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 *   MN - [MSPTech](http://www.msptech.online/)
     *	 [Twin Cities Chaos Engineering Community](http://twincities-chaosengr.slack.com)
 *   MO - **In Missouri there are several channels:**
+    * [KC Tech Group](https://kctechgroup.org/)
+    * [KC Women in Tech](https://kcwomenintech.org/)
     * [SecKC](https://seckc.org/)(https://seckc.slack.com/)
     * [SGF Web Devs](http://sgfwebdevs.com/)(https://sgfwebdevs.slack.com/)
-    * [STL Tech](https://stltech.herokuapp.com/)
     * [STL Tech](https://stltech.org)
 *   OH - **in Ohio there are several channels:**
     *   [TechLife Columbus](https://techlife-columbus-slack.herokuapp.com/)
