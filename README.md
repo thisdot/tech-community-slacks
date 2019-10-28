@@ -138,6 +138,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [openEBS](http://slack.openebs.io/) - An opensource workplace in Bangalore for learning and contributing to the Cloud Native Storage happenings.
 *   [GDG New Delhi](https://gdgndslackinvite.herokuapp.com/) - GDG New Delhi provides a network for people who are interested in Google's open source technologies and also love the spirit of sharing in the field of technology. A group of developers that foster learning of Google’s developer technologies.
 *   [GDG Coimbatore](http://connect.gdgcbe.com/) - GDG Coimbatore is a Coimbatore-based non-profit developers group to learn, share and know more about technologies. The industry is growing like never before, and we're trying to push the community forward to keep up with the industry. We are constantly trying to push ourselves to bring the best of technology to you through sessions and unlimited resources. And this is just the beginning. We have a common channel to communicate with our community members.
+*    [GDG Cochin](http://gdgcochin.org/index.html) - GDG Cochin is the second GDG in Kerala, India which is a group of enthusiast developers who came together to share and spread knowledge. We primarily focus on Google's and other open source technologies.
 
 ### Ireland
 
