@@ -184,6 +184,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   QC - [Sketch MTL](http://sketchmtl.now.sh/) Montreal
 *   QC - [Women In Tech Montreal](https://witmgroup-slack.herokuapp.com/) Montreal
 
+### 🇨🇱 Chile
+
+*   [DevsChile](https://devschile.cl/) Community for all kind of tech related enthusiasts/professionals.
+
 ### 🇫🇮 Finland
 
 *   [Angular Finland](https://www.angular.fi/) community w/ Slack mostly targeted for Finnish Angular enthuasists, but also international discussion.
