@@ -215,6 +215,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### :de: Germany
 
+* [Angular.DE](https://workshops-de.slack.com) - [Join](https://workshops-de.slack.com/join/shared_invite/enQtMzIyMjk5MzE3MTA5LWMxMzViMzFjNmIzY2U4NDU5YjY1NzY0YmU3ZDZkMDY2YTc2OGJlMTc1MzUwYTMwYzkxMTZiMWFjNWZlYzVjMWU)
 * [ReactJS.DE](https://reactjs.de) - [ReactJS.DE Slack](https://reactjs-de.slack.com/) - [Join](https://join.slack.com/t/reactjs-de/shared_invite/enQtNDAwNjEzNTc2MTE0LTdiZGFjZmNmYWE0ZWZmMmUzOGI3YTA1ZDg2NTk1N2UwZmE3YjJkNDgxNjk4Mzg1Zjg3YzNhZjNhYTgxMGE2OTQ) Germany's ReactJS community with several channels for different React topics.
 
 ### 🇬🇭 Ghana
