@@ -295,6 +295,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   London - [Front End London](http://frontendlondon-slack.herokuapp.com/)
 *   Manchester - [mcrtech](http://mcrtech-slack.herokuapp.com/) - wide variety of topics, for Manchester and the North-West
 
+### 🇺🇦 Ukraine
+
+*   UkrOps - [UkrOps](http://slack.ukrops.club/)
+
 ### 🇻🇳 Vietnam
 
 * [Ruby Vietnam](http://chat.ruby.org.vn/) - The most quality community in Vietnam. Not only about Ruby but also JS, Elixir, DevOps...
