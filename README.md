@@ -92,15 +92,13 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 *   MI - **In Michigan there are seval amazing channels:**
     *    [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
     *    [Detroit Speakers in Tech](https://tinyurl.com/Join-DSIT-Slack) in Detroit area
-*   KS - [devICT.org](https://devict.org) in Wichita
-*   KY - [Louisville.io](http://louisville.io) & (http://louisville.slack.com)
-*   MI - [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
 *   MN - [MSPTech](http://www.msptech.online/)
     *	 [Twin Cities Chaos Engineering Community](http://twincities-chaosengr.slack.com)
 *   MO - **In Missouri there are several channels:**
+    * [KC Tech Group](https://kctechgroup.org/)
+    * [KC Women in Tech](https://kcwomenintech.org/)
     * [SecKC](https://seckc.org/)(https://seckc.slack.com/)
     * [SGF Web Devs](http://sgfwebdevs.com/)(https://sgfwebdevs.slack.com/)
-    * [STL Tech](https://stltech.herokuapp.com/)
     * [STL Tech](https://stltech.org)
 *   OH - **in Ohio there are several channels:**
     *   [TechLife Columbus](https://techlife-columbus-slack.herokuapp.com/)
