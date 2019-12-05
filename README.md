@@ -294,6 +294,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 * [Irish Tech Community](https://slackin-itc.herokuapp.com/) - [Many channels](http://irishtechcommunity.com/channels/) devoted to multiple subjects, from design and development of tech, to conferences and diversity.
 
+### 🇮🇱 Israel
+
+* [Israel Tech Slack channel](http://israeltech.slack.com)
+
 ### 🇮🇹 Italy
 
 * [BEAM Italia](http://beam-italia.herokuapp.com/) - The italian community about BEAM programming languages. They mainly chat about Erlang and Elixir.
