@@ -1,3 +1,52 @@
+# Navigation
+
+- [List of Slack Channels for local communities by region](#list-of-slack-channels-for-local-communities-by-region)
+  * [🇺🇸 USA:](#-----usa-)
+    + [New England](#new-england)
+    + [Mid-Atlantic](#mid-atlantic)
+    + [The Midwest](#the-midwest)
+    + [The South Candidates](#the-south-candidates)
+    + [The Southwest](#the-southwest)
+    + [The West](#the-west)
+- [Other Countries](#other-countries)
+    + [🇦🇷 Argentina](#-----argentina)
+    + [🇦🇺 Australia](#-----australia)
+    + [🇧🇷 Brazil](#-----brazil)
+    + [🇨🇮 Cote d'Ivoire (Ivory Coast)](#-----cote-d-ivoire--ivory-coast-)
+    + [🇨🇦 Canada](#-----canada)
+    + [🇫🇮 Finland](#-----finland)
+    + [🇫🇷 France](#-----france)
+    + [:de: Germany](#-de--germany)
+    + [🇬🇭 Ghana](#-----ghana)
+    + [🇮🇳 India](#-----india)
+    + [🇮🇪 Ireland](#-----ireland)
+    + [🇮🇹 Italy](#-----italy)
+    + [🇲🇾 Malaysia](#-----malaysia)
+    + [🇳🇿 New Zealand](#-----new-zealand)
+    + [:nigeria: Nigeria](#-nigeria--nigeria)
+    + [🇵🇱 Poland](#-----poland)
+    + [🇷🇴 Romania](#-----romania)
+    + [🇷🇸 Serbia](#-----serbia)
+    + [🇬🇧 UK](#-----uk)
+    + [🇻🇳 Vietnam](#-----vietnam)
+- [Conferences (public slack communities)](#conferences--public-slack-communities-)
+- [Bonus channels](#bonus-channels)
+  * [General Tech Slack Communities](#general-tech-slack-communities)
+  * [Frameworks](#frameworks)
+  * [Languages](#languages)
+  * [Design](#design)
+  * [Security](#security)
+  * [Technologies](#technologies)
+  * [General Dev](#general-dev)
+  * [Security](#security-1)
+  * [General Testing & QA](#general-testing---qa)
+  * [Intro to Dev & Learning](#intro-to-dev---learning)
+  * [Women](#women)
+  * [Misc Interest](#misc-interest)
+  * [Community Groups](#community-groups)
+  * [Blogging](#blogging)
+  * [Resources](#resources)
+
 # List of Slack Channels for local communities by region
 
 ## 🇺🇸 USA:
@@ -7,6 +56,7 @@
 Where the morning can start with 80°F, rain 10" at noon, and everybody drinks Dunkin’. The home for Harvard, MIT, Yale, Brown, and the W3C has a blossoming tech comunity:
 
 * [Boston Javascript](https://bostonjavascript.slack.com/) - Invites at https://bostonjs.herokuapp.com/ (co hosted by http://bostonjs.com/)
+* CT - [New Haven.io](https://newhaven.io)
 
 ### Mid-Atlantic
 
@@ -42,15 +92,13 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 *   MI - **In Michigan there are seval amazing channels:**
     *    [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
     *    [Detroit Speakers in Tech](https://tinyurl.com/Join-DSIT-Slack) in Detroit area
-*   KS - [devICT.org](https://devict.org) in Wichita
-*   KY - [Louisville.io](http://louisville.io) & (http://louisville.slack.com)
-*   MI - [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
 *   MN - [MSPTech](http://www.msptech.online/)
     *	 [Twin Cities Chaos Engineering Community](http://twincities-chaosengr.slack.com)
 *   MO - **In Missouri there are several channels:**
+    * [KC Tech Group](https://kctechgroup.org/)
+    * [KC Women in Tech](https://kcwomenintech.org/)
     * [SecKC](https://seckc.org/)(https://seckc.slack.com/)
     * [SGF Web Devs](http://sgfwebdevs.com/)(https://sgfwebdevs.slack.com/)
-    * [STL Tech](https://stltech.herokuapp.com/)
     * [STL Tech](https://stltech.org)
 *   OH - **in Ohio there are several channels:**
     *   [TechLife Columbus](https://techlife-columbus-slack.herokuapp.com/)
@@ -77,6 +125,8 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
     *   [Suncoast Developers Guild](https://suncoast-devs.slack.com/)
     *   [SWFL Coders](http://swflcoders.slack.com/)
     *   [Wynwood Teck](https://wyn.tech/)
+    *   [Tampa Bay Tech](http://tampabaytech.org/slack/)
+    *   [Jacksonville Tech Community](http://jacksonville-tech.com/)
 *   GA - **in Georgia we have:**
     *   [TechSAV](https://techsav.co/)
     *   [Tech 404](http://tech404.io/)
@@ -96,6 +146,8 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
 *   VA - **in Virginia we have:**
     * [NRVDev](https://nrvdev.slack.org)
     * [757dev](https://slackin757dev.herokuapp.com/)
+    * [Cville](https://cville.slack.com) - Charlottesville
+    * [Rocktown Tech](https://rocktowntech.slack.com) - Shenandoah Valley
 
 ### The Southwest
 
@@ -186,7 +238,11 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### 🇨🇱 Chile
 
+
 *   [DevsChile](https://devschile.cl/) Community for all kind of tech related enthusiasts/professionals.
+*   [Angular Chile](http://bit.ly/AngularChileSlack) in Santiago
+*   [devsChile](https://devschile.cl/) in Santiago and Concepción
+*   [Noders](https://noders.com/) in Santiago
 
 ### 🇫🇮 Finland
 
@@ -214,6 +270,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### :de: Germany
 
+* [Angular.DE](https://workshops-de.slack.com) - [Join](https://workshops-de.slack.com/join/shared_invite/enQtMzIyMjk5MzE3MTA5LWMxMzViMzFjNmIzY2U4NDU5YjY1NzY0YmU3ZDZkMDY2YTc2OGJlMTc1MzUwYTMwYzkxMTZiMWFjNWZlYzVjMWU)
 * [ReactJS.DE](https://reactjs.de) - [ReactJS.DE Slack](https://reactjs-de.slack.com/) - [Join](https://join.slack.com/t/reactjs-de/shared_invite/enQtNDAwNjEzNTc2MTE0LTdiZGFjZmNmYWE0ZWZmMmUzOGI3YTA1ZDg2NTk1N2UwZmE3YjJkNDgxNjk4Mzg1Zjg3YzNhZjNhYTgxMGE2OTQ) Germany's ReactJS community with several channels for different React topics.
 
 ### 🇬🇭 Ghana
@@ -240,6 +297,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 ### 🇮🇪 Ireland
 
 * [Irish Tech Community](https://slackin-itc.herokuapp.com/) - [Many channels](http://irishtechcommunity.com/channels/) devoted to multiple subjects, from design and development of tech, to conferences and diversity.
+
+### 🇮🇱 Israel
+
+* [Israel Tech Slack channel](http://israeltech.slack.com)
 
 ### 🇮🇹 Italy
 
@@ -278,6 +339,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### 🇵🇱 Poland
 
+*   Java/JVM - [JVM Poland](https://jvm-poland.slack.com)
 *   Wroclaw - [Callstack Open Source](https://slack.callstack.io)
 
 ### 🇷🇴 Romania
@@ -293,6 +355,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 *   London - [Front End London](http://frontendlondon-slack.herokuapp.com/)
 *   Manchester - [mcrtech](http://mcrtech-slack.herokuapp.com/) - wide variety of topics, for Manchester and the North-West
+
+### 🇺🇦 Ukraine
+
+*   UkrOps - [UkrOps](http://slack.ukrops.club/)
 
 ### 🇻🇳 Vietnam
 
@@ -371,6 +437,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Node.JS](https://node-js.slack.com/messages/C3910A78T/)
 *   [Progressive Web Apps (PWAs)](https://pwa-slack.herokuapp.com/)
 *   [Polymer](https://polymer-slack.herokuapp.com/)
+*   [PostgreSQL](https://postgres-slack.herokuapp.com/)
 *   [Socket.io](https://slackin-socketio.now.sh/)
 *   [Firebase](https://firebase.community/)
 *   [HoloLens](https://holodevelopersslack.azurewebsites.net/)
@@ -392,11 +459,6 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Mr Frontend](https://mr-frontend-slack-invite.herokuapp.com/)
 *   [TechMasters](https://techmasters.chat/)
 *   [CodeBuddies](https://codebuddies.org/slack)
-
-## Security
-
-*   [Node.js Security WG](https://nodejs-security-wg.herokuapp.com/)
-
 
 ## General Testing & QA
 
