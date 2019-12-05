@@ -434,6 +434,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Node.JS](https://node-js.slack.com/messages/C3910A78T/)
 *   [Progressive Web Apps (PWAs)](https://pwa-slack.herokuapp.com/)
 *   [Polymer](https://polymer-slack.herokuapp.com/)
+*   [PostgreSQL](https://postgres-slack.herokuapp.com/)
 *   [Socket.io](https://slackin-socketio.now.sh/)
 *   [Firebase](https://firebase.community/)
 *   [HoloLens](https://holodevelopersslack.azurewebsites.net/)
