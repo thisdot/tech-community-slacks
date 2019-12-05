@@ -450,11 +450,6 @@ Below are some other interesting Slack channels for different technologies and p
 *   [TechMasters](https://techmasters.chat/)
 *   [CodeBuddies](https://codebuddies.org/slack)
 
-## Security
-
-*   [Node.js Security WG](https://nodejs-security-wg.herokuapp.com/)
-
-
 ## General Testing & QA
 
 *   [A/B Testing - modern testing, data science, agile development](https://oneofthethree.slack.com/) & (http://moderntesting.org)
