@@ -204,7 +204,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 *   Buenos Aires [Meetup.js Argentina](https://slack.meetupjs.com.ar/)  
 *   Buenos Aires [freeCodeCamp BA](https://freecodecampba.org/chat/)
-*   [Pro-Gramadores](https://pro-gramadores.org/) in Santiago
+*   Chaco [Pro-Gramadores](https://pro-gramadores.org/)
 
 ### 🇦🇺 Australia
 
