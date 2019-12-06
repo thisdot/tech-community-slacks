@@ -204,6 +204,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 *   Buenos Aires [Meetup.js Argentina](https://slack.meetupjs.com.ar/)  
 *   Buenos Aires [freeCodeCamp BA](https://freecodecampba.org/chat/)
+*   [Pro-Gramadores](https://pro-gramadores.org/) in Santiago
 
 ### 🇦🇺 Australia
 
@@ -243,6 +244,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [Angular Chile](http://bit.ly/AngularChileSlack) in Santiago
 *   [devsChile](https://devschile.cl/) in Santiago and Concepción
 *   [Noders](https://noders.com/) in Santiago
+*   [Pro-Gramadores](https://pro-gramadores.org/) in Santiago
 
 ### 🇫🇮 Finland
 
