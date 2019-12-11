@@ -307,6 +307,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 * [BEAM Italia](http://beam-italia.herokuapp.com/) - The italian community about BEAM programming languages. They mainly chat about Erlang and Elixir.
 * [Coding Jam](https://slackin-codingjam.herokuapp.com) - Community behind the italian programming blog [www.codingjam.it](http://codingjam.it/). They chat about different programming languages, mainly about JVM ones.
 * [DevDay Italia](http://slack.devday.it) - [Community based in Campania](https://devday.it). They chat about different programming languages, for example Java, Javascript, .NET.
+* [Developers Italia](https://slack.developers.italia.it) - A community of developers who design and code Italian digital public services.
 * [Italia JS](https://italiajs.herokuapp.com/) - The italian Javascript community.
 * [RomaJS](https://romajs.herokuapp.com/) - The Javascript community from Rome, Italy.
 * [Scala Italy](http://slack.scala-italy.it/) - The italian Scala community.
