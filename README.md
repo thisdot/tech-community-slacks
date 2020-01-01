@@ -14,6 +14,7 @@
     + [🇧🇷 Brazil](#-----brazil)
     + [🇨🇮 Cote d'Ivoire (Ivory Coast)](#-----cote-d-ivoire--ivory-coast-)
     + [🇨🇦 Canada](#-----canada)
+    + [🇨🇱 Chile](#-----chile)
     + [🇫🇮 Finland](#-----finland)
     + [🇫🇷 France](#-----france)
     + [:de: Germany](#-de--germany)
