@@ -339,7 +339,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### 🇵🇭 Philippines
 
-*   [Phackers](https://www.phackers.com) - Philippine Tech Hackers
+*   [Phackers](http://www.phackers.com/) - Philippine Tech Hackers
 
 ### 🇵🇱 Poland
 
