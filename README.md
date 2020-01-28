@@ -355,6 +355,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 *   London - [Front End London](http://frontendlondon-slack.herokuapp.com/)
 *   Manchester - [mcrtech](http://mcrtech-slack.herokuapp.com/) - wide variety of topics, for Manchester and the North-West
+*   Leicester - [LeicesterJS](https://leicesterjs.org/slack) - Leicester's largest tech meetup community
 
 ### 🇺🇦 Ukraine
 
