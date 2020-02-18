@@ -319,6 +319,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 * [Milano Front End](https://milanofrontend.herokuapp.com/) - Milan local community for everything about front end development
 * [Laravel-Italia](http://laravel-italia.it/articoli/laravel-italia-e-su-slack) - The italian Laravel community
 * [Italia WP Community](https://it.wordpress.org/slack/) - The italian WordPress community
+* [AWS Community Italy](https://aws-community-italy.slack.com/) - The italian AWS community
 
 ### 🇲🇾 Malaysia
 *  [GDG Malaysia](https://gdgmy-slack.herokuapp.com/) - Official Slack group for [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/), [Google Developer Group George Town](http://www.gdggeorgetown.com/) and [Google Developer Group Kota Kinabalu](http://gdgkk.info/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
