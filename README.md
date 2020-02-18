@@ -25,6 +25,7 @@
     + [🇲🇾 Malaysia](#-----malaysia)
     + [🇳🇿 New Zealand](#-----new-zealand)
     + [:nigeria: Nigeria](#-nigeria--nigeria)
+    + [🇵🇭 Philippines](#-----philippines)
     + [🇵🇱 Poland](#-----poland)
     + [🇷🇴 Romania](#-----romania)
     + [🇷🇸 Serbia](#-----serbia)
@@ -340,6 +341,9 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [Scala Nigeria](https://www.meetup.com/lagosscala/) -  	Nigeria's largest Scala Community
 *   [Wecode](https://wecode.ng/) - Community of technology enthusiasts, entrepreneurs and software developers in Abuja.
 
+### 🇵🇭 Philippines
+
+*   [Phackers](http://www.phackers.com/) - Philippine Tech Hackers
 
 ### 🇵🇱 Poland
 
