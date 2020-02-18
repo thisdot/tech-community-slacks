@@ -158,8 +158,8 @@ Local Slack channels in Arizona, New Mexico, Oklahoma, Texas:
 *   OK - [Techlahoma](http://slack.techlahoma.org/)
 *   TX - **in Texas we have:**
     * [Weird Swift ATX](https://weirdswiftslack.mybluemix.net/)
-    * [Refresh Austin](http://slack.refreshaustin.org/)
-    * [Refresh Austin](http://slack.refreshaustin.org/)
+    * [Refresh Austin](http://slack.refreshaustin.org/) - community of designers and developers
+    * [Open Austin](https://slack.open-austin.org/) - citizen brigade advocating for open government, open data
     * [San Antonio Devs](https://sanantoniodevs.com)
 
 ### The West
