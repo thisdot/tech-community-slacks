@@ -145,7 +145,7 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
 	* [NashDev](http://nashdev.com/) - Nashville
 	* [TriDev](https://www.meetup.com/TriDev/) - Tri-Cities
 *   VA - **in Virginia we have:**
-    * [NRVDev](https://nrvdev.slack.org)
+    * [NRV Dev](https://nrv.dev) - New River Valley
     * [757dev](https://slackin757dev.herokuapp.com/)
     * [Cville](https://cville.slack.com) - Charlottesville
     * [Rocktown Tech](https://rocktowntech.slack.com) - Shenandoah Valley
