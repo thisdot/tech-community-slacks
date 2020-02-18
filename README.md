@@ -243,7 +243,6 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 *   [DevsChile](https://devschile.cl/) Community for all kind of tech related enthusiasts/professionals.
 *   [Angular Chile](http://bit.ly/AngularChileSlack) in Santiago
-*   [devsChile](https://devschile.cl/) in Santiago and Concepción
 *   [Noders](https://noders.com/) in Santiago
 *   [Pro-Gramadores](https://pro-gramadores.org/) in Santiago
 
