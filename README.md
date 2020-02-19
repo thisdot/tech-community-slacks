@@ -131,6 +131,7 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
     *   [Wynwood Teck](https://wyn.tech/)
     *   [Tampa Bay Tech](http://tampabaytech.org/slack/)
     *   [Jacksonville Tech Community](http://jacksonville-tech.com/)
+    *   [Space Coast Tech Club](https://spacecoasttechclub.herokuapp.com/)
 *   GA - **in Georgia we have:**
     *   [TechSAV](https://techsav.co/)
     *   [Tech 404](http://tech404.io/)
