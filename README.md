@@ -5,7 +5,7 @@
     + [New England](#new-england)
     + [Mid-Atlantic](#mid-atlantic)
     + [The Midwest](#the-midwest)
-    + [The South Candidates](#the-south-candidates)
+    + [The Southeast](#the-southeast)
     + [The Southwest](#the-southwest)
     + [The West](#the-west)
 - [Other Countries](#other-countries)
@@ -114,45 +114,52 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
     *   [NEW (Northeast WI) Slack](http://newslack.appletonmakerspace.org)
 *   Midwest - [The Midwest Dev Chat](http://midwestdevchat.com/)
 
-### The South Candidates
+### The Southeast
 
 Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia or West Virginia:
 
-*   AL 
-    *   Birmingham: [Magic City Tech](http://magiccitytech.org/)
-    *   Huntsville/Shoals/North Alabama: [tech256](https://tech256.com/)
-*   AR - [Northwest Arkansas Devs](https://nwa-devs-slackgroup.herokuapp.com/)
-*   FL - **in Florida we have:**
-    *   [Front End Developers of Miami](http://fedm.herokuapp.com/)
-    *   [GNV Connect](https://gnvconnect.com/)
-    *   [Orlando Devs](https://orlandodevs.com/slack)
-    *   [Suncoast Developers Guild](https://suncoast-devs.slack.com/)
-    *   [SWFL Coders](http://swflcoders.slack.com/)
-    *   [Wynwood Teck](https://wyn.tech/)
-    *   [Tampa Bay Tech](http://tampabaytech.org/slack/)
-    *   [Jacksonville Tech Community](http://jacksonville-tech.com/)
-    *   [Space Coast Tech Club](https://spacecoasttechclub.herokuapp.com/)
-*   GA - **in Georgia we have:**
-    *   [TechSAV](https://techsav.co/)
-    *   [Tech 404](http://tech404.io/)
-*   KY - [Louisville.io](http://slackin.louisville.io/)(http://louisville.slack.com)
+
+*   AL
+    *   [Magic City Tech](http://magiccitytech.org/) - Birmingham 
+    *   [tech256](https://tech256.com/) - Huntsville/Shoals/North Alabama
+*   AR
+	*   [Northwest Arkansas Devs](https://nwa-devs-slackgroup.herokuapp.com/) - Fayetteville/Rogers   
+	*   [Little Rock Tech Fest](https://lrdev.typeform.com/to/aZ9Hr8?fbclid=IwAR3PhhP5XQZzcFmYo2DDfDo_CeQgA9SXCrZmZnl2_ERaWo5uIqV0wM7Ixro) - Little Rock   
+*   FL
+    *   [SWFL Coders](http://swflcoders.slack.com/) - Ft. Myers
+    *   [GNV Connect](https://gnvconnect.com/) - Gainesville
+    *   [Jacksonville Tech Community](http://jacksonville-tech.com/) - Jacksonville
+    *   [Front End Developers of Miami](http://fedm.herokuapp.com/) - Miami
+    *   [Wynwood Tech](https://wyn.tech/) - Miami
+    *   [Orlando Devs](https://orlandodevs.com/slack) - Orlando
+    *   [Suncoast Developers Guild](https://suncoast-devs.slack.com/) - St. Petersburg
+    *   [Tampa Bay Tech](http://tampabaytech.org/slack/) - Tampa Bay
+*   GA
+    *   [TechSAV](https://techsav.co/) - Savannah
+    *   [Tech 404](http://tech404.io/) - Atlanta
+*   KY
+    *   [Bluegrass Developers Guild](https://www.bluegrassdevs.org/) - Lexington
+    *   [Startup Lexington](https://www.startuplexington.org/) - Lexington
+    *   [Louisville.io](http://slackin.louisville.io/) - Louisville
+
 *   NC
-    * [Charlotte Devs](https://slack.charlottedevs.com/)
-    * [Triangle Devs](https://triangle-devs-slack-inviter.herokuapp.com/)
-*   SC - [Charleston Tech](https://charlestontechslack.herokuapp.com/)
+    *   [Charlotte Devs](https://slack.charlottedevs.com/) - Charlotte
+    *   [Triangle Devs](https://triangle-devs-slack-inviter.herokuapp.com/) - Raleigh/Durham
+*   SC
+    *   [Charleston Tech](https://charlestontechslack.herokuapp.com/) - Charleston
 *   TN
-	* [Chadev](https://chadev.com) - Chattanooga
-	* [Devanooga](https://www.devanooga.com/slack/) - Chattanooga
-	* [KnoxDevs](http://knoxdevs-slackin.herokuapp.com/) - Knoxville
-	* [MTF](http://slack.memphistechnology.org/) - Memphis
-	* [BoroDev](https://www.meetup.com/BoroDev/) - Murfreesboro
-	* [NashDev](http://nashdev.com/) - Nashville
-	* [TriDev](https://www.meetup.com/TriDev/) - Tri-Cities
-*   VA - **in Virginia we have:**
-    * [NRV Dev](https://nrv.dev) - New River Valley
-    * [757dev](https://slackin757dev.herokuapp.com/)
-    * [Cville](https://cville.slack.com) - Charlottesville
-    * [Rocktown Tech](https://rocktowntech.slack.com) - Shenandoah Valley
+    *   [Chadev](https://chadev.com) - Chattanooga
+    *   [Devanooga](https://www.devanooga.com/slack/) - Chattanooga
+    *   [KnoxDevs](http://knoxdevs-slackin.herokuapp.com/) - Knoxville
+    *   [MTF](http://slack.memphistechnology.org/) - Memphis
+    *   [BoroDev](https://www.meetup.com/BoroDev/) - Murfreesboro
+    *   [NashDev](http://nashdev.com/) - Nashville
+    *   [TriDev](https://www.meetup.com/TriDev/) - Tri-Cities
+*   VA
+    *   [NRVDev](https://nrvdev.slack.org)
+    *   [757dev](https://slackin757dev.herokuapp.com/)
+    *   [Cville](https://cville.slack.com) - Charlottesville
+    *   [Rocktown Tech](https://rocktowntech.slack.com) - Shenandoah Valley
 
 ### The Southwest
 
