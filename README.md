@@ -14,16 +14,20 @@
     + [🇧🇷 Brazil](#-----brazil)
     + [🇨🇮 Cote d'Ivoire (Ivory Coast)](#-----cote-d-ivoire--ivory-coast-)
     + [🇨🇦 Canada](#-----canada)
+    + [🇨🇱 Chile](#-----chile)
     + [🇫🇮 Finland](#-----finland)
     + [🇫🇷 France](#-----france)
     + [:de: Germany](#-de--germany)
     + [🇬🇭 Ghana](#-----ghana)
     + [🇮🇳 India](#-----india)
+    + [🇮🇩 Indonesia](#-----india)
     + [🇮🇪 Ireland](#-----ireland)
     + [🇮🇹 Italy](#-----italy)
+    + [🇯🇵 Japan](#-----japan)
     + [🇲🇾 Malaysia](#-----malaysia)
     + [🇳🇿 New Zealand](#-----new-zealand)
     + [:nigeria: Nigeria](#-nigeria--nigeria)
+    + [🇵🇭 Philippines](#-----philippines)
     + [🇵🇱 Poland](#-----poland)
     + [🇷🇴 Romania](#-----romania)
     + [🇷🇸 Serbia](#-----serbia)
@@ -89,7 +93,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 *   IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
 *   KS - [devICT](https://devict-slackin.herokuapp.com/)
 *   KY - [Louisville.io] (http://louisville.io) & (http://louisville.slack.com)
-*   MI - **In Michigan there are seval amazing channels:**
+*   MI - **In Michigan there are several amazing channels:**
     *    [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
     *    [Detroit Speakers in Tech](https://tinyurl.com/Join-DSIT-Slack) in Detroit area
 *   MN - [MSPTech](http://www.msptech.online/)
@@ -114,13 +118,13 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 
 Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia or West Virginia:
 
+
 *   AL
     *   [Magic City Tech](http://magiccitytech.org/) - Birmingham 
     *   [tech256](https://tech256.com/) - Huntsville/Shoals/North Alabama
 *   AR
 	*   [Northwest Arkansas Devs](https://nwa-devs-slackgroup.herokuapp.com/) - Fayetteville/Rogers   
 	*   [Little Rock Tech Fest](https://lrdev.typeform.com/to/aZ9Hr8?fbclid=IwAR3PhhP5XQZzcFmYo2DDfDo_CeQgA9SXCrZmZnl2_ERaWo5uIqV0wM7Ixro) - Little Rock   
-	
 *   FL
     *   [SWFL Coders](http://swflcoders.slack.com/) - Ft. Myers
     *   [GNV Connect](https://gnvconnect.com/) - Gainesville
@@ -137,6 +141,7 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
     *   [Bluegrass Developers Guild](https://www.bluegrassdevs.org/) - Lexington
     *   [Startup Lexington](https://www.startuplexington.org/) - Lexington
     *   [Louisville.io](http://slackin.louisville.io/) - Louisville
+
 *   NC
     *   [Charlotte Devs](https://slack.charlottedevs.com/) - Charlotte
     *   [Triangle Devs](https://triangle-devs-slack-inviter.herokuapp.com/) - Raleigh/Durham
@@ -165,8 +170,8 @@ Local Slack channels in Arizona, New Mexico, Oklahoma, Texas:
 *   OK - [Techlahoma](http://slack.techlahoma.org/)
 *   TX - **in Texas we have:**
     * [Weird Swift ATX](https://weirdswiftslack.mybluemix.net/)
-    * [Refresh Austin](http://slack.refreshaustin.org/)
-    * [Refresh Austin](http://slack.refreshaustin.org/)
+    * [Refresh Austin](http://slack.refreshaustin.org/) - community of designers and developers
+    * [Open Austin](https://slack.open-austin.org/) - citizen brigade advocating for open government, open data
     * [San Antonio Devs](https://sanantoniodevs.com)
 
 ### The West
@@ -202,7 +207,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
     *   [Seattle.rb](https://seattlerbslack.herokuapp.com/)
     *   [Seattle JS Hackers](https://seattlejshackers.slack.com)
     *   [Tech Seattle](https://techseattle.slack.com/messages/C045K4QLR/)
-
+    *	[Seattle Code Crafters](https://seattlecodecrafters.slack.com)
 
 
 # Other Countries
@@ -211,6 +216,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 *   Buenos Aires [Meetup.js Argentina](https://slack.meetupjs.com.ar/)  
 *   Buenos Aires [freeCodeCamp BA](https://freecodecampba.org/chat/)
+*   Chaco [Pro-Gramadores](https://pro-gramadores.org/)
 
 ### 🇦🇺 Australia
 
@@ -248,8 +254,8 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 *   [DevsChile](https://devschile.cl/) Community for all kind of tech related enthusiasts/professionals.
 *   [Angular Chile](http://bit.ly/AngularChileSlack) in Santiago
-*   [devsChile](https://devschile.cl/) in Santiago and Concepción
 *   [Noders](https://noders.com/) in Santiago
+*   [Pro-Gramadores](https://pro-gramadores.org/) in Santiago
 
 ### 🇫🇮 Finland
 
@@ -301,6 +307,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [GDG Coimbatore](http://connect.gdgcbe.com/) - GDG Coimbatore is a Coimbatore-based non-profit developers group to learn, share and know more about technologies. The industry is growing like never before, and we're trying to push the community forward to keep up with the industry. We are constantly trying to push ourselves to bring the best of technology to you through sessions and unlimited resources. And this is just the beginning. We have a common channel to communicate with our community members.
 *   [SwiftIndia](https://swiftindia.in/community/) - The Swift India Developer Community provides a platform for developers to come together to share their knowledge about Apple technologies, and industry best design & coding standards. Currently, the community has active meet-ups all around India and a dedicated Slack group.
 
+### 🇮🇩 Indonesia
+
+* [Perkodi - Perkumpulan Pengrajin Kode Indonesia (Code Craftsmen of Indonesia)](https://perkodi.org/) & also the [Ruby Indonesia](https://ruby.id/). Both are in the same [Slack here](http://ruby.id/slack)
+
 ### 🇮🇪 Ireland
 
 * [Irish Tech Community](https://slackin-itc.herokuapp.com/) - [Many channels](http://irishtechcommunity.com/channels/) devoted to multiple subjects, from design and development of tech, to conferences and diversity.
@@ -314,6 +324,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 * [BEAM Italia](http://beam-italia.herokuapp.com/) - The italian community about BEAM programming languages. They mainly chat about Erlang and Elixir.
 * [Coding Jam](https://slackin-codingjam.herokuapp.com) - Community behind the italian programming blog [www.codingjam.it](http://codingjam.it/). They chat about different programming languages, mainly about JVM ones.
 * [DevDay Italia](http://slack.devday.it) - [Community based in Campania](https://devday.it). They chat about different programming languages, for example Java, Javascript, .NET.
+* [Developers Italia](https://slack.developers.italia.it) - A community of developers who design and code Italian digital public services.
 * [Italia JS](https://italiajs.herokuapp.com/) - The italian Javascript community.
 * [RomaJS](https://romajs.herokuapp.com/) - The Javascript community from Rome, Italy.
 * [Scala Italy](http://slack.scala-italy.it/) - The italian Scala community.
@@ -323,9 +334,16 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 * [Milano Front End](https://milanofrontend.herokuapp.com/) - Milan local community for everything about front end development
 * [Laravel-Italia](http://laravel-italia.it/articoli/laravel-italia-e-su-slack) - The italian Laravel community
 * [Italia WP Community](https://it.wordpress.org/slack/) - The italian WordPress community
+* [AWS Community Italy](https://aws-community-italy.slack.com/) - The italian AWS community
 
 ### 🇲🇾 Malaysia
 *  [GDG Malaysia](https://gdgmy-slack.herokuapp.com/) - Official Slack group for [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/), [Google Developer Group George Town](http://www.gdggeorgetown.com/) and [Google Developer Group Kota Kinabalu](http://gdgkk.info/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
+
+### 🇯🇵 Japan
+* [Dev Japan](https://devjapan.slack.com/) - DevJapan is a community of international developers in Japan.
+* [Hacker News Tokyo](https://hackernewstokyo.slack.com) - Hacker News community in Tokyo, Japan.
+* [Tokyo Dev Round Tables](https://tokyodev-round-tables.slack.com) - Tokyo Dev Round table is a community of Ruby on raills and React.js enthusiasts in Tokyo, Japan.
+
 
 ### 🇳🇿 New Zealand
 * [JavaScript New Zealand](https://javascript.org.nz/slack) - New Zealand JavaScript community organised by the JavaScript Society of New Zealand.
@@ -343,6 +361,9 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   [Scala Nigeria](https://www.meetup.com/lagosscala/) -  	Nigeria's largest Scala Community
 *   [Wecode](https://wecode.ng/) - Community of technology enthusiasts, entrepreneurs and software developers in Abuja.
 
+### 🇵🇭 Philippines
+
+*   [Phackers](http://www.phackers.com/) - Philippine Tech Hackers
 
 ### 🇵🇱 Poland
 
@@ -362,6 +383,8 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 *   London - [Front End London](http://frontendlondon-slack.herokuapp.com/)
 *   Manchester - [mcrtech](http://mcrtech-slack.herokuapp.com/) - wide variety of topics, for Manchester and the North-West
+*   Leicester - [LeicesterJS](https://leicesterjs.org/slack) - Leicester's largest tech meetup community
+*   Leeds - [LeedsDevs](https://www.leedsdevs.co.uk) - all devs and tech professionals in the Leeds/Yorkshire area are welcome
 
 ### 🇺🇦 Ukraine
 
