@@ -93,7 +93,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 *   IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
 *   KS - [devICT](https://devict-slackin.herokuapp.com/)
 *   KY - [Louisville.io] (http://louisville.io) & (http://louisville.slack.com)
-*   MI - **In Michigan there are seval amazing channels:**
+*   MI - **In Michigan there are several amazing channels:**
     *    [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
     *    [Detroit Speakers in Tech](https://tinyurl.com/Join-DSIT-Slack) in Detroit area
 *   MN - [MSPTech](http://www.msptech.online/)
