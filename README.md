@@ -528,6 +528,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Sitecore Community](https://sitecorechat.slack.com)
 *   [iOS Developer Community channel](https://ios-developers.slack.com)
 *   [Android developer Community Channel](https://android-united.slack.com)
+*   [Community Chat](https://comm.chat)
 
 ## Blogging
 *   [Programming Bloggers](https://programmingbloggers.herokuapp.com/)
