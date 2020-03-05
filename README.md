@@ -12,12 +12,12 @@
     + [🇦🇷 Argentina](#-argentina)
     + [🇦🇺 Australia](#-australia)
     + [🇧🇷 Brazil](#-brazil)
-    + [🇨🇮 Cote d'Ivoire (Ivory Coast)](#-cote-d-ivoire--ivory-coast-)
+    + [🇨🇮 Cote d'Ivoire (Ivory Coast)](#-cote-divoire-ivory-coast)
     + [🇨🇦 Canada](#-canada)
     + [🇨🇱 Chile](#-chile)
     + [🇫🇮 Finland](#-finland)
     + [🇫🇷 France](#-france)
-    + [:de: Germany](#-germany)
+    + [🇩🇪 Germany](#-germany)
     + [🇬🇭 Ghana](#-ghana)
     + [🇮🇳 India](#-india)
     + [🇮🇩 Indonesia](#-india)
@@ -26,7 +26,7 @@
     + [🇯🇵 Japan](#-japan)
     + [🇲🇾 Malaysia](#-malaysia)
     + [🇳🇿 New Zealand](#-new-zealand)
-    + [:nigeria: Nigeria](#-nigeria--nigeria)
+    + [🇳🇬 Nigeria](#-nigeria)
     + [🇵🇭 Philippines](#-philippines)
     + [🇵🇱 Poland](#-poland)
     + [🇷🇴 Romania](#-romania)
@@ -349,7 +349,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 * [JavaScript New Zealand](https://javascript.org.nz/slack) - New Zealand JavaScript community organised by the JavaScript Society of New Zealand.
 * [Develop New Zealand](https://developnz.herokuapp.com) - New Zealand developer community with channels for various programming languages, jobs, and discussions.
 
-### :nigeria: Nigeria
+### 🇳🇬 Nigeria
 *   [Angular Nigeria](https://twitter.com/ngnigeria) - Nigeria's largest Angular community.
 *   [Consonance](https://consonance-invite.herokuapp.com/) - Consonance is a community of technology enthusiasts across the Nigerian technology space.
 *   [Devcenter Square](https://devcenter-square-slack.herokuapp.com)  - Devcenter Square created to connect more developers and designers to an ever expanding network to foster software development excellence.
@@ -528,7 +528,6 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Sitecore Community](https://sitecorechat.slack.com)
 *   [iOS Developer Community channel](https://ios-developers.slack.com)
 *   [Android developer Community Channel](https://android-united.slack.com)
-*   [Community Chat](https://comm.chat)
 
 ## Blogging
 *   [Programming Bloggers](https://programmingbloggers.herokuapp.com/)
