@@ -12,12 +12,12 @@
     + [🇦🇷 Argentina](#-argentina)
     + [🇦🇺 Australia](#-australia)
     + [🇧🇷 Brazil](#-brazil)
-    + [🇨🇮 Cote d'Ivoire (Ivory Coast)](#-cote-d-ivoire--ivory-coast-)
+    + [🇨🇮 Cote d'Ivoire (Ivory Coast)](#-cote-divoire-ivory-coast)
     + [🇨🇦 Canada](#-canada)
     + [🇨🇱 Chile](#-chile)
     + [🇫🇮 Finland](#-finland)
     + [🇫🇷 France](#-france)
-    + [:de: Germany](#-germany)
+    + [🇩🇪 Germany](#-germany)
     + [🇬🇭 Ghana](#-ghana)
     + [🇮🇳 India](#-india)
     + [🇮🇩 Indonesia](#-india)
@@ -26,14 +26,14 @@
     + [🇯🇵 Japan](#-japan)
     + [🇲🇾 Malaysia](#-malaysia)
     + [🇳🇿 New Zealand](#-new-zealand)
-    + [:nigeria: Nigeria](#-nigeria--nigeria)
+    + [🇳🇬 Nigeria](#-nigeria)
     + [🇵🇭 Philippines](#-philippines)
     + [🇵🇱 Poland](#-poland)
     + [🇷🇴 Romania](#-romania)
     + [🇷🇸 Serbia](#-serbia)
     + [🇬🇧 UK](#-uk)
     + [🇻🇳 Vietnam](#-vietnam)
-- [Conferences (public slack communities)](#conferences--public-slack-communities-)
+- [Conferences (public slack communities)](#conferences-public-slack-communities)
 - [Bonus channels](#bonus-channels)
   * [General Tech Slack Communities](#general-tech-slack-communities)
   * [Frameworks](#frameworks)
@@ -42,9 +42,9 @@
   * [Security](#security)
   * [Technologies](#technologies)
   * [General Dev](#general-dev)
-  * [Security](#security-1)
-  * [General Testing & QA](#general-testing---qa)
-  * [Intro to Dev & Learning](#intro-to-dev---learning)
+  * [Security](#security)
+  * [General Testing & QA](#general-testing--qa)
+  * [Intro to Dev & Learning](#intro-to-dev--learning)
   * [Women](#women)
   * [Misc Interest](#misc-interest)
   * [Community Groups](#community-groups)
@@ -350,7 +350,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 * [JavaScript New Zealand](https://javascript.org.nz/slack) - New Zealand JavaScript community organised by the JavaScript Society of New Zealand.
 * [Develop New Zealand](https://developnz.herokuapp.com) - New Zealand developer community with channels for various programming languages, jobs, and discussions.
 
-### :nigeria: Nigeria
+### 🇳🇬 Nigeria
 *   [Angular Nigeria](https://twitter.com/ngnigeria) - Nigeria's largest Angular community.
 *   [Consonance](https://consonance-invite.herokuapp.com/) - Consonance is a community of technology enthusiasts across the Nigerian technology space.
 *   [Devcenter Square](https://devcenter-square-slack.herokuapp.com)  - Devcenter Square created to connect more developers and designers to an ever expanding network to foster software development excellence.
