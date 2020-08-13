@@ -198,8 +198,9 @@ From Alaska, Hawaii and Washington down to California there are several local ch
     *   [Portland ReactJS](https://portlandreactjs.herokuapp.com/)
     *   [pdxstartups](https://pdx-startups-slack.herokuapp.com/)
     *   [Women Who Code PDX](https://bit.ly/wwcpdx-slack)
-*   UT - [UtahJS](https://slack.utahjs.com/)
-*   UT - [Utah Ruby User Group](http://urug.herokuapp.com/)
+*   UT - **in Utah there are several channels:**
+    *   [UtahJS](https://slack.utahjs.com/)
+    *   [Utah Ruby User Group](http://urug.herokuapp.com/)
 *   WA - **in Washington there are several channels:**
     *   [Angular Seattle](https://angular-seattle.slack.com)
     *   [Open Seattle](https://openseattle.slack.com)
