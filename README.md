@@ -67,7 +67,7 @@ Where the morning can start with 80°F, rain 10" at noon, and everybody drinks D
 If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washington D.C., it is worth taking a look at these channels:
 
 *   DC - [DC Tech Slack](http://www.dctechslack.com)
-*   NY - [BoroJS](http://slack.borojs.com/), [NYC Tech](http://www.nyctechslack.com/), [KaggleNYC](https://kagglenyc.com) and [NYC Devs](http://www.nycdevs.org)
+*   NY - [BoroJS](http://slack.borojs.com/), [NYC Tech](http://www.nyctechslack.com/), [KaggleNYC](https://kagglenyc.com), [NYC Devs](http://www.nycdevs.org), and [NYC DevOps](https://launchpass.com/nycdevops)
 *   MD - [Baltimore Tech](http://baltimoretech-slack.herokuapp.com/)
 *   PA - **in Pennsylvania there are several channels:**
     *   Philadelphia: [Philly Startup Leaders](https://www.sendgrowth.com/psl/) and [PhillyDev](https://phillydev.org/) and [Code for Philly](https://codeforphilly.org/register) and [Phl Design](https://docs.google.com/forms/d/e/1FAIpQLScaAROJx4kZQ7cPhATWWhfmpHK3YP6ourLgPalPwRqIMI1bmg/viewform?c=0&w=1)
@@ -137,6 +137,7 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
 *   GA
     *   [TechSAV](https://techsav.co/) - Savannah
     *   [Tech 404](http://tech404.io/) - Atlanta
+    *   [AthDev](https://athdev.org) - Athens
 *   KY
     *   [Bluegrass Developers Guild](https://www.bluegrassdevs.org/) - Lexington
     *   [Startup Lexington](https://www.startuplexington.org/) - Lexington
@@ -192,6 +193,8 @@ From Alaska, Hawaii and Washington down to California there are several local ch
     *   [Made In Loveland](http://madeinloveland.slack.com/)
     *   [Colorado Freelance Web Developers](http://co-freelance-webdevs.slack.com/)
     *   [Angular Colorado](https://angularcolorado.com/)
+*   HI - **Hawaii groups:**
+    *   [Hawaii Slack](https://hawaiislack.com/)
 *   OR - **in Oregon there are several channels:**
     *   [Infinite Red Community](https://infiniteredcommunity.herokuapp.com/)
     *   [Node PDX](http://nodepdx.slack.com/)
@@ -492,6 +495,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [TechMasters](https://techmasters.chat/)
 *   [CodeBuddies](https://codebuddies.org/slack)
 *   [Developer Army](https://developerarmy.slack.com/)
+*   [__code_Up_codeUP](https://codeupcodeup.org/slack)
 
 ## General Testing & QA
 
