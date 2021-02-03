@@ -30,6 +30,7 @@
     + [🇵🇭 Philippines](#-philippines)
     + [🇵🇱 Poland](#-poland)
     + [🇷🇴 Romania](#-romania)
+    + [🇿🇦 South Africa](#-south-africa)
     + [🇷🇸 Serbia](#-serbia)
     + [🇬🇧 UK](#-uk)
     + [🇻🇳 Vietnam](#-vietnam)
@@ -376,6 +377,10 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 *   tim.js - [tim.js, the Timișoara JavaScript Meetup Channel](https://timjs.slack.com)
 *   JSHeroes - [jsheroes slack](https://jsheroes-community.slack.com)
+
+### 🇿🇦 South Africa
+
+*   South African Tech Community - [ZATech Slack](https://zatech.co.za/)
 
 ### 🇷🇸 Serbia
 
