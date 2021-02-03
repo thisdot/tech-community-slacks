@@ -137,6 +137,7 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
 *   GA
     *   [TechSAV](https://techsav.co/) - Savannah
     *   [Tech 404](http://tech404.io/) - Atlanta
+    *   [AthDev](https://athdev.org) - Athens
 *   KY
     *   [Bluegrass Developers Guild](https://www.bluegrassdevs.org/) - Lexington
     *   [Startup Lexington](https://www.startuplexington.org/) - Lexington
