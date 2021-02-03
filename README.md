@@ -193,6 +193,8 @@ From Alaska, Hawaii and Washington down to California there are several local ch
     *   [Made In Loveland](http://madeinloveland.slack.com/)
     *   [Colorado Freelance Web Developers](http://co-freelance-webdevs.slack.com/)
     *   [Angular Colorado](https://angularcolorado.com/)
+*   HI - **Hawaii groups:**
+    *   [Hawaii Slack](https://hawaiislack.com/)
 *   OR - **in Oregon there are several channels:**
     *   [Infinite Red Community](https://infiniteredcommunity.herokuapp.com/)
     *   [Node PDX](http://nodepdx.slack.com/)
