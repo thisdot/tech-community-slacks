@@ -494,6 +494,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Mr Frontend](https://mr-frontend-slack-invite.herokuapp.com/)
 *   [TechMasters](https://techmasters.chat/)
 *   [CodeBuddies](https://codebuddies.org/slack)
+*   [Developer Army](https://developerarmy.slack.com/)
 *   [__code_Up_codeUP](https://codeupcodeup.org/slack)
 
 ## General Testing & QA
