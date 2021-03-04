@@ -203,6 +203,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
     *   [pdxstartups](https://pdx-startups-slack.herokuapp.com/)
     *   [Women Who Code PDX](https://bit.ly/wwcpdx-slack)
 *   UT - **in Utah there are several channels:**
+    *   [QA Utah](https://qautah.slack.com/)
     *   [UtahJS](https://slack.utahjs.com/)
     *   [Utah Ruby User Group](http://urug.herokuapp.com/)
 *   WA - **in Washington there are several channels:**
