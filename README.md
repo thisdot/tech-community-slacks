@@ -196,6 +196,8 @@ From Alaska, Hawaii and Washington down to California there are several local ch
     *   [Angular Colorado](https://angularcolorado.com/)
 *   HI - **Hawaii groups:**
     *   [Hawaii Slack](https://hawaiislack.com/)
+*   ID - **Idaho groups:**
+    *   [Idaho Tech Slack](https://idahotech.community/)
 *   OR - **in Oregon there are several channels:**
     *   [Infinite Red Community](https://infiniteredcommunity.herokuapp.com/)
     *   [Node PDX](http://nodepdx.slack.com/)
