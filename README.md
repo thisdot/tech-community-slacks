@@ -25,6 +25,7 @@
     + [🇮🇹 Italy](#-italy)
     + [🇯🇵 Japan](#-japan)
     + [🇲🇾 Malaysia](#-malaysia)
+    + [:mexico: Mexico](#-mexico)
     + [🇳🇿 New Zealand](#-new-zealand)
     + [🇳🇬 Nigeria](#-nigeria)
     + [🇵🇭 Philippines](#-philippines)
@@ -343,14 +344,16 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 * [Italia WP Community](https://it.wordpress.org/slack/) - The italian WordPress community
 * [AWS Community Italy](https://aws-community-italy.slack.com/) - The italian AWS community
 
-### 🇲🇾 Malaysia
-*  [GDG Malaysia](https://gdgmy-slack.herokuapp.com/) - Official Slack group for [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/), [Google Developer Group George Town](http://www.gdggeorgetown.com/) and [Google Developer Group Kota Kinabalu](http://gdgkk.info/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
-
 ### 🇯🇵 Japan
 * [Dev Japan](https://devjapan.slack.com/) - DevJapan is a community of international developers in Japan.
 * [Hacker News Tokyo](https://hackernewstokyo.slack.com) - Hacker News community in Tokyo, Japan.
 * [Tokyo Dev Round Tables](https://tokyodev-round-tables.slack.com) - Tokyo Dev Round table is a community of Ruby on raills and React.js enthusiasts in Tokyo, Japan.
 
+### 🇲🇾 Malaysia
+*  [GDG Malaysia](https://gdgmy-slack.herokuapp.com/) - Official Slack group for [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/), [Google Developer Group George Town](http://www.gdggeorgetown.com/) and [Google Developer Group Kota Kinabalu](http://gdgkk.info/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
+
+### :mexico: Mexico
+* [Devz](https://devz.mx/) - Devz is a community of students, engineers and professionals of all kinds interested in topics related to software development. 
 
 ### 🇳🇿 New Zealand
 * [JavaScript New Zealand](https://javascript.org.nz/slack) - New Zealand JavaScript community organised by the JavaScript Society of New Zealand.
