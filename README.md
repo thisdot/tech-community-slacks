@@ -25,6 +25,7 @@
     + [🇮🇹 Italy](#-italy)
     + [🇯🇵 Japan](#-japan)
     + [🇲🇾 Malaysia](#-malaysia)
+    + [🇲🇽 Mexico](#-mexico)
     + [🇳🇿 New Zealand](#-new-zealand)
     + [🇳🇬 Nigeria](#-nigeria)
     + [🇵🇭 Philippines](#-philippines)
@@ -345,6 +346,9 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### 🇲🇾 Malaysia
 *  [GDG Malaysia](https://gdgmy-slack.herokuapp.com/) - Official Slack group for [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/), [Google Developer Group George Town](http://www.gdggeorgetown.com/) and [Google Developer Group Kota Kinabalu](http://gdgkk.info/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
+
+### 🇲🇽 Mexico
+*  [Coders Mexico](http://codersmexico.com.mx/) - Mexican Slack group with a community of developers around mexico. We work remotely, for companies and abroad. We also speak english.
 
 ### 🇯🇵 Japan
 * [Dev Japan](https://devjapan.slack.com/) - DevJapan is a community of international developers in Japan.
