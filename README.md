@@ -526,6 +526,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [a11y](https://web-a11y.herokuapp.com/)
 *   [DevOpsChat](https://devopschat.co/)
 *   [JS-Data](http://slack.js-data.io/)
+*   [Operation Code](https://operationcode.org)
 
 ## Community Groups
 
