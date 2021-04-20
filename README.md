@@ -91,6 +91,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
     *    [Chicago Tech](http://www.chicagotechslack.com/)
     *    [AWS Chicago](http://slack.chicagoaws.com/)
     *    [ChiPy (Chicago Python User Group)](https://www.chipy.org/)(https://joinchipyslack.herokuapp.com/)
+    *    [Chicago Tech Diversity Initiative](chitechdiversity.slack.com)
 *   IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
 *   KS - [devICT](https://devict-slackin.herokuapp.com/)
 *   KY - [Louisville.io] (http://louisville.io) & (http://louisville.slack.com)
@@ -447,6 +448,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [Java Dev BR (in Portuguese)](https://javadevbr.herokuapp.com/)
 *   [PHP](https://php.ug/slackinvite)
 *   [Python developers](http://pythondevelopers.herokuapp.com/)
+*   [PySlackers](https://pythondev.slack.com)
 *   [Ruby Developers](https://rubydevs.herokuapp.com/)
 *   [Ruby on Rails](http://www.rubyonrails.link/)
 *   [Strapi](http://slack.strapi.io/)
@@ -487,11 +489,14 @@ Below are some other interesting Slack channels for different technologies and p
 
 *   [CodeBuddies](https://codebuddiesmeet.herokuapp.com)
 *   [CodeNewbie](http://bit.ly/CodeNewbieSlack)
+*   [CodingBlocks](https://codingblocks.slack.com/)
 *   [DevChat](https://devchat.devolio.net/)
+*   [DevOps Chat](https://devopschat.slack.com/)
 *   [Developers](http://www.hashtagdevelopers.com/)
 *   [deviofoundation](https://deviofoundation.slack.com/)
 *   [Digital Nomads](https://slack-integrate.herokuapp.com/)
 *   [European and Dev Explorer](https://europeandevexplorer.typeform.com/to/MC3qnG)
+*   [Functional Programming](functionalprogramming.slack.com)
 *   [Hashtag Developers](http://www.hashtagdevelopers.com/)
 *   [Launch.Chat](http://launch.chat/)
 *   [Microsoft Developer Chat](http://msdev.chat/)
@@ -542,6 +547,7 @@ Below are some other interesting Slack channels for different technologies and p
 *   [iOS Developer Community channel](https://ios-developers.slack.com)
 *   [Android developer Community Channel](https://android-united.slack.com)
 *   [Community Chat](https://comm.chat)
+*   [LeadDev](theleaddeveloper.slack.com)
 
 ## Blogging
 *   [Programming Bloggers](https://programmingbloggers.herokuapp.com/)
