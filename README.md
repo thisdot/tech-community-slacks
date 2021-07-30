@@ -121,11 +121,11 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
 
 
 *   AL
-    *   [Magic City Tech](http://magiccitytech.org/) - Birmingham 
+    *   [Magic City Tech](http://magiccitytech.org/) - Birmingham
     *   [tech256](https://tech256.com/) - Huntsville/Shoals/North Alabama
 *   AR
-	*   [Northwest Arkansas Devs](https://nwa-devs-slackgroup.herokuapp.com/) - Fayetteville/Rogers   
-	*   [Little Rock Tech Fest](https://lrdev.typeform.com/to/aZ9Hr8?fbclid=IwAR3PhhP5XQZzcFmYo2DDfDo_CeQgA9SXCrZmZnl2_ERaWo5uIqV0wM7Ixro) - Little Rock   
+	*   [Northwest Arkansas Devs](https://nwa-devs-slackgroup.herokuapp.com/) - Fayetteville/Rogers
+	*   [Little Rock Tech Fest](https://lrdev.typeform.com/to/aZ9Hr8?fbclid=IwAR3PhhP5XQZzcFmYo2DDfDo_CeQgA9SXCrZmZnl2_ERaWo5uIqV0wM7Ixro) - Little Rock
 *   FL
     *   [SWFL Coders](http://swflcoders.slack.com/) - Ft. Myers
     *   [GNV Connect](https://gnvconnect.com/) - Gainesville
@@ -159,7 +159,6 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
     *   [TriDev](https://www.meetup.com/TriDev/) - Tri-Cities
 *   VA
     *   [NRVDev](https://nrvdev.slack.org)
-    *   [757dev](https://slackin757dev.herokuapp.com/)
     *   [Cville](https://cville.slack.com) - Charlottesville
     *   [Rocktown Tech](https://rocktowntech.slack.com) - Shenandoah Valley
 
@@ -220,7 +219,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### 🇦🇷 Argentina
 
-*   Buenos Aires [Meetup.js Argentina](https://slack.meetupjs.com.ar/)  
+*   Buenos Aires [Meetup.js Argentina](https://slack.meetupjs.com.ar/)
 *   Buenos Aires [freeCodeCamp BA](https://freecodecampba.org/chat/)
 *   Chaco [Pro-Gramadores](https://pro-gramadores.org/)
 
