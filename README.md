@@ -38,6 +38,7 @@ If you would like to add to the list, please see our [contribution guidelines](.
     + [🇿🇦 South Africa](#-south-africa)
     + [🇷🇸 Serbia](#-serbia)
     + [🇬🇧 UK](#-uk)
+    + [🇺🇾 Uruguay](#-uruguay)
     + [🇻🇳 Vietnam](#-vietnam)
 - [Conferences (public slack communities)](#conferences-public-slack-communities)
 - [Bonus channels](#bonus-channels)
@@ -402,6 +403,11 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   Leicester - [LeicesterJS](https://leicesterjs.org/slack) - Leicester's largest tech meetup community
 *   Leeds - [LeedsDevs](https://www.leedsdevs.co.uk) - all devs and tech professionals in the Leeds/Yorkshire area are welcome
 
+### 🇺🇾 Uruguay
+
+*   Open Web Uruguay - [Web and Mobile Development Community on Slack](owu.slack.com)
+
+
 ### 🇺🇦 Ukraine
 
 *   UkrOps - [UkrOps](http://slack.ukrops.club/)
@@ -541,8 +547,8 @@ Below are some other interesting Slack channels for different technologies and p
 *   [ReasonML](https://discordapp.com/invite/reasonml)
 *   [GravCMS](https://getgrav.org/slack)
 *   [PyroCMS](https://pyrocms.com/slack)
-*   [We are Developer Evangelist and YOU CAN TOO](http://evangelistcollective.github.io)
 *   [Animation at Work](https://damp-lake-50659.herokuapp.com/)
+*   [We are Developer Evangelist and YOU CAN TOO](http://evangelistcollective.github.io)
 *   [Sitecore Community](https://sitecorechat.slack.com)
 *   [iOS Developer Community channel](https://ios-developers.slack.com)
 *   [Android developer Community Channel](https://android-united.slack.com)
