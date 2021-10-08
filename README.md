@@ -1,3 +1,8 @@
+
+Welcome to the This Dot Tech Community Slacks repository. Here you can find a set of different types of Slack groups.
+
+If you would like to add to the list, please see our [contribution guidelines](./CONTRIBUTING.md).
+
 # Navigation
 
 - [List of Slack Channels for local communities by region](#list-of-slack-channels-for-local-communities-by-region)
