@@ -1,3 +1,8 @@
+
+Welcome to the This Dot Tech Community Slacks repository. Here you can find a set of different types of Slack groups.
+
+If you would like to add to the list, please see our [contribution guidelines](./CONTRIBUTING.md).
+
 # Navigation
 
 - [List of Slack Channels for local communities by region](#list-of-slack-channels-for-local-communities-by-region)
@@ -34,6 +39,7 @@
   - [🇷🇸 Serbia](#-serbia)
   - [🇬🇧 UK](#-uk)
   - [🇻🇳 Vietnam](#-vietnam)
+
 - [Conferences (public slack communities)](#conferences-public-slack-communities)
 - [Bonus channels](#bonus-channels)
   - [General Tech Slack Communities](#general-tech-slack-communities)
@@ -398,6 +404,11 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 - Leicester - [LeicesterJS](https://leicesterjs.org/slack) - Leicester's largest tech meetup community
 - Leeds - [LeedsDevs](https://www.leedsdevs.co.uk) - all devs and tech professionals in the Leeds/Yorkshire area are welcome
 
+### 🇺🇾 Uruguay
+
+*   Open Web Uruguay - [Web and Mobile Development Community on Slack](owu.slack.com)
+
+
 ### 🇺🇦 Ukraine
 
 - UkrOps - [UkrOps](http://slack.ukrops.club/)
@@ -437,6 +448,7 @@ Below are some other interesting Slack channels for different technologies and p
 - [VueJs Brasil (in Portuguese)](https://vuejs-brasil.herokuapp.com/)
 - [WordPress](https://wordpress.slack.com/) - More Details at https://make.wordpress.org/chat/
 - [AMP-Accelerated Mobile Pages](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877) - More Details at https://www.ampproject.org/
+  
 
 ## Languages
 
@@ -543,6 +555,7 @@ Below are some other interesting Slack channels for different technologies and p
 - [iOS Developer Community channel](https://ios-developers.slack.com)
 - [Android developer Community Channel](https://android-united.slack.com)
 - [Community Chat](https://comm.chat)
+
 
 ## Blogging
 
