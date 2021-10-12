@@ -429,8 +429,6 @@ Below are some other interesting Slack channels for different technologies and p
 
 ## Frameworks
 
-*   [Angular Beers](https://slackin.angularbeers.org/)
-*   [Angular Chat](https://angularchat.co/)
 *   [BabelJS](https://slack.babeljs.io/)
 *   [EmberJS](https://ember-community-slackin.herokuapp.com/)
 *   [FeathersJS](http://slack.feathersjs.com/)
@@ -442,7 +440,6 @@ Below are some other interesting Slack channels for different technologies and p
 *   [NativeBase](http://slack.nativebase.io/)
 *   [Reactiflux](https://www.reactiflux.com/)
 *   [ReactJS](https://slack.reactjsnews.com/)
-*   [Vue.js](http://www.vueslack.com/)
 *   [Vue.js (Discord Chat)](https://chat.vuejs.org/)
 *   [VueJs Brasil (in Portuguese)](https://vuejs-brasil.herokuapp.com/)
 *   [WordPress](https://wordpress.slack.com/) - More Details at https://make.wordpress.org/chat/
