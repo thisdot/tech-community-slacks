@@ -205,6 +205,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 *   OR - **in Oregon there are several channels:**
     *   [Infinite Red Community](https://infiniteredcommunity.herokuapp.com/)
     *   [Node PDX](http://nodepdx.slack.com/)
+    *   [PDX devs](https://pdxdevs.org/)
     *   [Portland ReactJS](https://portlandreactjs.herokuapp.com/)
     *   [pdxstartups](https://pdx-startups-slack.herokuapp.com/)
     *   [Women Who Code PDX](https://bit.ly/wwcpdx-slack)
