@@ -13,8 +13,8 @@ If you would like to add to the list, please see our [contribution guidelines](.
     - [The Southeast](#the-southeast)
     - [The Southwest](#the-southwest)
     - [The West](#the-west)
+    
 - [Other Countries](#other-countries)
-
   - [🇦🇷 Argentina](#-argentina)
   - [🇦🇺 Australia](#-australia)
   - [🇧🇷 Brazil](#-brazil)
@@ -349,7 +349,6 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 - [Italia WP Community](https://it.wordpress.org/slack/) - The italian WordPress community
 - [AWS Community Italy](https://aws-community-italy.slack.com/) - The italian AWS community
 
-
 ### 🇯🇵 Japan
 - [Dev Japan](https://devjapan.slack.com/) - DevJapan is a community of international developers in Japan.
 - [Hacker News Tokyo](https://hackernewstokyo.slack.com) - Hacker News community in Tokyo, Japan.
@@ -360,6 +359,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### :mexico: Mexico
 - [Devz](https://slack.devz.mx/) - Devz is a community of students, engineers and professionals of all kinds interested in topics related to software development. 
+- [Coders Mexico](http://codersmexico.com.mx/) - Mexican Slack group with a community of developers around mexico. We work remotely, for companies and abroad. We also speak english.
 
 
 ### 🇳🇿 New Zealand
