@@ -222,6 +222,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
   - [Tech Seattle](https://techseattle.slack.com/messages/C045K4QLR/)
   - [Seattle Code Crafters](https://seattlecodecrafters.slack.com)
 
+
 # Other Countries
 
 ### 🇦🇷 Argentina
