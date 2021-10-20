@@ -246,7 +246,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 - [Android Dev BR](http://slack.androiddevbr.org/) - Brazilian Slack for the Android communiny
 - [Flutter Dev BR](https://flutterbr.herokuapp.com/) - Brazilian Slack for the Flutter community
 - [React Brasil Slack](https://react-brasil-slack.herokuapp.com/) - Brazilian Slack for the React community
-
+- [Google Developers Group BR](http://gdgbrazil.herokuapp.com/) - Brazilian Slack for Google Developers Group
 ### 🇨🇮 Cote d'Ivoire (Ivory Coast)
 
 - [Code d'Ivoire](http://slack.codedivoire.com/) - Slack community for developers in the Ivory Coast
