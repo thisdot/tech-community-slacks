@@ -119,10 +119,8 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
   - [Cleveland Tech](https://cleveland-tech.herokuapp.com/)
   - [Cincy Tech Slack](https://cincytech.slack.com)
 - WI - **in Wisconsin there are several channels:**
-  - [Madison Community](https://madisoncommunity.azurewebsites.net/)
   - [Milwaukee Tech](https://mke-slack.herokuapp.com/)
   - [NEW (Northeast WI) Slack](http://newslack.appletonmakerspace.org)
-- Midwest - [The Midwest Dev Chat](http://midwestdevchat.com/)
 
 
 ### The Southeast
@@ -195,7 +193,6 @@ From Alaska, Hawaii and Washington down to California there are several local ch
   - [Los Angeles Scala Users Group](https://lascalausers.slack.com/)
   - [Santa Barbara Tech Co-op](https://sbtechcoop.slack.com/)
   - [Sacramento Javascript Meetup](https://sac-tech.herokuapp.com/)
-  - [LA Devs](https://www.ladevs.org/)
 - CO - **in Colorado there are several channels:**
   - [Denver Devs](https://denverdevs.org/)
   - [Tech Friends](https://www.gettechfriends.com/)
@@ -483,13 +480,11 @@ Below are some other interesting Slack channels for different technologies and p
 
 - [Design Talks](https://designtalks.slack.com/)
 - [Designer Hangout](https://www.designerhangout.co/)
-- [Framer](https://framer-slack-signup.herokuapp.com/)
 - [UX Mastery](http://slack.uxmastery.com/)
 
 ## Security
 
 - [Node.js Security WG](https://nodejs-security-wg.herokuapp.com)
-- [The Secure Developer](http://bit.ly/tsdslack) - our mission is to educate and enable software engineers to integrate security into their development practices.
 
 ## Technologies
 
@@ -499,7 +494,6 @@ Below are some other interesting Slack channels for different technologies and p
 - [Kubernetes](http://slack.k8s.io/)
 - [MongoDB](https://community-slack.mongodb.com/)
 - [Node.JS](https://node-js.slack.com/messages/C3910A78T/)
-- [Progressive Web Apps (PWAs)](https://pwa-slack.herokuapp.com/)
 - [Polymer](https://polymer-slack.herokuapp.com/)
 - [PostgreSQL](https://postgres-slack.herokuapp.com/)
 - [Socket.io](https://slackin-socketio.now.sh/)
@@ -513,13 +507,10 @@ Below are some other interesting Slack channels for different technologies and p
 - [CodingBlocks](https://codingblocks.slack.com/)
 - [DevChat](https://devchat.devolio.net/)
 - [DevOps Chat](https://devopschat.slack.com/)
-- [Developers](http://www.hashtagdevelopers.com/)
 - [deviofoundation](https://deviofoundation.slack.com/)
-- [Digital Nomads](https://slack-integrate.herokuapp.com/)
 - [European and Dev Explorer](https://europeandevexplorer.typeform.com/to/MC3qnG)
-- [Functional Programming](functionalprogramming.slack.com)
+- [Functional Programming](https://functionalprogramming.slack.com)
 - [Hashtag Developers](http://www.hashtagdevelopers.com/)
-- [Launch.Chat](http://launch.chat/)
 - [Microsoft Developer Chat](http://msdev.chat/)
 - [Modern Agile](http://modernagile.slack.com/)
 - [Front End Web Developer](https://frontenddevelopers.slack.com) - Invites at http://frontenddevelopers.org/
@@ -527,7 +518,6 @@ Below are some other interesting Slack channels for different technologies and p
 - [TechMasters](https://techmasters.chat/)
 - [CodeBuddies](https://codebuddies.org/slack)
 - [Developer Army](https://developerarmy.slack.com/)
-- [__code_Up_codeUP](https://codeupcodeup.org/slack)
 
 ## General Testing & QA
 
