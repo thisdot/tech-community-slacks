@@ -553,6 +553,7 @@ Below are some other interesting Slack channels for different technologies and p
 - [DevOpsChat](https://devopschat.co/)
 - [JS-Data](http://slack.js-data.io/)
 - [Operation Code](https://operationcode.org)
+- [Write the Docs](https://writethedocs.slack.com/join/shared_invite/zt-tfokbfyb-4Yxwk8oTZGAQDHmITJGQyQ#/shared-invite/email)
 
 ## Community Groups
 
