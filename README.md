@@ -253,6 +253,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### 🇨🇦 Canada
 
+- AB - [DevEdmonton](https://devedmonton.com/) - Fostering a stronger software development community in Edmonton.
 - BC - [Vancouver Developers (YVR Dev)](https://yvrdev.herokuapp.com/)
 - ON - [Ottawa Startups](https://ottawastartups.slack.com/messages/C0408SPU4/)
 - ON - [Startup6ix](http://startup6ix.com/) in Toronto
