@@ -1,4 +1,3 @@
-
 Welcome to the This Dot Tech Community Slacks repository. Here you can find a set of different types of Slack groups.
 
 If you would like to add to the list, please see our [contribution guidelines](./CONTRIBUTING.md).
@@ -13,14 +12,15 @@ If you would like to add to the list, please see our [contribution guidelines](.
     - [The Southeast](#the-southeast)
     - [The Southwest](#the-southwest)
     - [The West](#the-west)
-    
 - [Other Countries](#other-countries)
+
   - [🇦🇷 Argentina](#-argentina)
   - [🇦🇺 Australia](#-australia)
   - [🇧🇷 Brazil](#-brazil)
   - [🇨🇮 Cote d'Ivoire (Ivory Coast)](#-cote-divoire-ivory-coast)
   - [🇨🇦 Canada](#-canada)
   - [🇨🇱 Chile](#-chile)
+  - [🇩🇰 Denmark](#-denmark)
   - [🇫🇮 Finland](#-finland)
   - [🇫🇷 France](#-france)
   - [🇩🇪 Germany](#-germany)
@@ -53,7 +53,7 @@ If you would like to add to the list, please see our [contribution guidelines](.
   - [General Dev](#general-dev)
   - [Security](#security)
   - [General Testing & QA](#general-testing--qa)
-  - [Intro to Dev & Learning](#intro-to-dev--learning)
+  - [Intro to Dev & Learning](#intro-to-dev--learning)git@github.com:thisdot/tech-community-slacks.git
   - [Women](#women)
   - [Misc Interest](#misc-interest)
   - [Community Groups](#community-groups)
@@ -88,18 +88,18 @@ If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washing
 
 In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota and Wisconsin, there are some active channels below:
 
--  IA - **In Iowa there are several channels:**
-  - [Central Iowa Linux User's Group](http://www.cialug.org/)(https://cialug.slack.com/)
-  - [Des Moines Web Collective](http://dsmwebcollective.com/)(https://dsmwebcollective.herokuapp.com/)
-  - [Des Moines Web Geeks](http://www.dsmwebgeeks.com/)(https://dsmwebgeeks.slack.com/)
-  - [SecDSM](https://secdsm.org/)(https://secdsm.slack.com/)
-  - [Startup Iowa](http://www.startupiowachat.com/)
-  - [WordPress Des Moines](http://wpdsm.org/)(http://wordpressdsm.herokuapp.com/)
+- IA - **In Iowa there are several channels:**
+- [Central Iowa Linux User's Group](http://www.cialug.org/)(https://cialug.slack.com/)
+- [Des Moines Web Collective](http://dsmwebcollective.com/)(https://dsmwebcollective.herokuapp.com/)
+- [Des Moines Web Geeks](http://www.dsmwebgeeks.com/)(https://dsmwebgeeks.slack.com/)
+- [SecDSM](https://secdsm.org/)(https://secdsm.slack.com/)
+- [Startup Iowa](http://www.startupiowachat.com/)
+- [WordPress Des Moines](http://wpdsm.org/)(http://wordpressdsm.herokuapp.com/)
 - IL - **In Illinois there are several channels:**
   - [Chicago Tech](http://www.chicagotechslack.com/)
   - [AWS Chicago](http://slack.chicagoaws.com/)
   - [ChiPy (Chicago Python User Group)](https://www.chipy.org/)(https://joinchipyslack.herokuapp.com/)
-   - [Chicago Tech Diversity Initiative](chitechdiversity.slack.com)
+  - [Chicago Tech Diversity Initiative](chitechdiversity.slack.com)
 - IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
 - KS - [devICT](https://devict-slackin.herokuapp.com/)
 - KY - [Louisville.io] (http://louisville.io) & (http://louisville.slack.com)
@@ -121,7 +121,6 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
 - WI - **in Wisconsin there are several channels:**
   - [Milwaukee Tech](https://mke-slack.herokuapp.com/)
   - [NEW (Northeast WI) Slack](http://newslack.appletonmakerspace.org)
-
 
 ### The Southeast
 
@@ -222,7 +221,6 @@ From Alaska, Hawaii and Washington down to California there are several local ch
   - [Tech Seattle](https://techseattle.slack.com/messages/C045K4QLR/)
   - [Seattle Code Crafters](https://seattlecodecrafters.slack.com)
 
-
 # Other Countries
 
 ### 🇦🇷 Argentina
@@ -247,6 +245,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 - [Flutter Dev BR](https://flutterbr.herokuapp.com/) - Brazilian Slack for the Flutter community
 - [React Brasil Slack](https://react-brasil-slack.herokuapp.com/) - Brazilian Slack for the React community
 - [Google Developers Group BR](http://gdgbrazil.herokuapp.com/) - Brazilian Slack for Google Developers Group
+
 ### 🇨🇮 Cote d'Ivoire (Ivory Coast)
 
 - [Code d'Ivoire](http://slack.codedivoire.com/) - Slack community for developers in the Ivory Coast
@@ -255,13 +254,16 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 - AB - [DevEdmonton](https://devedmonton.com/) - Fostering a stronger software development community in Edmonton.
 - BC - [Vancouver Developers (YVR Dev)](https://yvrdev.herokuapp.com/)
-- ON - [Ottawa Startups](https://ottawastartups.slack.com/messages/C0408SPU4/)
+- BC - [Victoria Developers (YYJ Tech)](https://yyj-tech.ca/)
+- BC - [Victoria Women in Tech (YYJ Tech Ladies)](http://yyjtechladies.com/) Victoria
+- ON - [Ottawa Startups](https://ottawastartups.slack.com/messages/C0408SPU4/) Victoria
 - ON - [Startup6ix](http://startup6ix.com/) in Toronto
 - ON - [TorontoJS](http://slack.torontojs.com/) Toronto
 - ON - [YOWDev](http://yowdev-slackin.herokuapp.com/) Ottawa
 - ON - [CodePen Ottawa](http://codepen-ott.herokuapp.com/) Ottawa
 - QC - [Sketch MTL](http://sketchmtl.now.sh/) Montreal
 - QC - [Women In Tech Montreal](https://witmgroup-slack.herokuapp.com/) Montreal
+- NS - [Halihax](https://www.halihax.com/) Halifax
 
 ### 🇨🇱 Chile
 
@@ -269,6 +271,11 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 - [Angular Chile](http://bit.ly/AngularChileSlack) in Santiago
 - [Noders](https://noders.com/) in Santiago
 - [Pro-Gramadores](https://pro-gramadores.org/) in Santiago
+
+### 🇩🇰 Denmark
+
+- [Dev DK](https://slack.devdk.org/)
+- [Women in Tech DK](https://www.womenintech.dk/)
 
 ### 🇫🇮 Finland
 
@@ -350,17 +357,19 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 - [AWS Community Italy](https://aws-community-italy.slack.com/) - The italian AWS community
 
 ### 🇯🇵 Japan
+
 - [Dev Japan](https://devjapan.slack.com/) - DevJapan is a community of international developers in Japan.
 - [Hacker News Tokyo](https://hackernewstokyo.slack.com) - Hacker News community in Tokyo, Japan.
 - [Tokyo Dev Round Tables](https://tokyodev-round-tables.slack.com) - Tokyo Dev Round table is a community of Ruby on raills and React.js enthusiasts in Tokyo, Japan.
 
 ### 🇲🇾 Malaysia
+
 - [GDG Malaysia](https://gdgmy-slack.herokuapp.com/) - Official Slack group for [Google Developer Group Kuala Lumpur](https://www.gdgkl.org/), [Google Developer Group George Town](http://www.gdggeorgetown.com/) and [Google Developer Group Kota Kinabalu](http://gdgkk.info/). We organize meetups, talks, codelabs & workshops and introducing developers and non-developers to the Google Developer platform.
 
 ### 🇲🇽 Mexico
-- [Devz](https://slack.devz.mx/) - Devz is a community of students, engineers and professionals of all kinds interested in topics related to software development. 
-- [Coders Mexico](http://codersmexico.com.mx/) - Mexican Slack group with a community of developers around mexico. We work remotely, for companies and abroad. We also speak english.
 
+- [Devz](https://slack.devz.mx/) - Devz is a community of students, engineers and professionals of all kinds interested in topics related to software development.
+- [Coders Mexico](http://codersmexico.com.mx/) - Mexican Slack group with a community of developers around mexico. We work remotely, for companies and abroad. We also speak english.
 
 ### 🇳🇿 New Zealand
 
@@ -412,8 +421,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### 🇺🇾 Uruguay
 
-*   Open Web Uruguay - [Web and Mobile Development Community on Slack](owu.slack.com)
-
+- Open Web Uruguay - [Web and Mobile Development Community on Slack](owu.slack.com)
 
 ### 🇺🇦 Ukraine
 
@@ -454,7 +462,6 @@ Below are some other interesting Slack channels for different technologies and p
 - [VueJs Brasil (in Portuguese)](https://vuejs-brasil.herokuapp.com/)
 - [WordPress](https://wordpress.slack.com/) - More Details at https://make.wordpress.org/chat/
 - [AMP-Accelerated Mobile Pages](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877) - More Details at https://www.ampproject.org/
-  
 
 ## Languages
 
@@ -475,7 +482,6 @@ Below are some other interesting Slack channels for different technologies and p
 - [Kotlin](http://slack.kotlinlang.org/)
 - [Nim Lang (International / English)](https://gitter.im/nim-lang/Nim)
 - [Nim Lang (Argentina / Spanish)](https://t.me/NimArgentina)
-
 
 ## Design
 
@@ -562,7 +568,6 @@ Below are some other interesting Slack channels for different technologies and p
 - [Android developer Community Channel](https://android-united.slack.com)
 - [Community Chat](https://comm.chat)
 - [LeadDev](theleaddeveloper.slack.com)
-
 
 ## Blogging
 
