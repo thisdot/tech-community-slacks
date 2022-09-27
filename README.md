@@ -433,6 +433,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 # Conferences (public slack communities)
 
+- [CTO Craft Con](https://conference.ctocraft.com) 
 - [Mobile Era](http://mobileera.herokuapp.com/), Norway - discussions about mobile native, mobile web, PWA development
 - [ngVikings](http://ngvikings.herokuapp.com/), Nordics - discussions about Angular and its ecosystem
 
@@ -568,6 +569,7 @@ Below are some other interesting Slack channels for different technologies and p
 - [Android developer Community Channel](https://android-united.slack.com)
 - [Community Chat](https://comm.chat)
 - [LeadDev](theleaddeveloper.slack.com)
+- [CTO Craft](https://ctocraft.com)
 
 ## Blogging
 
