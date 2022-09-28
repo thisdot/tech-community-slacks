@@ -76,7 +76,7 @@ Where the morning can start with 80°F, rain 10" at noon, and everybody drinks D
 If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washington D.C., it is worth taking a look at these channels:
 
 - DC - [DC Tech Slack](http://www.dctechslack.com)
-- NY - [BoroJS](http://slack.borojs.com/), [NYC Tech](http://www.nyctechslack.com/), [KaggleNYC](https://kagglenyc.com), [NYC Devs](http://www.nycdevs.org), and [NYC DevOps](https://launchpass.com/nycdevops)
+- NY - [BoroJS](http://slack.borojs.com/), [NYC Tech](http://www.nyctechslack.com/),  [NYC Devs](http://www.nycdevs.org), and [NYC DevOps](https://launchpass.com/nycdevops)
 - MD - [Baltimore Tech](http://baltimoretech-slack.herokuapp.com/)
 - PA - **in Pennsylvania there are several channels:**
   - Philadelphia: [Philly Startup Leaders](https://www.sendgrowth.com/psl/) and [PhillyDev](https://phillydev.org/) and [Code for Philly](https://codeforphilly.org/register) and [Phl Design](https://docs.google.com/forms/d/e/1FAIpQLScaAROJx4kZQ7cPhATWWhfmpHK3YP6ourLgPalPwRqIMI1bmg/viewform?c=0&w=1)
