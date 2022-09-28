@@ -240,7 +240,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 - [iOS Dev BR](https://iosdevbr.herokuapp.com/) - Brazilian Slack for the iOS community
 - [Android Dev BR](http://slack.androiddevbr.org/) - Brazilian Slack for the Android community
 - [BrazilJS](http://braziljs-slack.herokuapp.com/) - Brazilian Slack for the Javascript community
-- # [Training Center](http://ctgroups.slack.com/) - Community focused on software development, design, information security, database, various programming languages, etc. Focused also on helping beginners, it is fully inclusive.
+- [Training Center](http://ctgroups.slack.com/) - Community focused on software development, design, information security, database, various programming languages, etc. Focused also on helping beginners, it is fully inclusive.
 - [iOS Dev BR](https://iosdevbr.herokuapp.com/) - Brazilian Slack for the iOS communitiy
 - [Android Dev BR](http://slack.androiddevbr.org/) - Brazilian Slack for the Android communiny
 - [Flutter Dev BR](https://flutterbr.herokuapp.com/) - Brazilian Slack for the Flutter community
