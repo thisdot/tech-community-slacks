@@ -435,6 +435,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 - [CTO Craft Con](https://conference.ctocraft.com) 
 - [Mobile Era](http://mobileera.herokuapp.com/), Norway - discussions about mobile native, mobile web, PWA development
 - [ngVikings](http://ngvikings.herokuapp.com/), Nordics - discussions about Angular and its ecosystem
+- [KubeCon + CloudnativeCon](https://communityinviter.com/apps/cloud-native/cncf), CNCF - discussions about cloud native ecosystem, its technologies, and usecases
 
 # Bonus channels
 
