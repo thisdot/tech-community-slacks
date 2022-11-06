@@ -199,6 +199,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
   - [Made In Loveland](http://madeinloveland.slack.com/)
   - [Colorado Freelance Web Developers](http://co-freelance-webdevs.slack.com/)
   - [Angular Colorado](https://angularcolorado.com/)
+  - [Colorado-Security](colorado-security.slack.com) - Active community for fellow Coloradoan security professional to discuss work, local news, and events
 - HI - **Hawaii groups:**
   - [Hawaii Slack](https://hawaiislack.com/)
 - OR - **in Oregon there are several channels:**
@@ -572,6 +573,7 @@ Below are some other interesting Slack channels for different technologies and p
 - [Community Chat](https://comm.chat)
 - [LeadDev](theleaddeveloper.slack.com)
 - [CTO Craft](https://ctocraft.com)
+- [TechYeet](techyeet.slack.com) - TechYeet is an invite-only slack community that brings members together for fun to see what innovative ideas and professional opportunities ensue.
 
 ## Blogging
 
