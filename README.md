@@ -390,6 +390,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 - [Scala Nigeria](https://www.meetup.com/lagosscala/) - Nigeria's largest Scala Community
 - [She Code Africa](https://bit.ly/scaslacksignup) - A non-profit organisation focused on celebrating and empowering young girls and women in tech across Africa.
 - [Wecode](https://wecode.ng/) - Community of technology enthusiasts, entrepreneurs and software developers in Abuja.
+- [AdoraHack Study Group](https://adorahack.com/) - A community for tech people to ask questions, share, learn, collaborate and grow together.
 
 ### 🇵🇭 Philippines
 
