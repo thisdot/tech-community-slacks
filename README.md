@@ -87,12 +87,12 @@ If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washing
 In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota and Wisconsin, there are some active channels below:
 
 - IA - **In Iowa there are several channels:**
-- [Central Iowa Linux User's Group](http://www.cialug.org/)(https://cialug.slack.com/)
-- [Des Moines Web Collective](http://dsmwebcollective.com/)(https://dsmwebcollective.herokuapp.com/)
-- [Des Moines Web Geeks](http://www.dsmwebgeeks.com/)(https://dsmwebgeeks.slack.com/)
-- [SecDSM](https://secdsm.org/)(https://secdsm.slack.com/)
-- [Startup Iowa](http://www.startupiowachat.com/)
-- [WordPress Des Moines](http://wpdsm.org/)(http://wordpressdsm.herokuapp.com/)
+  - [Central Iowa Linux User's Group](http://www.cialug.org/)(https://cialug.slack.com/)
+  - [Des Moines Web Collective](http://dsmwebcollective.com/)(https://dsmwebcollective.herokuapp.com/)
+  - [Des Moines Web Geeks](http://www.dsmwebgeeks.com/)(https://dsmwebgeeks.slack.com/)
+  - [SecDSM](https://secdsm.org/)(https://secdsm.slack.com/)
+  - [Startup Iowa](http://www.startupiowachat.com/)
+  - [WordPress Des Moines](http://wpdsm.org/)(http://wordpressdsm.herokuapp.com/)
 - IL - **In Illinois there are several channels:**
   - [Chicago Tech](http://www.chicagotechslack.com/)
   - [AWS Chicago](http://slack.chicagoaws.com/)
@@ -145,11 +145,9 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
   - [Tech 404](http://tech404.io/) - Atlanta
   - [AthDev](https://athdev.org) - Athens
 - KY
-
   - [Bluegrass Developers Guild](https://www.bluegrassdevs.org/) - Lexington
   - [Startup Lexington](https://www.startuplexington.org/) - Lexington
   - [Louisville.io](http://slackin.louisville.io/) - Louisville
-
 - NC
   - [Charlotte Devs](https://slack.charlottedevs.com/) - Charlotte
   - [Triangle Devs](https://triangle-devs-slack-inviter.herokuapp.com/) - Raleigh/Durham
