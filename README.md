@@ -251,6 +251,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 ### 🇨🇦 Canada
 
 - AB - [DevEdmonton](https://devedmonton.com/) - Fostering a stronger software development community in Edmonton.
+- AB - [YYC Design & Development](https://yycdesign.slack.com) Calgary
 - BC - [Vancouver Developers (YVR Dev)](https://yvrdev.herokuapp.com/)
 - BC - [Victoria Developers (YYJ Tech)](https://yyj-tech.ca/)
 - BC - [Victoria Women in Tech (YYJ Tech Ladies)](http://yyjtechladies.com/) Victoria
@@ -465,6 +466,7 @@ Below are some other interesting Slack channels for different technologies and p
 - [VueJs Brasil (in Portuguese)](https://vuejs-brasil.herokuapp.com/)
 - [WordPress](https://wordpress.slack.com/) - More Details at https://make.wordpress.org/chat/
 - [AMP-Accelerated Mobile Pages](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877) - More Details at https://www.ampproject.org/
+- [Symfony Devs](https://symfony-devs.slack.com)
 
 ## Languages
 
