@@ -15,20 +15,31 @@ If you would like to add to the list, please see our [contribution guidelines](.
 - [Other Countries](#other-countries)
 
   - [🇦🇷 Argentina](#-argentina)
+  - [🇦🇬 Antigua and Barbuda](#---------------caribbean-countries)
   - [🇦🇺 Australia](#-australia)
+  - [🇧🇸 Bahamas](#---------------caribbean-countries)
+  - [🇧🇧 Barbados](#---------------caribbean-countries)
+  - [🇧🇿 Belize](#---------------caribbean-countries)
   - [🇧🇷 Brazil](#-brazil)
   - [🇨🇮 Cote d'Ivoire (Ivory Coast)](#-cote-divoire-ivory-coast)
   - [🇨🇦 Canada](#-canada)
   - [🇨🇱 Chile](#-chile)
+  - [🇨🇺 Cuba](#---------------caribbean-countries)
   - [🇩🇰 Denmark](#-denmark)
+  - [🇩🇲 Dominica](#---------------caribbean-countries)
+  - [🇩🇴 Dominican Republic](#---------------caribbean-countries)
   - [🇫🇮 Finland](#-finland)
   - [🇫🇷 France](#-france)
   - [🇩🇪 Germany](#-germany)
   - [🇬🇭 Ghana](#-ghana)
+  - [🇬🇩 Grenada](#---------------caribbean-countries)
+  - [🇬🇾 Guyana](#---------------caribbean-countries)
+  - [🇭🇹 Haiti](#---------------caribbean-countries)
   - [🇮🇳 India](#-india)
   - [🇮🇩 Indonesia](#-india)
   - [🇮🇪 Ireland](#-ireland)
   - [🇮🇹 Italy](#-italy)
+  - [🇯🇲 Jamaica](#---------------caribbean-countries)
   - [🇯🇵 Japan](#-japan)
   - [🇲🇾 Malaysia](#-malaysia)
   - [🇲🇽 Mexico](#-mexico)
@@ -37,8 +48,13 @@ If you would like to add to the list, please see our [contribution guidelines](.
   - [🇵🇭 Philippines](#-philippines)
   - [🇵🇱 Poland](#-poland)
   - [🇷🇴 Romania](#-romania)
+  - [🇰🇳 Saint Kitts and Nevis](#---------------caribbean-countries)
+  - [🇱🇨 Saint Lucia](#---------------caribbean-countries)
+  - [🇻🇨 Saint Vincent and the Grenadines](#---------------caribbean-countries)
   - [🇿🇦 South Africa](#-south-africa)
+  - [🇸🇷 Suriname](#---------------caribbean-countries)
   - [🇷🇸 Serbia](#-serbia)
+  - [🇹🇹 Trinidad and Tobago](#---------------caribbean-countries)
   - [🇬🇧 UK](#-uk)
   - [🇻🇳 Vietnam](#-vietnam)
 
@@ -244,6 +260,9 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 - [Flutter Dev BR](https://flutterbr.herokuapp.com/) - Brazilian Slack for the Flutter community
 - [React Brasil Slack](https://react-brasil-slack.herokuapp.com/) - Brazilian Slack for the React community
 - [Google Developers Group BR](http://gdgbrazil.herokuapp.com/) - Brazilian Slack for Google Developers Group
+
+### 🇧🇸 🇧🇧 🇧🇿 🇨🇺 🇩🇲 🇩🇴 🇬🇩 🇬🇾 🇭🇹 🇯🇲 🇰🇳 🇱🇨 🇻🇨 🇸🇷 🇹🇹 Caribbean Countries
+- [WItech](https://witechgroup.slack.com/) - West Indies Tech, slack for all Caribbean tech talent
 
 ### 🇨🇮 Cote d'Ivoire (Ivory Coast)
 
