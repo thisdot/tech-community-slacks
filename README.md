@@ -54,6 +54,7 @@ If you would like to add to the list, please see our [contribution guidelines](.
   - [🇿🇦 South Africa](#-south-africa)
   - [🇸🇷 Suriname](#---------------caribbean-countries)
   - [🇷🇸 Serbia](#-serbia)
+  - [🇪🇸 Spain](#-spain)
   - [🇹🇹 Trinidad and Tobago](#---------------caribbean-countries)
   - [🇬🇧 UK](#-uk)
   - [🇻🇳 Vietnam](#-vietnam)
@@ -432,6 +433,12 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 ### 🇷🇸 Serbia
 
 - JS Belgrade - [JavaScript User Group from Belgrade, Serbia](http://slack.jsbelgrade.org/)
+
+
+# 🇪🇸 Spain
+
+- Spain Tech - [Group for professionals and nomads in Spain](https://join.slack.com/t/espanatech/shared_invite/zt-1r42l6vnl-ugXdpuqoYGyuWKlgsbjwQw)
+
 
 ### 🇬🇧 UK
 
