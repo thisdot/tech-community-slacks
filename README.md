@@ -208,7 +208,6 @@ From Alaska, Hawaii and Washington down to California there are several local ch
   - [Sacramento Javascript Meetup](https://sac-tech.herokuapp.com/)
 - CO - **in Colorado there are several channels:**
   - [Denver Tech Talk](https://denvertechtalk.com/)
-  - [Denver Devs](https://denverdevs.org/)
   - [Tech Friends](https://www.gettechfriends.com/)
   - [Fort Collins Internet Professionals](http://fcip.slack.com/)
   - [Colorado Springs Developers](https://coloradospringsdevs.herokuapp.com/)
