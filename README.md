@@ -168,8 +168,6 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
 - NC
   - [Charlotte Devs](https://slack.charlottedevs.com/) - Charlotte
   - [Triangle Devs](https://triangle-devs-slack-inviter.herokuapp.com/) - Raleigh/Durham
-- SC
-  - [Charleston Tech](https://charlestontechslack.herokuapp.com/) - Charleston
 - TN
   - [Chadev](https://chadev.com) - Chattanooga
   - [Devanooga](https://www.devanooga.com/slack/) - Chattanooga
@@ -272,7 +270,6 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 - AB - [DevEdmonton](https://devedmonton.com/) - Fostering a stronger software development community in Edmonton.
 - AB - [YYC Design & Development](https://yycdesign.slack.com) Calgary
-- BC - [Vancouver Developers (YVR Dev)](https://yvrdev.herokuapp.com/)
 - BC - [Victoria Developers (YYJ Tech)](https://yyj-tech.ca/)
 - BC - [Victoria Women in Tech (YYJ Tech Ladies)](http://yyjtechladies.com/) Victoria
 - ON - [Ottawa Startups](https://ottawastartups.slack.com/messages/C0408SPU4/) Victoria
