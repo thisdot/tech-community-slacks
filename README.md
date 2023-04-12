@@ -112,8 +112,8 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
   - [WordPress Des Moines](http://wpdsm.org/)(http://wordpressdsm.herokuapp.com/)
 - IL - **In Illinois there are several channels:**
   - [AWS Chicago](http://slack.chicagoaws.com/)
-  - [ChiPy (Chicago Python User Group)](https://www.chipy.org/)(https://joinchipyslack.herokuapp.com/)
-  - [Chicago Tech Diversity Initiative](chitechdiversity.slack.com)
+  - [ChiPy (Chicago Python User Group)](https://www.chipy.org/)
+  - [Chicago Tech Diversity Initiative](https://chitechdiversity.slack.com/)
 - IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
 - KS - [devICT](https://devict-slackin.herokuapp.com/)
 - KY - [Louisville.io] (http://louisville.io) & (http://louisville.slack.com)
