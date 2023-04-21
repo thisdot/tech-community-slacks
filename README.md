@@ -132,6 +132,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
   - [TechLife Columbus](https://techlife-columbus-slack.herokuapp.com/)
   - [Cleveland Tech](https://cleveland-tech.herokuapp.com/)
   - [Cincy Tech Slack](https://cincytech.slack.com)
+  - [Code Youngstown Slack](http://slack.codeyoungstown.com)
 - WI - **in Wisconsin there are several channels:**
   - [Milwaukee Tech](https://mke-slack.herokuapp.com/)
   - [NEW (Northeast WI) Slack](http://newslack.appletonmakerspace.org)
