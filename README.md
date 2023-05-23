@@ -167,7 +167,7 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
   - [Louisville.io](http://slackin.louisville.io/) - Louisville
 - NC
   - [Charlotte Devs](https://slack.charlottedevs.com/) - Charlotte
-  - [Triangle Devs](https://triangle-devs-slack-inviter.herokuapp.com/) - Raleigh/Durham
+  - [Triangle Devs](https://triangledevslack.com/) - Raleigh/Durham
 - TN
   - [Chadev](https://chadev.com) - Chattanooga
   - [Devanooga](https://www.devanooga.com/slack/) - Chattanooga
