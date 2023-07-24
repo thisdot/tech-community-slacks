@@ -272,11 +272,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 - BC - [Victoria Developers (YYJ Tech)](https://yyj-tech.ca/)
 - BC - [Victoria Women in Tech (YYJ Tech Ladies)](http://yyjtechladies.com/) Victoria
 - ON - [Ottawa Startups](https://ottawastartups.slack.com/messages/C0408SPU4/) Victoria
-- ON - [Startup6ix](http://startup6ix.com/) in Toronto
-- ON - [TorontoJS](http://slack.torontojs.com/) Toronto
-- ON - [YOWDev](http://yowdev-slackin.herokuapp.com/) Ottawa
-- ON - [CodePen Ottawa](http://codepen-ott.herokuapp.com/) Ottawa
-- QC - [Sketch MTL](http://sketchmtl.now.sh/) Montreal
+- ON - [TorontoJS](https://torontojs.com/) Toronto JS
 - QC - [Women In Tech Montreal](https://witmgroup-slack.herokuapp.com/) Montreal
 - NS - [Halihax](https://www.halihax.com/) Halifax
 
