@@ -134,7 +134,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
   - [Code Youngstown Slack](http://slack.codeyoungstown.com)
 - WI - **in Wisconsin there are several channels:**
   - [Milwaukee Tech](https://mke-slack.herokuapp.com/)
-  - [NEW (Northeast WI) Slack](http://newslack.appletonmakerspace.org)
+  - [Northeast WI Slack](https://northeastwi.wisconsinlinux.org)
 
 ### The Southeast
 
