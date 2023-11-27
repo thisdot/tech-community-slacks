@@ -167,6 +167,8 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
 - NC
   - [Charlotte Devs](https://slack.charlottedevs.com/) - Charlotte
   - [Triangle Devs](https://triangledevslack.com/) - Raleigh/Durham
+- SC
+  - [HackGreenville](https://hackgreenville.com/join-slack) - Greenville
 - TN
   - [Chadev](https://chadev.com) - Chattanooga
   - [Devanooga](https://www.devanooga.com/slack/) - Chattanooga
