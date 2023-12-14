@@ -509,6 +509,7 @@ Below are some other interesting Slack channels for different technologies and p
 ## Security
 
 - [Node.js Security WG](https://nodejs-security-wg.herokuapp.com)
+- [Falco Security](https://kubernetes.slack.com/messages/falco)
 
 ## Technologies
 
