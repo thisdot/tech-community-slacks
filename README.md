@@ -204,6 +204,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
   - [Santa Barbara Tech Co-op](https://sbtechcoop.slack.com/)
   - [Sacramento Javascript Meetup](https://sac-tech.herokuapp.com/)
 - CO - **in Colorado there are several channels:**
+  - [Colorado Tech Community](https://coloradotech.community/)
   - [Denver Tech Talk](https://denvertechtalk.com/)
   - [Tech Friends](https://www.gettechfriends.com/)
   - [Fort Collins Internet Professionals](http://fcip.slack.com/)
