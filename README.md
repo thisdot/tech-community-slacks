@@ -111,6 +111,7 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
   - [Startup Iowa](http://www.startupiowachat.com/)
   - [WordPress Des Moines](http://wpdsm.org/)(http://wordpressdsm.herokuapp.com/)
 - IL - **In Illinois there are several channels:**
+  - [Chicago Tech Slack](https://www.chicagotechslack.com/)
   - [AWS Chicago](http://slack.chicagoaws.com/)
   - [ChiPy (Chicago Python User Group)](https://www.chipy.org/)
   - [Chicago Tech Diversity Initiative](https://chitechdiversity.slack.com/)
