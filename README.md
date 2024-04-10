@@ -156,6 +156,7 @@ Join these local Slack channels in Alabama, Arkansas, Florida, Georgia, Kentucky
   - [Suncoast Developers Guild](https://suncoast-devs.slack.com/) - St. Petersburg
   - [Tampa Bay Tech](http://tampabaytech.org/slack/) - Tampa Bay
   - [Tampa Devs](https://tampadevs.com) - Tampa Devs
+  - [South Florida Tech Hub](https://techhubsouthflorida.org/) - West Palm Beach
 - GA
   - [TechSAV](https://techsav.co/) - Savannah
   - [Tech 404](http://tech404.io/) - Atlanta
