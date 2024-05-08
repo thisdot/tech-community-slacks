@@ -335,6 +335,8 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 - [React Native Bangalore](http://reactnativebangalore.nativebase.io/) - Meetup group for Bangalore's React Native community
 - [GDG Coimbatore](https://gdgcbe.com/) - GDG Coimbatore is a Coimbatore-based non-profit developers group to learn, share and know more about technologies. The industry is growing like never before, and we're trying to push the community forward to keep up with the industry. We are constantly trying to push ourselves to bring the best of technology to you through sessions and unlimited resources. And this is just the beginning. We have a common channel to communicate with our community members.
 - [SwiftIndia](https://swiftindia.in/community/) - The Swift India Developer Community provides a platform for developers to come together to share their knowledge about Apple technologies, and industry best design & coding standards. Currently, the community has active meet-ups all around India and a dedicated Slack group.
+- [The Product Folks](https://theproductfolks.com/) - The Product Folks is a volunteer-driven community of Product Managers and enthusiasts who are passionate about making an impact and help everyone grow together.
+
 
 ### 🇮🇩 Indonesia
 
