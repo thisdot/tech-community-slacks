@@ -314,6 +314,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 - Montpellier - [Montpellier Tech Community](comm-montpellier.slack.com) active slack of all the tech communities of Montpellier [here to join](https://comm-montpellier-invit.herokuapp.com/)
 - Nantes - [NantesJS](https://join.slack.com/t/nantesjs/shared_invite/enQtMjU0NTcxMzU4MDM2LTMwMjljNjEzMmViYzllOGY5Y2VlMjI4MzMxM2QzZDYwZWRhMDA0YWFjMDgwZDI4NjFhN2Y4NDU4NjMwOWUwOTc)
 - Nantes - [ProductPeopleNantes](https://productpeoplenantes.slack.com)
+- Toulouse - [Toulouse Tech](https://toulouse-tech.slack.com) Toulouse tech community
 
 ### 🇩🇪 Germany
 
