@@ -1,0 +1,11 @@
+name: Send a Slack notification when PRs are opened to alert that a review is needed
+on:
+  pull_request:
+    types:
+      - opened
+jobs:
+  send-slack-notification:
+    if: github.event.pull_request.merged == false
+    uses: thisdot/shared-actions/.github/workflows/pull-request-opened-notify-slack.yml@main
+    secrets:
+      OSS_SLACK_NOTIFICATION_WEBHOOK_URL: ${{ secrets.OSS_SLACK_NOTIFICATION_WEBHOOK_URL }}
