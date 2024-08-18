@@ -496,7 +496,7 @@ Below are some other interesting Slack channels for different technologies and p
 - [Java Dev BR (in Portuguese)](https://javadevbr.herokuapp.com/)
 - [PHP](https://php.ug/slackinvite)
 - [Python developers](http://pythondevelopers.herokuapp.com/)
-- [PySlackers](https://pythondev.slack.com)
+- [PySlackers](https://pythondev.slack.com) - Invites at https://pyslackers.com/web
 - [Ruby Developers](https://rubydevs.herokuapp.com/)
 - [Ruby on Rails](http://www.rubyonrails.link/)
 - [Strapi](http://slack.strapi.io/)
