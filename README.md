@@ -111,16 +111,21 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
   - [Startup Iowa](http://www.startupiowachat.com/)
   - [WordPress Des Moines](http://wpdsm.org/)(http://wordpressdsm.herokuapp.com/)
 - IL - **In Illinois there are several channels:**
-  - [AWS Chicago](http://slack.chicagoaws.com/)
+  - [AWS Chicago](https://www.chicagoaws.com/)
   - [ChiPy (Chicago Python User Group)](https://www.chipy.org/)
-  - [Chicago Tech Diversity Initiative](https://chitechdiversity.slack.com/)
+  - [Chicago Engineering and Tech Communities and Organizations](https://github.com/driscoll42/chicago-engineering-and-tech-communities) - Contains a list of active Chicago based slacks/discords
+  - [Chicago Tech Diversity Initiative](http://www.chitechdiversity.com/)
+  - [Chicago Tech Slack](https://join.slack.com/t/chicago-tech/shared_invite/zt-1cb3mexrp-Ri0DCePyYaXSuEg8qPUCTA)
 - IN - [Indy Hackers](http://indyhackers-slack.herokuapp.com/)
 - KS - [devICT](https://devict-slackin.herokuapp.com/)
 - KY - [Louisville.io] (http://louisville.io) & (http://louisville.slack.com)
 - MI - **In Michigan there are several amazing channels:**
   - [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
   - [Detroit Speakers in Tech](https://tinyurl.com/Join-DSIT-Slack) in Detroit area
-- MN - [MSPTech](http://www.msptech.online/)
+- MN - [Minnestar](https://minnestar.org/) - Must request access through an email to the org or existing user
+  - [MSPTech](https://join.slack.com/t/msptech/shared_invite/zt-2ovyjlbcz-P7trwDrsh5YoeEctsrtdjQ)
+  - [MSP Tech](https://www.meetup.com/msp-tech/)
+  - [PyMNtos](https://www.meetup.com/pymntos-twin-cities-python-user-group/)
   - [Twin Cities Chaos Engineering Community](http://twincities-chaosengr.slack.com)
 - MO - **In Missouri there are several channels:**
   - [KC Tech Group](https://kctechgroup.org/)
