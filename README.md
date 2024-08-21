@@ -468,6 +468,7 @@ Below are some other interesting Slack channels for different technologies and p
 - [Angular Beers](https://slackin.angularbeers.org/)
 - [Angular Chat](https://angularchat.co/)
 - [BabelJS](https://slack.babeljs.io/)
+- [Drupal](https://www.drupal.org/join-slack) - More details at https://www.drupal.org/community/contributor-guide/reference-information/talk/tools/slack
 - [EmberJS](https://ember-community-slackin.herokuapp.com/)
 - [FeathersJS](http://slack.feathersjs.com/)
 - [Hashtag NodeJS](https://hashtagnodejs.slack.com/messages/C066268AG/)
