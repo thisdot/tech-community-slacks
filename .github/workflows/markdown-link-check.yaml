@@ -1,0 +1,27 @@
+name: Markdown Link Check
+
+on:
+  pull_request:
+    branches:
+      - main
+      - master  # Adjust based on your default branch
+
+jobs:
+  link-check:
+    name: Check Markdown Links
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Markdown Link Checker
+        run: python .github/hooks/pre-commit
