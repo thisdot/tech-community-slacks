@@ -73,8 +73,6 @@ If you would like to add to the list, please see our [contribution guidelines](.
   - [Women](#women)
   - [Misc Interest](#misc-interest)
   - [Community Groups](#community-groups)
-  - [Blogging](#blogging)
-  - [Resources](#resources)
 
 # List of Slack Channels for local communities by region
 
@@ -95,7 +93,7 @@ If you live in Delaware, Maryland, New Jersey, New York, Pennsylvania or Washing
   - Philadelphia: [Philly Startup Leaders](https://www.sendgrowth.com/psl/) and [PhillyDev](https://phillydev.org/) and [Code for Philly](https://codeforphilly.org/register) and [Phl Design](https://docs.google.com/forms/d/e/1FAIpQLScaAROJx4kZQ7cPhATWWhfmpHK3YP6ourLgPalPwRqIMI1bmg/viewform?c=0&w=1)
   - Northeast: [NEPA Tech & NEPA.js](https://nepatech.slack.com/) and [Wilkes-Barre Programming Community](https://wbpc-meetup.slack.com/)
   - Pittsburgh: [Code & Supply](https://codeandsupply.co/chat)
-  - Lancaster: [Lancaster Technologists](amishtech.slack.com)
+  - Lancaster: [Lancaster Technologists](https://amishtech.slack.com)
 
 ### The Midwest
 
@@ -443,7 +441,7 @@ From Alaska, Hawaii and Washington down to California there are several local ch
 
 ### 🇺🇾 Uruguay
 
-- Open Web Uruguay - [Web and Mobile Development Community on Slack](owu.slack.com)
+- Open Web Uruguay - [Web and Mobile Development Community on Slack](https://owu.slack.com)
 
 ### 🇺🇦 Ukraine
 
@@ -595,16 +593,7 @@ Below are some other interesting Slack channels for different technologies and p
 - [iOS Developer Community channel](https://ios-developers.slack.com)
 - [Android developer Community Channel](https://android-united.slack.com)
 - [Community Chat](https://comm.chat)
-- [LeadDev](theleaddeveloper.slack.com)
+- [LeadDev](https://theleaddeveloper.slack.com)
 - [CTO Craft](https://ctocraft.com)
-- [TechYeet](techyeet.slack.com) - TechYeet is an invite-only slack community that brings members together for fun to see what innovative ideas and professional opportunities ensue.
+- [TechYeet](https://techyeet.slack.com) - TechYeet is an invite-only slack community that brings members together for fun to see what innovative ideas and professional opportunities ensue.
 
-## Blogging
-
-- [Programming Bloggers](https://programmingbloggers.herokuapp.com/)
-
-## Resources
-
-- [Scotch.io](https://scotch-slack.herokuapp.com/)
-- [Spec](https://spec.fm/slack)
-- [HackerX](https://karangoel.typeform.com/to/mEl3P9)
