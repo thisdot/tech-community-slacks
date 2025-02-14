@@ -1,0 +1,55 @@
+#!/usr/bin/env python3
+import re
+import requests
+import subprocess
+import sys
+import os
+
+def check_links(file_path):
+    with open(file_path, 'r') as file:
+        content = file.read()
+
+    # Regex to find Markdown links
+    markdown_link_regex = r'\[([^\]]+)\]\((http[s]?://[^)]+)\)'
+    links = re.findall(markdown_link_regex, content)
+
+    broken_links = []
+    for label, url in links:
+        try:
+            response = requests.head(url, allow_redirects=True, timeout=10)
+            if response.status_code >= 400:
+                broken_links.append((label, url))
+        except requests.RequestException:
+            broken_links.append((label, url))
+
+    return broken_links
+
+def get_markdown_files():
+    """Returns a list of Markdown files to check in both local and CI/CD environments."""
+    if os.getenv("GITHUB_ACTIONS"):  # Running in GitHub Actions
+        result = subprocess.run(
+            ["git", "ls-files", "*.md"], capture_output=True, text=True
+        )
+        return result.stdout.split()
+    else:  # Running as a pre-commit hook locally
+        result = subprocess.run(
+            ["git", "diff", "--cached", "--name-only"], capture_output=True, text=True
+        )
+        return [f for f in result.stdout.split() if f.endswith('.md')]
+
+def main():
+    markdown_files = get_markdown_files()
+
+    exit_code = 0
+    for file_path in markdown_files:
+        broken_links = check_links(file_path)
+        if broken_links:
+            print(f"❌ Error: Broken links found in {file_path}:")
+            for label, url in broken_links:
+                print(f"  - [{label}]({url})")
+            exit_code = 1
+
+    sys.exit(exit_code)
+
+if __name__ == "__main__":
+    main()
